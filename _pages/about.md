@@ -34,7 +34,7 @@ Research Interests
 
 Project Experience 
 ======
-*  5G-Solutions (EU H2020), WP Lead, Proposal Funded, Grant €600k+
+*  [5G-Solutions](https://www.5gsolutionsproject.eu/) (EU H2020), WP Lead, Proposal Funded, Grant €600k+
 *  Aware (EU H2020), Task Lead, Proposal Funded, Grant €300k+
 *  CoSafe-TE (EU H2020), WP Lead, Proposal Submitted, Passed First Phase 
 *  ICONET (EU H2020), Task Tech Lead
