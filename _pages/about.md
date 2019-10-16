@@ -32,6 +32,18 @@ Research Interests
 *  Centralized, Decentralized, Distributed Control, Algorithms, Optimization 
 *  Electric Vehicles, Smart Grids, Intelligent Transportation Systems, Smart Cities 
 
+Project Experience 
+======
+*  5G-Solutions (EU H2020), WP Lead, Proposal Funded, Grant €600k+
+*  Aware (EU H2020), Task Lead, Proposal Funded, Grant €300k+
+*  CoSafe-TE (EU H2020), WP Lead, Proposal Submitted, Passed First Phase 
+*  ICONET (EU H2020), Task Tech Lead
+*  VI-DAS (EU H2020), WP Tech Lead
+*  Chariot (EU H2020), Task Tech Contributor 
+*  COPKIT (EU H2020), Task Tech Contributor 
+*  Enable-S3 (EU H2020), Task Tech Contributor
+*  Green Transportation and Networks (SFI), Task Tech Contributor
+
 
 Recent News
 ======
