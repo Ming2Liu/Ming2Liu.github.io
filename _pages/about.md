@@ -21,8 +21,7 @@ where I spent almost three years working on both EU and SFI funded projects, inc
  
 I received my B.Eng. degree with first class honours from the Department of Electronic Engineering at the National University of Ireland Maynooth in 2011, and then the PhD degree from the Hamilton Institute from same university in 2015 with my thesis entitled “Topics in Electromobility and Related Applications”, under the supervision of Prof. Robert Shorten (Professor of Imperial College London at present) and Prof. Sean McLoone (Professor of Queen's University Belfast at present). 
 
-I am an IEEE member and an active reviewer in my research fields. I served as an organizing committee co-chair for the 5th IEEE WF-IoT conference in 2019. I have published several top-tier journals and conferences to date, including “IEEE Transactions on Smart Grid”, “IEEE Transactions on Intelligent Transportation System”, 
-“IEEE Transactions on Automation Science and Engineering”, and “Automatica”.
+I am an IEEE member and an active reviewer in my research fields. I served as an organizing committee co-chair for the 5th IEEE WF-IoT conference in 2019. I have published several top-tier journals and conference papers to date, including “IEEE Transactions on Smart Grid”, “IEEE Transactions on Intelligent Transportation System”, “IEEE Transactions on Automation Science and Engineering”, and “Automatica”.
 
 
 Research Interests
