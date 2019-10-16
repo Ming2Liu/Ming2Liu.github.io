@@ -86,8 +86,8 @@ author:
   location         : "Dublin, Ireland"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=woHxot0AAAAJ&hl=en&oi=ao"
-  email            : "mingming.liu@dcu.ie"
-  researchgate     :
+#  email            : "mingming.liu@dcu.ie"
+  researchgate     : "https://www.researchgate.net/profile/Mingming_Liu15"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,11 +99,11 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  linkedin         :
+  linkedin         :  "https://www.linkedin.com/in/liumingming/"
 #  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+#  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          :
