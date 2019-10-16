@@ -13,9 +13,9 @@ redirect_from:
 </p>
 
 
-Dr. Mingming Liu is currently an Assistant Professor in the [School of Electronic Engineering](http://ece.eeng.dcu.ie/) at [Dublin City University(DCU)](https://www.dcu.ie/). 
+Dr. Mingming Liu is currently an Assistant Professor in the [School of Electronic Engineering](http://ece.eeng.dcu.ie/) at [Dublin City University (DCU)](https://www.dcu.ie/). 
 
-I was a data scientist, applied researcher, and H2020 project lead (5G Solutions) at [IBM Ireland Lab](https://www.ibm.com/ie-en), where the main focus of my work was to leverage the state-of-the-art machine learning and applied optimisation techniques for practical
+I was a data scientist, applied researcher, and H2020 project lead ([5G-Solutions](https://www.5gsolutionsproject.eu/)) at [IBM Ireland Lab](https://www.ibm.com/ie-en), where the main focus of my work was to leverage the state-of-the-art machine learning and applied optimisation techniques for practical
 and challenging problems arising in the industry. Before IBM, I joined [University College Dublin](http://www.ucd.ie/) as a postdoctoral researcher then a senior postdoctoral researcher with the [Control Engineering and Decision Science Research Group](http://smarttransport.ucd.ie/wordpress/) within the School of Electrical and Electronic Engineering, 
 where I spent almost three years working on both EU and SFI funded projects, including [Green Transportation and Networks](https://www.hamilton.ie/new-3m-research-project-in-green-transport-and-communications-networks-announced.htm) (SFI) and [Enable-S3](https://www.enable-s3.eu/) (H2020), with strong collaborations with both academia and industry.
  
