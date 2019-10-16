@@ -37,12 +37,12 @@ Project Experience
 *  [5G-Solutions](https://www.5gsolutionsproject.eu/) (EU H2020), WP Lead, Proposal Funded, Grant €600k+
 *  Aware (EU H2020), Task Lead, Proposal Funded, Grant €300k+
 *  CoSafe-TE (EU H2020), WP Lead, Proposal Submitted, Passed First Phase 
-*  ICONET (EU H2020), Task Tech Lead
-*  VI-DAS (EU H2020), WP Tech Lead
-*  Chariot (EU H2020), Task Tech Contributor 
-*  COPKIT (EU H2020), Task Tech Contributor 
-*  Enable-S3 (EU H2020), Task Tech Contributor
-*  Green Transportation and Networks (SFI), Task Tech Contributor
+*  [ICONET](https://www.iconetproject.eu/) (EU H2020), Task Tech Lead
+*  [VI-DAS](http://www.vi-das.eu/) (EU H2020), WP Tech Lead
+*  [Chariot](https://www.chariotproject.eu/) (EU H2020), Task Tech Contributor 
+*  [COPKIT](https://copkit.eu/) (EU H2020), Task Tech Contributor 
+*  [Enable-S3](https://www.enable-s3.eu/) (EU H2020), Task Tech Contributor
+*  [Green Transportation and Communication Networks](https://www.hamilton.ie/new-3m-research-project-in-green-transport-and-communications-networks-announced.htm) (SFI), Task Tech Contributor
 
 
 Recent News
