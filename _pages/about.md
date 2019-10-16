@@ -32,6 +32,7 @@ Research Interests
 *  Centralized, Decentralized, Distributed Control, Algorithms, Optimization 
 *  Electric Vehicles, Smart Grids, Intelligent Transportation Systems, Smart Cities 
 
+
 Project Experience 
 ======
 *  Aware (EU H2020), Task Lead, Proposal Funded, Grant €300k+
