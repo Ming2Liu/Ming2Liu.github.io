@@ -13,15 +13,15 @@ redirect_from:
 </p>
 
 
-Dr. Mingming Liu is currently an Assistant Professor in the School of Electronic Engineering at Dublin City University (DCU). 
+Dr. Mingming Liu is currently an Assistant Professor in the [School of Electronic Engineering](http://ece.eeng.dcu.ie/) at [Dublin City University(DCU)](https://www.dcu.ie/). 
 
-I was a data scientist, applied researcher, and H2020 project lead (5G Solutions) at IBM Ireland Lab, where the main focus of my work was to leverage the state-of-the-art machine learning and applied optimisation techniques for practical
-and challenging problems arising in the industry. Before IBM, I joined University College Dublin as a postdoctoral researcher then a senior postdoctoral researcher with the Control Engineering and Decision Science Research Group within the School of Electrical and Electronic Engineering, 
-where I spent almost three years working on both EU and SFI funded projects, including Green Transportation and Networks (SFI) and Enable-S3 (H2020), with strong collaborations with both academia and industry.
+I was a data scientist, applied researcher, and H2020 project lead (5G Solutions) at [IBM Ireland Lab](https://www.ibm.com/ie-en), where the main focus of my work was to leverage the state-of-the-art machine learning and applied optimisation techniques for practical
+and challenging problems arising in the industry. Before IBM, I joined [University College Dublin](http://www.ucd.ie/) as a postdoctoral researcher then a senior postdoctoral researcher with the [Control Engineering and Decision Science Research Group](http://smarttransport.ucd.ie/wordpress/) within the School of Electrical and Electronic Engineering, 
+where I spent almost three years working on both EU and SFI funded projects, including [Green Transportation and Networks](https://www.hamilton.ie/new-3m-research-project-in-green-transport-and-communications-networks-announced.htm) (SFI) and [Enable-S3](https://www.enable-s3.eu/) (H2020), with strong collaborations with both academia and industry.
  
-I received my B.Eng. degree with first class honours from the Department of Electronic Engineering at the National University of Ireland Maynooth in 2011, and then the PhD degree from the Hamilton Institute from same university in 2015 with my thesis entitled “Topics in Electromobility and Related Applications”, under the supervision of Prof. Robert Shorten (Professor of Imperial College London at present) and Prof. Sean McLoone (Professor of Queen's University Belfast at present). 
+I received my B.Eng. degree with first class honours from the [Department of Electronic Engineering](https://www.maynoothuniversity.ie/electronic-engineering) at the [National University of Ireland Maynooth](https://www.maynoothuniversity.ie/) in 2011, and then the PhD degree from the [Hamilton Institute](https://www.maynoothuniversity.ie/hamilton) from same university in 2015 with my thesis entitled [“Topics in Electromobility and Related Applications”](http://mural.maynoothuniversity.ie/6522/), under the supervision of [Prof. Robert Shorten](https://ROBERTshorten.com) (Professor of Imperial College London at present) and [Prof. Sean McLoone](https://www.qub.ac.uk/research-centres/EPIC/Profile/?name=s.mcloone) (Professor of Queen's University Belfast at present). 
 
-I am an IEEE member and an active reviewer in my research fields. I served as an organizing committee co-chair for the 5th IEEE WF-IoT conference in 2019. I have published several top-tier journals and conference papers to date, including “IEEE Transactions on Smart Grid”, “IEEE Transactions on Intelligent Transportation System”, “IEEE Transactions on Automation Science and Engineering”, and “Automatica”.
+I am an IEEE member and an active reviewer in my research fields. I served as an organizing committee co-chair for the [5th IEEE WF-IoT](https://wfiot2019.iot.ieee.org/) conference in 2019. I have published several top-tier journals and conference papers to date, including “IEEE Transactions on Smart Grid”, “IEEE Transactions on Intelligent Transportation System”, “IEEE Transactions on Automation Science and Engineering”, and “Automatica”.
 
 
 Research Interests
@@ -34,9 +34,9 @@ Research Interests
 
 Project Experience 
 ======
-*  [5G-Solutions](https://www.5gsolutionsproject.eu/) (EU H2020), WP Lead, Proposal Funded, Grant €600k+
 *  Aware (EU H2020), Task Lead, Proposal Funded, Grant €300k+
 *  CoSafe-TE (EU H2020), WP Lead, Proposal Submitted, Passed First Phase 
+*  [5G-Solutions](https://www.5gsolutionsproject.eu/) (EU H2020), WP Lead, Proposal Funded, Grant €600k+
 *  [ICONET](https://www.iconetproject.eu/) (EU H2020), Task Tech Lead
 *  [VI-DAS](http://www.vi-das.eu/) (EU H2020), WP Tech Lead
 *  [Chariot](https://www.chariotproject.eu/) (EU H2020), Task Tech Contributor 
