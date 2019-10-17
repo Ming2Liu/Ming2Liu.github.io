@@ -13,7 +13,7 @@ author_profile: true
 * Computation and Simulation (3rd year, NUI Maynooth)
 * Control System Analysis (4th year, DCU)
 
-Supervision Experience
+Supervision
 ======
 
 * A. Herrmann (ME in Electronic and Computer, UCD, Co-supervision with R.Shorten)

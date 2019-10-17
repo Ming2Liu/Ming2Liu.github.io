@@ -28,3 +28,6 @@ Skills
 * Control: Classical PI/D control, Modern Optimal Control Engineering
 * Optimisation: Linear and Quadratic Programming, Distributed Constraint Optimisation on Networked Agents, CPLEX and CVXOPT for Optimisation 
 
+
+Qualifications
+======
