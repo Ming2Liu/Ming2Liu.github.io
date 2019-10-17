@@ -6,7 +6,7 @@ date: 2018-09-18
 venue: 'IEEE Transactions on Intelligent Transportation Systems'
 ---
 
-[PDF](http://ming2liu.github.io/files/dismarkov.pdf)
+[PDF Available Here](http://ming2liu.github.io/files/dismarkov.pdf)
 
 ## Abstract
 
