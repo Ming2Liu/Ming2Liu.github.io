@@ -31,6 +31,6 @@ Reviewer
 *  International Journal of Electrical Power and Energy System
 *  IEEE ICNP 2017 conference
 *  Irish Signals and Systems Conference 
-*  First International Workshop on Urban Reasoning, European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD) 
+*  First International Workshop on Urban Reasoning (in conjunction with ECML-PKDD)
 
 

@@ -31,3 +31,10 @@ Skills
 
 Qualifications
 ======
+
+*  Agile Explorer, IBM
+*  Cognitive Practitioner, IBM
+*  Machine Learning with Python, IBM
+*  Deep Learning, IBM
+*  Python for Data Science, IBM
+*  Certified Interviewer, IBM
