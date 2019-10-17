@@ -5,9 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Teaching Experience
-======
-
 * Computer Architecture (2nd year, CCZU)
 * Foundations of digital electronic circuit (2nd year, CCZU)
 * System Dyanmics (2nd year, NUI Maynooth)
@@ -19,6 +16,6 @@ Teaching Experience
 Supervision Experience
 ======
 
-A. Herrmann (ME in Electronic and Computer, UCD, Co-supervision with R.Shorten)
-Y. Gu (Ph.D in Electrical and Electronic Engineering, UCD, Mentor & Co-Supervision with R. Shorten)
-Z. Murphy (B.Eng in Electronic Engineering, DCU, Principle Supervisor)
+* A. Herrmann (ME in Electronic and Computer, UCD, Co-supervision with R.Shorten)
+* Y. Gu (Ph.D in Electrical and Electronic Engineering, UCD, Mentor & Co-Supervision with R. Shorten)
+* Z. Murphy (B.Eng in Electronic Engineering, DCU, Principle Supervisor)
