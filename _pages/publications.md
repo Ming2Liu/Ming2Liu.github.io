@@ -21,4 +21,11 @@ J.P. Epperlein, J. Monteil, <b>M. Liu</b>, Y. Gu, S. Zhuk, R. Shorten
 <i>21st International Conference on Intelligent Transportation System</i>. <b>ITSC 2018</b>.
 
 
+<b>[On the Design of an Intelligent Speed Advisory System for Cyclists](http://ming2liu.github.io/publications/sasc)</b> <br> 
+Y. Gu, <b>M. Liu</b>, M. Souza, R. Shorten
+<i>21st International Conference on Intelligent Transportation Systems (ITSC)</i>, <b>ITSC 2018</b>.
+
+
+
+
 
