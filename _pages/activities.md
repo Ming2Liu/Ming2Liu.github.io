@@ -4,9 +4,8 @@ permalink: /activities/
 author_profile: true
 ---
 
-Organisation 
+Organisation
 ======
-
 *  IEEE Member
 *  IEEE Power & Energy Socieity Member
 *  IEEE ICNP 2017 Technical Programme Committee Member 
