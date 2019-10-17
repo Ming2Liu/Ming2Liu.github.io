@@ -1,7 +1,6 @@
 ---
 layout: archive
-title: "Activities"
-permalink: /talks/
+permalink: /activities/
 author_profile: true
 ---
 
@@ -21,7 +20,7 @@ Technical Talks
 *  Consensus Based Optimal Control with Applications to Intelligent Transportation Systems (IBM Innovation Exchange)
 *  Cooperative or Non-Cooperative Optimisation? A Smart Grid Case Study (IBM Innovation Exchange)
 
-Reviewer
+Scientific Reviewer
 ======
 
 *  Energies 
