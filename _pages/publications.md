@@ -11,4 +11,7 @@ You can also find my papers on [my Google Scholar Page](https://scholar.google.c
 <i>IEEE Transactions on Intelligent Transportation Systems</i>. <b>ITS 2018</b>. <span style="color:red">(Regular Paper)</span>
 
 
+<b>[Identification of New Patterns in Urban Traffic System](http://ming2liu.github.io/publications/pattern)</b> <br> 
+Y. Gu, E. Crisostomi, <b>M. Liu</b>, R. Shorten
+<i>IEEE Conference on Control Technology and Applications</i>. <b>CCTA 2018</b>. <span style="color:red">(Invited Paper)</span>
 
