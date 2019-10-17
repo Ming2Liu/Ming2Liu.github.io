@@ -15,3 +15,10 @@ You can also find my papers on [my Google Scholar Page](https://scholar.google.c
 Y. Gu, E. Crisostomi, <b>M. Liu</b>, R. Shorten
 <i>IEEE Conference on Control Technology and Applications</i>. <b>CCTA 2018</b>. <span style="color:red">(Invited Paper)</span>
 
+
+<b>[Bayesian classifier for Route prediction with Markov chains](http://ming2liu.github.io/publications/baye)</b> <br> 
+J.P. Epperlein, J. Monteil, <b>M. Liu</b>, Y. Gu, S. Zhuk, R. Shorten
+<i>21st International Conference on Intelligent Transportation System</i>. <b>ITSC 2018</b>.
+
+
+
