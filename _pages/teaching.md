@@ -1,10 +1,11 @@
 ---
 layout: archive
-title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
 
+Teaching
+======
 * Computer Architecture (2nd year, CCZU)
 * Foundations of digital electronic circuit (2nd year, CCZU)
 * System Dyanmics (2nd year, NUI Maynooth)
