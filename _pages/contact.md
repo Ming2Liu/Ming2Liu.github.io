@@ -12,5 +12,5 @@ Glasnevin, Dublin 9, Ireland <br>
 <b>Email</b>: mingming[dot]liu[at]dcu[dot]ie
 
 <p align="left">
-  <img src="https://ming2liu.github.io/images/DCU.jpg" alt="Photo" style="width: 360px;"/> 
+  <img src="https://ming2liu.github.io/images/DCU.jpg" alt="Photo" style="width: 388px;"/> 
 </p>
