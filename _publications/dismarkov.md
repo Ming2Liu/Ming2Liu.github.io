@@ -22,13 +22,13 @@ provided using the road network of the city of Dublin, Ireland.
 
 ## Citation
 
-@article{liu2018distributed,
-  title={A Distributed Markovian Parking Assist System},
-  author={Liu, Mingming and Naoum-Sawaya, Joe and Gu, Yingqi and Lecue, Freddy and Shorten, Robert},
-  journal={IEEE Transactions on Intelligent Transportation Systems},
-  volume={20},
-  number={6},
-  pages={2230--2240},
-  year={2018},
-  publisher={IEEE}
+@article{liu2018distributed, <br>
+  title={A Distributed Markovian Parking Assist System},<br>
+  author={Liu, Mingming and Naoum-Sawaya, Joe and Gu, Yingqi and Lecue, Freddy and Shorten, Robert},<br>
+  journal={IEEE Transactions on Intelligent Transportation Systems},<br>
+  volume={20},<br>
+  number={6},<br>
+  pages={2230--2240},<br>
+  year={2018},<br>
+  publisher={IEEE}<br>
 }
