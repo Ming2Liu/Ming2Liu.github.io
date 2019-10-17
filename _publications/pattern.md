@@ -1,7 +1,7 @@
 ---
 title: "Identification of New Patterns in Urban Traffic Flows"
 collection: publications
-permalink: /publication/pattern/
+permalink: /publications/pattern
 date: 2018-09-18
 venue: 'IEEE Conference on Control Technology and Applications (CCTA)'
 ---

@@ -1,7 +1,7 @@
 ---
 title: "A Distributed Markovian Parking Assist System"
 collection: publications
-permalink: /publication/dismarkov/
+permalink: /publications/dismarkov
 date: 2018-09-18
 venue: 'IEEE Transactions on Intelligent Transportation Systems'
 ---
