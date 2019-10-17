@@ -4,9 +4,7 @@ permalink: /activities/
 author_profile: true
 ---
 
-Organisation
-======
-*  IEEE Member
+*  IEEE Membe
 *  IEEE Power & Energy Socieity Member
 *  IEEE ICNP 2017 Technical Programme Committee Member 
 *  5th IEEE WF-IoT Conference Organising Committee Co-Chair & Automotive Track Co-Chair
