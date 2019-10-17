@@ -8,27 +8,23 @@ Full CV can be requested if applicable.
 
 Education
 ======
-* B.Eng. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Hamilton Institute, Control Engineering and Optimization, National University of Ireland Maynooth, 2015
+* B.Eng (1st Hons) in Electronic Engineering, National University of Ireland Maynooth, 2011
 
-Work experience
+
+Employment 
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Data Scientist, Applied Researcher, H2020 Tech Lead at IBM Ireland Lab, 2018-2019
+* Senior Postdoctoral Research Fellow, University College Dublin, 2017-2018
+* Postdoctoral Research Fellow, University College Dublin, 2015-2017
+* Research and Teaching Assistant, National University of Ireland Maynooth, 2011-2015
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* OS: Linux, Mac, MS Windows
+* Programming: Python, Matlab & Simulink, C/C++, Java, VHDL
+* ML&DL: Numpy, Scipy, Sci-Kit Learn, Tensorflow, Keras, Theano, PyTorch & Fastai 
+* Control: Classical PI/D control, Modern Optimal Control Engineering
+* Optimisation: Linear and Quadratic Programming, Distributed Constraint Optimisation on Networked Agents, CPLEX and CVXOPT for Optimisation 
+
