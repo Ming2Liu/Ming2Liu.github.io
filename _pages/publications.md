@@ -35,6 +35,10 @@ A. Herrmann, <b>M. Liu</b>, F. Pilla, R. Shorten
 Y. Gu, <b>M. Liu</b>, J.N. Sawaya, E. Crisostomi, G. Russo, R. Shorten 
 <i>IEEE Transactions on Intelligent Transportation Systems</i>, <b>ITS 2018</b>.
 
-TBD
+
+<b>On the stability and convergence of a class of consensus systems with a nonlinear input</b> <br> 
+<b>M Liu</b>, F Wirth, M Corless, R Shorten
+<i>Automatica</i>.
+
 
 
