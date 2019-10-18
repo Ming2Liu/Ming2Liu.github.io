@@ -31,6 +31,10 @@ A. Herrmann, <b>M. Liu</b>, F. Pilla, R. Shorten
 <i>IEEE Transactions on Intelligent Transportation Systems</i>, <b>ITS 2018</b>.
 
 
+<b>[Pedestrian-aware engine management strategies for plug-in hybrid electric vehicles](http://ming2liu.github.io/publications/pedes)</b> <br> 
+Y. Gu, <b>M. Liu</b>, J.N. Sawaya, E. Crisostomi, G. Russo, R. Shorten 
+<i>IEEE Transactions on Intelligent Transportation Systems</i>, <b>ITS 2018</b>.
+
 
 
 
