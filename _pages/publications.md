@@ -26,5 +26,12 @@ Y. Gu, <b>M. Liu</b>, M. Souza, R. Shorten
 <i>21st International Conference on Intelligent Transportation Systems (ITSC)</i>, <b>ITSC 2018</b>.
 
 
+<b>[A new take on protecting cyclists in smart cities](http://ming2liu.github.io/publications/newtake)</b> <br> 
+A. Herrmann, <b>M. Liu</b>, F. Pilla, R. Shorten
+<i>IEEE Transactions on Intelligent Transportation Systems</i>, <b>ITS 2018</b>.
+
+
+
+
 
 
