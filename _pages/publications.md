@@ -36,7 +36,7 @@ Y. Gu, <b>M. Liu</b>, J.N. Sawaya, E. Crisostomi, G. Russo, R. Shorten
 <i>IEEE Transactions on Intelligent Transportation Systems</i>, <b>ITS 2018</b>.
 
 
-<b>On the stability and convergence of a class of consensus systems with a nonlinear input</b> <br> 
+<b>[On the stability and convergence of a class of consensus systems with a nonlinear input](http://ming2liu.github.io/publications/maths)</b> <br> 
 <b>M Liu</b>, F Wirth, M Corless, R Shorten
 <i>Automatica</i>.
 
