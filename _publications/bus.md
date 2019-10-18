@@ -2,7 +2,7 @@
 title: "Smart Procurement of Naturally Generated Energy (SPONGE) for Plug-in Hybrid Electric Buses"
 collection: publications
 permalink: /publications/bus
-date: 2017
+date: 2016
 venue: 'IEEE Transactions on Automation Science and Engineering'
 ---
 
