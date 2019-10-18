@@ -6,7 +6,7 @@ date: 2018-01-01
 venue: 'IEEE Transactions on Intelligent Transportation Systems'
 ---
 
-[[PDF Available]](http://ming2liu.github.io/files/newtake.pdf)
+[[PDF Available]](http://ming2liu.github.io/files/pedes.pdf)
 
 ## Abstract
 
