@@ -41,4 +41,14 @@ Y. Gu, <b>M. Liu</b>, J.N. Sawaya, E. Crisostomi, G. Russo, R. Shorten
 <i>Automatica</i>.
 
 
+<b>[Smart procurement of naturally generated energy (sponge) for plug-in hybrid electric buses](http://ming2liu.github.io/publications/bus)</b> <br> 
+J.N. Sawaya, E. Crisostomi, <b>M. Liu</b>, Y. Gu, R Shorten
+<i>IEEE Transactions on Automation Science and Engineering</i>.
+
+
+
+
+
+
+
 
