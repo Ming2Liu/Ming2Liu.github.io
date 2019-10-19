@@ -86,6 +86,7 @@ E. Crisostomi, <b>M. Liu</b>, M. Raugi, R. Shorten,
 <i>IEEE Transactions on Smart Grid</i>
 
 
+
 <b>[Distributed consensus charging for current unbalance reduction](http://ming2liu.github.io/publications/unbalance)</b> <br> 
 <b>M. Liu</b>, P. McNamara, R. Shorten, S. McLoone,
 <i>19th IFAC World Congress</i>, <b>IFAC 2014</b>
