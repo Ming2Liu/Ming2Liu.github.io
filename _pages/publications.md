@@ -46,8 +46,49 @@ J.N. Sawaya, E. Crisostomi, <b>M. Liu</b>, Y. Gu, R Shorten,
 <i>IEEE Transactions on Automation Science and Engineering</i>.
 
 
+<b>[A distributed and privacy-aware speed advisory system for optimizing conventional and electric vehicle networks](http://ming2liu.github.io/publications/sas)</b> <br> 
+<b>M. Liu</b>, R.H. Hurtado, F. Wirth, Y. Gu, E. Crisostomi, R Shorten,
+<i>IEEE Transactions on Intelligent Transportation Systems</i>, <b>ITS 2015</b>.
 
 
+<b>[An intelligent speed advisory system for electric vehicles](http://ming2liu.github.io/publications/sasconf)</b> <br> 
+<b>M. Liu</b>, R.H. Hurtado, F. Wirth, Y. Gu, E. Crisostomi, R Shorten,
+<i>International Conference on Connected Vehicles and Expo</i>, <b>ICCVE 2015</b>.
+
+
+<b>[Enhanced AIMD-based decentralized residential charging of EVs](http://ming2liu.github.io/publications/enAIMD)</b> <br> 
+<b>M. Liu</b>, S. McLoone,
+<i>Transactions of Institute of Measurement and Control</i>, <b>TIMC 2015</b>.
+
+
+<b>[Residential electrical vehicle charging strategies: the good, the bad and the ugly](http://ming2liu.github.io/publications/strategies)</b> <br> 
+<b>M. Liu</b>, P. McdNamara, R. Shorten, S. McLoone,
+<i>Journal of Modern Power Systems and Clean Energy</i>. 
+
+
+<b>[Topics in Electromobility and Related Applications](http://ming2liu.github.io/publications/thesis)</b> <br> 
+<b>M. Liu</b>
+<i>National University of Ireland Maynooth</i>, <span style="color:red">(PhD Thesis)</span>
+
+
+<b>[Optimal distributed consensus algorithm for fair V2G power dispatch in a microgrid](http://ming2liu.github.io/publications/v2g)</b> <br> 
+<b>M. Liu</b>, E. Crisostomi, Y. Gu, R. Shorten,
+<i>IEEE International Electric Vehicule Conference</i>, <b>IEVC 2014</b>
+
+
+<b>[Optimal consensus for highway speed limites via intelligent speed advisory systems](http://ming2liu.github.io/publications/hsas)</b> <br> 
+Y. Gu, <b>M. Liu</b>, E. Crisostomi, R. Shorten,
+<i>International Conference on Connected Vehicles and Expo</i>, <b>ICCVE 2014</b>
+
+
+<b>[Plug-and-play distributed algorithms for optimized power generation in a microgrid](http://ming2liu.github.io/publications/grid)</b> <br> 
+E. Crisostomi, <b>M. Liu</b>, M. Raugi, R. Shorten,
+<i>IEEE Transactions on Smart Grid</i>
+
+
+<b>[Distributed consensus charging for current unbalance reduction](http://ming2liu.github.io/publications/unbalance)</b> <br> 
+<b>M. Liu</b>, P. McNamara, R. Shorten, S. McLoone,
+<i>19th IFAC World Congress</i>, <b>IFAC 2014</b>
 
 
 
