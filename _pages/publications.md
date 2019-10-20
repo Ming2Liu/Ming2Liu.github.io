@@ -76,7 +76,7 @@ J.N. Sawaya, E. Crisostomi, <b>M. Liu</b>, Y. Gu, R Shorten,
 <i>IEEE International Electric Vehicule Conference</i>, <b>IEVC 2014</b>
 
 
-<b>[Optimal consensus for highway speed limites via intelligent speed advisory systems](http://ming2liu.github.io/publications/hsas)</b> <br> 
+<b>[Optimal consensus for highway speed limits via intelligent speed advisory systems](http://ming2liu.github.io/publications/hsas)</b> <br> 
 Y. Gu, <b>M. Liu</b>, E. Crisostomi, R. Shorten,
 <i>International Conference on Connected Vehicles and Expo</i>, <b>ICCVE 2014</b>
 
@@ -84,7 +84,6 @@ Y. Gu, <b>M. Liu</b>, E. Crisostomi, R. Shorten,
 <b>[Plug-and-play distributed algorithms for optimized power generation in a microgrid](http://ming2liu.github.io/publications/grid)</b> <br> 
 E. Crisostomi, <b>M. Liu</b>, M. Raugi, R. Shorten,
 <i>IEEE Transactions on Smart Grid</i>
-
 
 
 <b>[Distributed consensus charging for current unbalance reduction](http://ming2liu.github.io/publications/unbalance)</b> <br> 
