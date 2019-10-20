@@ -1,7 +1,7 @@
 ---
 title: "Distributed consensus charging for current unbalance reduction"
 collection: publications
-permalink: /publications/bus
+permalink: /publications/unbalance
 date: 2014-01-01
 venue: '19th IFAC World Congress'
 ---
