@@ -92,4 +92,33 @@ E. Crisostomi, <b>M. Liu</b>, M. Raugi, R. Shorten,
 
 
 
+<b>[On-off based charging strategies for EVs connected to a Low Voltage distributon network](http://ming2liu.github.io/publications/onoff)</b> <br> 
+<b>M. Liu</b>, S. Studli, R. Middleton, S. McLoone, R. Shorten, J. Braslavsky,
+<i>13th IEEE PES Asia-Pacific Power and Energy Engineering Conference</i>
+
+
+<b>[Optimal Distributed Power Generation for Thermal and Electrical Scheduling in a Microgrid](http://ming2liu.github.io/publications/thermal)</b> <br> 
+<b>M. Liu</b>, E. Crisostomi,  M. Raugi, R. Shorten,
+<i>4th IEEE PES Innovative Smart Grid Technologies Europe</i>, <b>ISGT 2013</b>
+
+
+<b>[Applying a QoS-based Fleet Dimension Method to Reduce Fleet Emissions](http://ming2liu.github.io/publications/qos)</b> <br> 
+<b>M. Liu</b>, W. Griggs, C. King, F. Wirth, P. Borrel, 
+<i>International Conference on Connected Vehicles and Expo</i>, <b>ICCVE 2013</b>
+
+
+<b>[Investigation of AIMD Based Charging Strategies for EVs Connected to a Low-Voltage Distribution Network](http://ming2liu.github.io/publications/aimd)</b> <br> 
+<b>M. Liu</b>, S. McLoone, 
+<i>International Conference on Intelligent Computing for Sustainable Energy and Environment</i>
+
+
+<b>[Fair Charging Strategies for EVs Connected to a Low-Voltage Distribution Network](http://ming2liu.github.io/publications/fair)</b> <br> 
+<b>M. Liu</b>, P. McNamara, S. McLoone, 
+<i>4th IEEE PES Innovative Smart Grid Technologies Europe</i>, <b>ISGT Europe 2013</b>
+
+
+
+
+
+
 
