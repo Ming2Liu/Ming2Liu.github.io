@@ -68,53 +68,53 @@ J.N. Sawaya, E. Crisostomi, <b>M. Liu</b>, Y. Gu, R Shorten,
 
 <b>[Topics in Electromobility and Related Applications](http://ming2liu.github.io/publications/thesis)</b> <br> 
 <b>M. Liu</b>
-<i>National University of Ireland Maynooth</i>, <span style="color:red">(PhD Thesis)</span>
+<i>National University of Ireland Maynooth</i>, <span style="color:red">(PhD Thesis)</span>.
 
 
 <b>[Optimal distributed consensus algorithm for fair V2G power dispatch in a microgrid](http://ming2liu.github.io/publications/v2g)</b> <br> 
 <b>M. Liu</b>, E. Crisostomi, Y. Gu, R. Shorten,
-<i>IEEE International Electric Vehicule Conference</i>, <b>IEVC 2014</b>
+<i>IEEE International Electric Vehicule Conference</i>, <b>IEVC 2014</b>.
 
 
 <b>[Optimal consensus for highway speed limits via intelligent speed advisory systems](http://ming2liu.github.io/publications/hsas)</b> <br> 
 Y. Gu, <b>M. Liu</b>, E. Crisostomi, R. Shorten,
-<i>International Conference on Connected Vehicles and Expo</i>, <b>ICCVE 2014</b>
+<i>International Conference on Connected Vehicles and Expo</i>, <b>ICCVE 2014</b>.
 
 
 <b>[Plug-and-play distributed algorithms for optimized power generation in a microgrid](http://ming2liu.github.io/publications/grid)</b> <br> 
 E. Crisostomi, <b>M. Liu</b>, M. Raugi, R. Shorten,
-<i>IEEE Transactions on Smart Grid</i>
+<i>IEEE Transactions on Smart Grid</i>.
 
 
 <b>[Distributed consensus charging for current unbalance reduction](http://ming2liu.github.io/publications/unbalance)</b> <br> 
 <b>M. Liu</b>, P. McNamara, R. Shorten, S. McLoone,
-<i>19th IFAC World Congress</i>, <b>IFAC 2014</b>
+<i>19th IFAC World Congress</i>, <b>IFAC 2014</b>.
 
 
 
 <b>[On-off based charging strategies for EVs connected to a Low Voltage distributon network](http://ming2liu.github.io/publications/onoff)</b> <br> 
 <b>M. Liu</b>, S. Studli, R. Middleton, S. McLoone, R. Shorten, J. Braslavsky,
-<i>13th IEEE PES Asia-Pacific Power and Energy Engineering Conference</i>
+<i>13th IEEE PES Asia-Pacific Power and Energy Engineering Conference</i>.
 
 
 <b>[Optimal Distributed Power Generation for Thermal and Electrical Scheduling in a Microgrid](http://ming2liu.github.io/publications/thermal)</b> <br> 
 <b>M. Liu</b>, E. Crisostomi,  M. Raugi, R. Shorten,
-<i>4th IEEE PES Innovative Smart Grid Technologies Europe</i>, <b>ISGT 2013</b>
+<i>4th IEEE PES Innovative Smart Grid Technologies Europe</i>, <b>ISGT 2013</b>.
 
 
 <b>[Applying a QoS-based Fleet Dimension Method to Reduce Fleet Emissions](http://ming2liu.github.io/publications/qos)</b> <br> 
 <b>M. Liu</b>, W. Griggs, C. King, F. Wirth, P. Borrel, 
-<i>International Conference on Connected Vehicles and Expo</i>, <b>ICCVE 2013</b>
+<i>International Conference on Connected Vehicles and Expo</i>, <b>ICCVE 2013</b>.
 
 
 <b>[Investigation of AIMD Based Charging Strategies for EVs Connected to a Low-Voltage Distribution Network](http://ming2liu.github.io/publications/aimd)</b> <br> 
 <b>M. Liu</b>, S. McLoone, 
-<i>International Conference on Intelligent Computing for Sustainable Energy and Environment</i>
+<i>International Conference on Intelligent Computing for Sustainable Energy and Environment</i>.
 
 
 <b>[Fair Charging Strategies for EVs Connected to a Low-Voltage Distribution Network](http://ming2liu.github.io/publications/fair)</b> <br> 
 <b>M. Liu</b>, P. McNamara, S. McLoone, 
-<i>4th IEEE PES Innovative Smart Grid Technologies Europe</i>, <b>ISGT Europe 2013</b>
+<i>4th IEEE PES Innovative Smart Grid Technologies Europe</i>, <b>ISGT Europe 2013</b>.
 
 
 
