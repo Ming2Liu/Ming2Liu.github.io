@@ -48,7 +48,7 @@ Project Experience
 
 Recent News
 ======
-
+*  November, 2019: We have one funded PhD position with Insight Centre for Data Analytics at DCU. More details can be found at https://lnkd.in/gB8ey3M. Please contact me if you are interested.
 *  September, 2019: Joined DCU as an Assistant Professor
 *  June, 2019: 5G-Solutions Work Package Lead
 
