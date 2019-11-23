@@ -8,7 +8,7 @@ Full CV can be requested if applicable.
 
 Education
 ======
-* Ph.D in Hamilton Institute, Control Engineering and Optimization, National University of Ireland Maynooth, 2015
+* Ph.D in Control Engineering and Optimization, Hamilton Institute, National University of Ireland Maynooth, 2015
 * B.Eng (1st Hons) in Electronic Engineering, National University of Ireland Maynooth, 2011
 
 
