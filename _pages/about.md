@@ -27,10 +27,11 @@ I am an IEEE member and an active reviewer in my research fields. I served as an
 Research Interests
 ======
 *  5G & IoT Applications 
+*  Edge, Fog and Cloud Computing 
 *  Linear and Nonlinear Dynamical Systems 
 *  Machine Learning, Deep Learning, Data Science 
 *  Centralized, Decentralized, Distributed Control, Algorithms, Optimization 
-*  E-Mobility, Smart Grids, Intelligent Transportation Systems, Smart Cities, Edge/Fog/Cloud Resource Allocation
+*  E-Mobility, Smart Grids, Intelligent Transportation Systems, Smart Cities
 
 
 Project Experience 
