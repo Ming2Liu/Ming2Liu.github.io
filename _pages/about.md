@@ -46,11 +46,16 @@ Project Experience
 *  [Enable-S3](https://www.enable-s3.eu/) (EU H2020), Task Tech Contributor
 *  [Green Transportation and Communication Networks](https://www.hamilton.ie/new-3m-research-project-in-green-transport-and-communications-networks-announced.htm) (SFI), Task Tech Contributor
 
+Opening Vacancies 
+======
+I am always actively looking for highly motivated Ph.D students. Postdocs, and visiting scholars to work or collaborate with me. If you are interested in this perspective, please send me an email along with your CV, academic transcripts, English certificate, and any other supporting documents which may be useufl to demonstrate your research capability and potential. 
+
 
 Recent News
 ======
+*  March, 2020: I have been invited to give a [research seminar](https://www.maynoothuniversity.ie/news-events/hamilton-institute-seminar-53) at the Hamilton Institute, Maynooth University. 
+*  Feb, 2020: I have been invited to give a presentation to 4th year undergraduate students at School of Electronic Engineering, Maynooth University.
 *  Feb, 2020: We have one paper accepted by the 6th IEEE WF-IoT conference
 *  Nov, 2019: We have one funded PhD position with the Insight Centre for Data Analytics at DCU. More details can be found at https://lnkd.in/gB8ey3M. Please contact me if you are interested.
 *  Sept, 2019: Joined DCU as an Assistant Professor
 *  June, 2019: 5G-Solutions Work Package Lead
-
