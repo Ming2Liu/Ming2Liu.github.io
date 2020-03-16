@@ -48,7 +48,7 @@ Project Experience
 
 Opening Vacancies 
 ======
-I am always actively looking for highly motivated Ph.D students. Postdocs, and visiting scholars to work or collaborate with me. If you are interested in this perspective, please send me an email along with your CV, academic transcripts, English certificate, and any other supporting documents which may be useufl to demonstrate your research capability and potential. 
+I am always actively looking for highly motivated Ph.D students. Postdocs, and visiting scholars to work or collaborate with me. If you are interested in this perspective, please send me an email along with your CV, academic transcripts, English certificate, and any other supporting documents which may demonstrate your research capability and potential. 
 
 
 Recent News
