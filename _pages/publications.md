@@ -6,6 +6,11 @@ author_profile: true
 
 You can also find my papers on [my Google Scholar Page](https://scholar.google.com/citations?user=woHxot0AAAAJ&hl=en&authuser=1).
 
+<b>[Reinforcement Learning on Computational Resource Allocation of Cloud-based Wireless Networks](http://ming2liu.github.io/publications/recloud)</b> <br> 
+B. Chen, Y. Zhang, G. Iosifidis, <b>M. Liu</b>,
+<i>IEEE 6th World Forum on Internet of Things</i>. <b>WF-IoT 2020</b>. 
+
+
 <b>[A Distributed Markovian Parking Assist System](http://ming2liu.github.io/publications/dismarkov)</b> <br> 
 <b>M. Liu</b>, J.N. Sawaya, Y. Gu, F. Lecue, R. Shorten,
 <i>IEEE Transactions on Intelligent Transportation Systems</i>. <b>ITS 2018</b>. 
