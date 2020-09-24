@@ -53,10 +53,10 @@ I am always actively looking for highly motivated Ph.D students. Postdocs, and v
 
 Recent News
 ======
-*  Sept, 2020: I am currently looking for students to joinly apply for [IRC PhD/Postdoc funding](http://research.ie/funding/goipg/) with me. 
+*  Sept, 2020: I am currently looking for students to jointly apply for [IRC PhD/Postdoc funding](http://research.ie/funding/goipg/) with me. 
 *  Sept, 2020: One funded research master position is available, contact me if you are interested.  
 *  Sept, 2020: Our COVID-19 project has received funding from Google Cloud Platform to support its cloud infrastructure dev. 
-*  Aug, 2020:  I am acting as the topic gusest editor for the Frointers Journal in Sustainable Cities - please see the [CFP](https://lnkd.in/egES8Vv). 
+*  Aug, 2020:  I am acting as the topic guest editor for the Frontiers Journal in Sustainable Cities - please see the [CFP](https://lnkd.in/egES8Vv). 
 *  June, 2020: Joined [SFI ML-Lab](https://www.ml-labs.ie/) as a research leader. 
 *  May, 2020: Joined [EU COST Action CA19126](https://www.cost.eu/actions/CA19126) as a funded MC member. 
 *  March, 2020: Invited to give a [research seminar](https://www.maynoothuniversity.ie/news-events/hamilton-institute-seminar-53) at the Hamilton Institute, Maynooth University. 
