@@ -58,7 +58,7 @@ Recent News
 *  Sept, 2020: Our COVID-19 project has received funding from Google Cloud Platform to support its cloud infrastructure dev. 
 *  Aug, 2020:  I am acting as the topic gusest editor for the Frointers Journal in Sustainable Cities - please see the [CFP](https://lnkd.in/egES8Vv). 
 *  June, 2020: Joined [SFI ML-Lab](https://www.ml-labs.ie/) as a research leader. 
-*  May, 2020: Joined [EU COST Action CA19126](https://www.cost.eu/actions/CA19126/#tabs|Name:overview) as a funded MC member. 
+*  May, 2020: Joined [EU COST Action CA19126](https://www.cost.eu/actions/CA19126) as a funded MC member. 
 *  March, 2020: Invited to give a [research seminar](https://www.maynoothuniversity.ie/news-events/hamilton-institute-seminar-53) at the Hamilton Institute, Maynooth University. 
 *  Feb, 2020: Invited to give a presentation to 4th year undergraduate students at School of Electronic Engineering, Maynooth University.
 *  Feb, 2020: One paper accepted by the 6th IEEE WF-IoT conference
