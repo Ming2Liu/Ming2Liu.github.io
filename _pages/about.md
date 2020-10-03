@@ -53,6 +53,8 @@ I am always actively looking for highly motivated Ph.D students. Postdocs, and v
 
 Recent News
 ======
+*  Oct, 2020:  Congratulations to my master student R.Dhakshinamurthy for getting one regular paper accepted by the IEEE GCAIoT 2020!
+*  Oct, 2020:  Congratulations to my bachelor student Z. Murphy for winning the IBM Opensource Expo prize for her final year project!
 *  Sept, 2020: I am currently looking for students to jointly apply for [IRC PhD/Postdoc funding](http://research.ie/funding/goipg/) with me. 
 *  Sept, 2020: One funded research master position is available, contact me if you are interested.  
 *  Sept, 2020: Our COVID-19 project has received funding from Google Cloud Platform to support its cloud infrastructure dev. 

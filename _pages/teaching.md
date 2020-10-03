@@ -15,7 +15,7 @@ author_profile: true
 
 Supervision
 ======
-
+* Z. Cheng (PhD in Electronic Engineering, DCU, Principle Supervisor)
 * A. Herrmann (ME in Electronic and Computer, UCD, Co-Supervision with R.Shorten)
 * Y. Gu (Ph.D in Electrical and Electronic Engineering, UCD, Mentor & Co-Supervision with R. Shorten)
 * Z. Murphy (B.Eng in Electronic Engineering, DCU, Principle Supervisor)
