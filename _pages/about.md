@@ -49,7 +49,7 @@ Project Experience
 Opening Vacancies 
 ======
 I am always actively looking for highly motivated Ph.D students. Postdocs, and visiting scholars to work or collaborate with me. If you are interested in this perspective, please send me an email along with your CV, academic transcripts, English certificate, as well as other supporting documents which may demonstrate your research capability and potential. 
-
+(Please note that I do receive many emails from different applicants all over the world every month, you should typically receive a response from me within a week (holiday period excluded). If not the case, this usually implies that you will be unlikely to hear from me. Apologies for any inconvenience caused and thanks for your understanding)
 
 Recent News
 ======
