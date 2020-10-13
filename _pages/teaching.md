@@ -12,12 +12,13 @@ author_profile: true
 * Computer Control System (4th year, NUI Maynooth)
 * Computation and Simulation (3rd year, NUI Maynooth)
 * Control System Analysis (4th year, DCU)
+* Mechatronic System Simulation & Control (4th year, DCU)
 
 Supervision
 ======
-* Z. Cheng (PhD in Electronic Engineering, DCU, Principle Supervisor)
+* Z. Cheng (funded PhD in Electronic Engineering, DCU, Principle Supervisor)
 * A. Herrmann (ME in Electronic and Computer, UCD, Co-Supervision with R.Shorten)
-* Y. Gu (Ph.D in Electrical and Electronic Engineering, UCD, Mentor & Co-Supervision with R. Shorten)
+* Y. Gu (funded Ph.D in Electrical and Electronic Engineering, UCD, Mentor & Co-Supervision with R. Shorten)
 * Z. Murphy (B.Eng in Electronic Engineering, DCU, Principle Supervisor)
 * N. Srinivas (Master in Electronic Engineering, DCU, Principle Supervisor)
 * R. Dhakshinamurthy (Master in Electronic Engineering, DCU, Principle Supervisor)
