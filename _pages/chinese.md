@@ -10,7 +10,7 @@ author_profile: true
 之后在都柏林大学从事博士后研究工作，进一步将博士期间工作扩展至更大的研究领域及应用场景，运用机器学习、大数据挖掘等技术解决智能交通系统、物联网、工业4.0等领域的问题。
 在入职爱尔兰都柏林城市大学之前，还曾进入IBM创新实验室担任数据科学家一职，期间成功申请多个欧盟地平线2020 (EU H2020) 大型战略项目并担任项目负责人。
 此项目致力于联合欧洲各大科技公司，科研院校等机构通过系列研发框架的实施促进欧盟科研、商业、工业、社会等各方面的发展。目前已发表学术论文20余篇，多篇发表于智能交通、智能电网、控制、应用数学、人工智能等领域的顶级期刊, 
-例如，IEEE Transactions on Smart Grids， IEEE Transactions on Intelligent Transportation Systems, 和 Automatica，均被SCI/EI 索引，总影响因子过30，并获得两项国际专利（IBM)。
+例如，IEEE Transactions on Smart Grids， IEEE Transactions on Intelligent Transportation Systems, 和 Automatica，均被SCI/EI 索引，总影响因子过50，并获得两项国际专利（IBM)。
 曾担任多个国际会议组织人员，参与会议启动、策划、协调等相关事务。
 
 
