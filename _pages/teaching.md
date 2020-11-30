@@ -16,7 +16,7 @@ author_profile: true
 
 Supervision
 ======
-* H. Wu (funed Research Master in Electronic Engineering, DCU, Principle Supervisor)
+* H. Wu (funded Research Master in Electronic Engineering, DCU, Principle Supervisor)
 * Z. Cheng (funded PhD in Electronic Engineering, DCU, Principle Supervisor)
 * J. Adove (B.Eng in Electronic Engineering, DCU, Principle Supervisor)
 * C. Muli (B.Eng in Mechatronic Engineering, DCU, Principle Supervisor)
