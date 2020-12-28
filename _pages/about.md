@@ -53,6 +53,8 @@ Please note that I do receive many emails from different applicants all over the
 
 Recent News
 ======
+*  Dec, 2020:  One paper has been accepted by the IEEE System Journal. 
+*  Dec, 2020:  One paper has been accepted by the AAAI workshop.
 *  Oct, 2020:  Congratulations to my master student R.Dhakshinamurthy for getting one regular paper accepted by the IEEE GCAIoT 2020!
 *  Oct, 2020:  Congratulations to my bachelor student Z. Murphy for winning the IBM Opensource Expo prize for her final year project!
 *  Sept, 2020: I am currently looking for students to jointly apply for [IRC PhD/Postdoc funding](http://research.ie/funding/goipg/) with me. 
