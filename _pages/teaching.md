@@ -14,6 +14,7 @@ author_profile: true
 * Control System Analysis (4th year, DCU)
 * Mechatronic System Simulation & Control (4th year, DCU)
 
+
 Supervision
 ======
 * H. Wu (funded Research Master in Electronic Engineering, DCU, Principal Supervisor)
