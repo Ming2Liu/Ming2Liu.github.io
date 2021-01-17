@@ -53,6 +53,7 @@ Please note that I do receive many emails from different applicants all over the
 
 Recent News
 ======
+*  Jan, 2021:  One paper has been accepted by the IEEE Transactions on Intelligent Transportation Systems
 *  Dec, 2020:  One paper has been accepted by the IEEE System Journal. 
 *  Dec, 2020:  One paper has been accepted by the AAAI workshop.
 *  Oct, 2020:  Congratulations to my master student R.Dhakshinamurthy for getting one regular paper accepted by the IEEE GCAIoT 2020!
