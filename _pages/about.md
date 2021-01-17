@@ -73,4 +73,4 @@ Recent News
 *  Sept, 2019: Joined DCU as an Assistant Professor
 *  June, 2019: Worked as 5G-Solutions Work Package Lead, IBM
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?w=a&t=n&d=BR2Upx0sFRKc3PfVQr6-7suLXmtHNcoDIlN6fnmvC_g"></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?w=300&t=n&d=BR2Upx0sFRKc3PfVQr6-7suLXmtHNcoDIlN6fnmvC_g"></script>
