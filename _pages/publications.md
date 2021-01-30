@@ -6,6 +6,11 @@ author_profile: true
 
 You can also find my papers on [my Google Scholar Page](https://scholar.google.com/citations?user=woHxot0AAAAJ&hl=en&authuser=1).
 
+<b>[A Fair and Privacy-Aware EV Discharging Strategy using Decentralized Whale Optimization Algorithm for Minimizing Cost of EVs and the EV Aggregator](http://ming2liu.github.io/publications/woagrid)</b> <br>
+Y. Gu, <b>M. Liu</b>,
+<i>IEEE System Journal </i>. <b>ISJ 2020</b>.
+
+
 <b>[Reinforcement Learning on Computational Resource Allocation of Cloud-based Wireless Networks](http://ming2liu.github.io/publications/recloud)</b> <br> 
 B. Chen, Y. Zhang, G. Iosifidis, <b>M. Liu</b>,
 <i>IEEE 6th World Forum on Internet of Things</i>. <b>WF-IoT 2020</b>. 

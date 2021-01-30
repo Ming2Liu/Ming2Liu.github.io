@@ -1,7 +1,7 @@
 ---
-title: "Reinforcement Learning on Computational Resource Allocation of Cloud-based Wireless Networks"
+title: "A Fair and Privacy-Aware EV Discharging Strategy using Decentralized Whale Optimization Algorithm for Minimizing Cost of EVs and the EV Aggregator"
 collection: publications
-permalink: /publications/woa
+permalink: /publications/woagrid
 date: 2021-01-20
 venue: 'IEEE System Journal (pre-print)'
 ---
