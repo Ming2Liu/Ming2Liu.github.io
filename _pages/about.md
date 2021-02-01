@@ -49,11 +49,12 @@ Project Experience
 Opening Vacancies 
 ======
 I am always actively looking for highly motivated Ph.D students. Postdocs, and visiting scholars to work or collaborate with me. If you are interested in this perspective, please send me an email along with your CV, academic transcripts, English certificate, as well as other supporting documents which may demonstrate your research capability and potential. 
-Please note that I do receive many emails from different applicants all over the world every month, if positive you should typically receive a response from me within a week (holiday period excluded).
+Please note that if your application is positive, you should typically expect to receive a response from me within a week (holiday period excluded).
 
 Recent News
 ======
-*  Jan, 2021:  One paper has been accepted by the IEEE Transactions on Intelligent Transportation Systems
+*  Feb, 2021:  One paper has been accepted by the IEEE 93rd Vehicular Technology Conference (VTC2021-Spring) for presentation.
+*  Jan, 2021:  One paper has been accepted by the IEEE Transactions on Intelligent Transportation Systems.
 *  Dec, 2020:  One paper has been accepted by the IEEE System Journal. 
 *  Dec, 2020:  One paper has been accepted by the AAAI workshop.
 *  Oct, 2020:  Congratulations to my master student R.Dhakshinamurthy for getting one regular paper accepted by the IEEE GCAIoT 2020!
