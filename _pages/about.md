@@ -53,6 +53,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+*  Feb, 2021:  One paper has been accepted by the 6th ACM/IEEE Conference on Internet of Things and Implementation (IoTDI 2021). 
 *  Feb, 2021:  One paper has been accepted by the IEEE 93rd Vehicular Technology Conference (VTC2021-Spring) for presentation.
 *  Jan, 2021:  One paper has been accepted by the IEEE Transactions on Intelligent Transportation Systems.
 *  Dec, 2020:  One paper has been accepted by the IEEE System Journal. 
