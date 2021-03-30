@@ -12,7 +12,7 @@ redirect_from:
   <img src="https://ming2liu.github.io/files/mm_pic1.jpg" alt="Photo" style="width: 360px;"/> 
 </p>
 
-<audio controls>
+<audio controls preload="metadata" crossorigin="use-credentials" loop>
     <source src="files/ag.mp3" type="audio/mp3"/>
 </audio>
 
