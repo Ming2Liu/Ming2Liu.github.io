@@ -72,14 +72,7 @@ Recent News
 *  Sept, 2020: Our COVID-19 project has received funding from Google Cloud Platform to support its cloud infrastructure dev. 
 *  Aug, 2020:  I am acting as the topic guest editor for the Frontiers Journal in Sustainable Cities - please see the [CFP](https://lnkd.in/egES8Vv). 
 *  June, 2020: Joined [SFI ML-Lab](https://www.ml-labs.ie/) as a research leader. 
-*  May, 2020: Joined [EU COST Action CA19126](https://www.cost.eu/actions/CA19126) as a funded MC member. 
-*  March, 2020: Invited to give a [research seminar](https://www.maynoothuniversity.ie/news-events/hamilton-institute-seminar-53) at the Hamilton Institute, Maynooth University. 
-*  Feb, 2020: Invited to give a presentation to 4th year undergraduate students at School of Electronic Engineering, Maynooth University.
-*  Feb, 2020: One paper accepted by the 6th IEEE WF-IoT conference
-*  Nov, 2019: One funded PhD position available with the Insight Centre for Data Analytics at DCU. More details can be found at https://lnkd.in/gB8ey3M. Please contact me if you are interested.
-*  Oct, 2019: Joined Insight Centre, DCU
-*  Oct, 2019: Joined Entwine Research Centre, School of EE, DCU 
-*  Sept, 2019: Joined DCU as an Assistant Professor
-*  June, 2019: Worked as 5G-Solutions Work Package Lead, IBM
+*  May, 2020: Joined [EU COST Action CA19126](https://www.cost.eu/actions/CA19126) as a funded MC member.
+
 
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?w=300&t=n&d=BR2Upx0sFRKc3PfVQr6-7suLXmtHNcoDIlN6fnmvC_g"></script>
