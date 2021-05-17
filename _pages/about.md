@@ -58,7 +58,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
-*  April, 2021: One paper has been accepted by the 7th IEEE World Forum on Internet of Things (IEEE WF-IoT).
+*  Apr, 2021: One paper has been accepted by the 7th IEEE World Forum on Internet of Things (IEEE WF-IoT).
 *  Mar, 2021:  Congratulations to my project students C. Muli and J.M. Adove for winning Ide3a scholarships for their FYPs to be continually carried out at TU Berlin!
 *  Feb, 2021:  One paper has been accepted by the 6th ACM/IEEE Conference on Internet of Things and Implementation (IoTDI 2021). 
 *  Feb, 2021:  One paper has been accepted by the IEEE 93rd Vehicular Technology Conference (VTC2021-Spring) for presentation.
@@ -71,7 +71,7 @@ Recent News
 *  Sept, 2020: One funded research master position is available, contact me if you are interested.  
 *  Sept, 2020: Our COVID-19 project has received funding from Google Cloud Platform to support its cloud infrastructure dev. 
 *  Aug, 2020:  I am acting as the topic guest editor for the Frontiers Journal in Sustainable Cities - please see the [CFP](https://lnkd.in/egES8Vv). 
-*  June, 2020: Joined [SFI ML-Lab](https://www.ml-labs.ie/) as a research leader. 
+*  Jun, 2020: Joined [SFI ML-Lab](https://www.ml-labs.ie/) as a research leader. 
 *  May, 2020: Joined [EU COST Action CA19126](https://www.cost.eu/actions/CA19126) as a funded MC member.
 
 
