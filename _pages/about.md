@@ -58,6 +58,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+*  May, 2021: Three journal papers have been submitted from our group to IEEE TITS, Nature SR and Energy (Elsevier). 
 *  Apr, 2021: One paper has been accepted by the 7th IEEE World Forum on Internet of Things (IEEE WF-IoT).
 *  Mar, 2021:  Congratulations to my project students C. Muli and J.M. Adove for winning Ide3a scholarships for their FYPs to be continually carried out at TU Berlin!
 *  Feb, 2021:  One paper has been accepted by the 6th ACM/IEEE Conference on Internet of Things and Implementation (IoTDI 2021). 
