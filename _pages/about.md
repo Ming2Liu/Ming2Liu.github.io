@@ -77,5 +77,3 @@ Recent News
 *  Jun, 2020: Joined [SFI ML-Lab](https://www.ml-labs.ie/) as a research leader. 
 *  May, 2020: Joined [EU COST Action CA19126](https://www.cost.eu/actions/CA19126) as a funded MC member.
 
-
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?w=300&t=n&d=BR2Upx0sFRKc3PfVQr6-7suLXmtHNcoDIlN6fnmvC_g"></script>
