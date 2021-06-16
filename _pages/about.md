@@ -58,6 +58,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+*  Jun, 2021: One paper has been accepted by IEEE ITSC 2021. 
 *  Jun, 2021: One fully-funded PhD position is available in our group, please contact me if you are interested.
 *  Jun, 2021: One paper has been accepted by the 16th European Conference on Technology Enhanced Learning (EC-TEL).
 *  May, 2021: Three journal papers have been submitted from our group to IEEE TITS, Nature SR and Energy (Elsevier). 
