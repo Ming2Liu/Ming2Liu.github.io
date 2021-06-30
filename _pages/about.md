@@ -40,8 +40,7 @@ Research Interests
 
 Project Experience 
 ======
-*  Aware (EU H2020), Task Lead, Proposal Funded, Grant €300k+
-*  CoSafe-TE (EU H2020), WP Lead, Proposal Submitted (second stage) 
+*  Huawei SRE Project, PI, Funded with Grant €270k+
 *  [5G-Solutions](https://www.5gsolutionsproject.eu/) (EU H2020), WP Lead, Proposal Funded, Grant €600k+
 *  [ICONET](https://www.iconetproject.eu/) (EU H2020), Task Tech Lead
 *  [VI-DAS](http://www.vi-das.eu/) (EU H2020), WP Tech Lead
