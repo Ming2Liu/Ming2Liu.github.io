@@ -21,7 +21,7 @@ redirect_from:
 Dr. Mingming Liu is currently an Assistant Professor in Electronic and Computer Engineering with the [School of Electronic Engineering](http://ece.eeng.dcu.ie/) at [Dublin City University (DCU)](https://www.dcu.ie/). 
 
 Mingming was a data scientist, applied researcher, and H2020 project lead ([5G-Solutions](https://www.5gsolutionsproject.eu/)) at [IBM Ireland Lab](https://www.ibm.com/ie-en), where the main focus of his work was to leverage the state-of-the-art machine learning and applied optimisation techniques for practical
-and challenging problems arising in the industry. Before IBM, he worked at [University College Dublin](http://www.ucd.ie/) as a (senior) postdoctoral research fellow with the [Control Engineering and Decision Science Research Group](http://smarttransport.ucd.ie/wordpress/) within the School of Electrical and Electronic Engineering. He spent almost three years working on both EU and SFI funded projects at UCD, including [Green Transportation and Networks](https://www.hamilton.ie/new-3m-research-project-in-green-transport-and-communications-networks-announced.htm) (SFI) and [Enable-S3](https://www.enable-s3.eu/) (H2020), with strong collaborations with both academia and industrial partners.
+and challenging problems arising in the industry. Before IBM, he worked at [University College Dublin](http://www.ucd.ie/) as a (senior) postdoctoral research fellow with the [Control Engineering and Decision Science Research Group](http://smarttransport.ucd.ie/wordpress/) within the School of Electrical and Electronic Engineering. He spent almost three years working on both EU and SFI funded projects at UCD, including [Green Transportation and Networks](https://www.hamilton.ie/new-3m-research-project-in-green-transport-and-communications-networks-announced.htm) (SFI) and [Enable-S3](https://cordis.europa.eu/project/id/692455) (H2020), with strong collaborations with both academia and industrial partners.
  
 He received his B.Eng. degree with first class honours (ranked 1st) from the [Department of Electronic Engineering](https://www.maynoothuniversity.ie/electronic-engineering) at the [National University of Ireland Maynooth](https://www.maynoothuniversity.ie/) in 2011, and then his PhD from the [Hamilton Institute](https://www.maynoothuniversity.ie/hamilton) at the same university in 2015 (26 years old). His PhD thesis entitled [“Topics in Electromobility and Related Applications”](http://mural.maynoothuniversity.ie/6522/) was supervised by [Prof. Robert Shorten](https://ROBERTshorten.com) (Full Professor at Imperial College London) and [Prof. Sean McLoone](https://www.qub.ac.uk/research-centres/EPIC/Profile/?name=s.mcloone) (Full Professor at Queen's University Belfast). 
 
@@ -46,7 +46,7 @@ Project Experience
 *  [VI-DAS](http://www.vi-das.eu/) (EU H2020), WP Tech Lead
 *  [Chariot](https://www.chariotproject.eu/) (EU H2020), Task Tech Contributor 
 *  [COPKIT](https://copkit.eu/) (EU H2020), Task Tech Contributor 
-*  [Enable-S3](https://www.enable-s3.eu/) (EU H2020), Task Tech Contributor
+*  [Enable-S3](https://cordis.europa.eu/project/id/692455) (EU H2020), Task Tech Contributor
 *  [Green Transportation and Communication Networks](https://www.hamilton.ie/new-3m-research-project-in-green-transport-and-communications-networks-announced.htm) (SFI), Task Tech Contributor
 
 Opening Vacancies 
