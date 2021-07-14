@@ -65,7 +65,7 @@ Recent News
 *  Jun, 2021: One paper has been accepted by the 16th European Conference on Technology Enhanced Learning (EC-TEL).
 *  May, 2021: Three journal papers have been submitted from our group to IEEE TITS, Nature SR and Energy (Elsevier). 
 *  Apr, 2021: One paper has been accepted by the 7th IEEE World Forum on Internet of Things (IEEE WF-IoT).
-*  Mar, 2021:  Congratulations to my project students C. Muli and J.M. Adove for winning Ide3a scholarships for their FYPs to be continually carried out at TU Berlin!
+*  Mar, 2021:  Congratulations to my project students C. Muli and J.M. Adove for winning [Ide3a scholarships](https://ide3a.net/first-ide3a-scholarship-holders-arrived-at-tu-berlin/) for their FYPs to be continually carried out at TU Berlin! 
 *  Feb, 2021:  One paper has been accepted by the 6th ACM/IEEE Conference on Internet of Things and Implementation (IoTDI 2021). 
 *  Feb, 2021:  One paper has been accepted by the IEEE 93rd Vehicular Technology Conference (VTC2021-Spring) for presentation.
 *  Jan, 2021:  One paper has been accepted by the IEEE Transactions on Intelligent Transportation Systems.
