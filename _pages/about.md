@@ -56,7 +56,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
-*  Jun, 2021: We are looking for [one postdoc researcher](https://lnkd.in/e2JGtYF) and [one research assistant](https://lnkd.in/eNvw8qH) for the Huawei project, please contact me if interested. 
+*  Jun, 2021: We are looking for [one postdoc researcher](https://www.dcu.ie/sites/default/files/inline-files/rf1531-postdoctoral-researcher-huawei-project-jd.pdf) and [one research assistant](https://www.dcu.ie/sites/default/files/inline-files/rf1529-jd-research-assistant-huawei.pdf) for the Huawei project, please contact me if interested. 
 *  Jun, 2021: [National media report](https://www.irishtimes.com/business/technology/how-are-you-feeling-ai-wants-to-know-1.4605972) on the [Help-Me-Watch system](https://helpmewatch.computing.dcu.ie/) developed together with Prof Alan Smeaton at DCU. 
 *  Jun, 2021: One paper has been accepted by International Conference on Sustainabilty in Energy and Buildings (SEB-21).
 *  Jun, 2021: One invited lecture has been presented to students in the Ide3a project.
