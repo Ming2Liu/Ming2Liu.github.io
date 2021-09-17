@@ -56,23 +56,24 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
-*  Sept, 2021: One paper has been accepted by the Nature Scientic Report.
-*  Aug, 2021: One paper has been accepted by the IEEE VTC 2021-Fall.
+*  Sept, 2021: One journal paper has been accepted by Sustainability. 
+*  Sept, 2021: One journal paper has been accepted by the Nature Scientic Report.
+*  Aug, 2021: One conference paper has been accepted by the IEEE VTC 2021-Fall.
 *  Jun, 2021: We are looking for [one postdoc researcher](https://www.dcu.ie/sites/default/files/inline-files/rf1531-postdoctoral-researcher-huawei-project-jd.pdf) and [one research assistant](https://www.dcu.ie/sites/default/files/inline-files/rf1529-jd-research-assistant-huawei.pdf) for the Huawei project, please contact me if interested. 
 *  Jun, 2021: [National media report](https://www.irishtimes.com/business/technology/how-are-you-feeling-ai-wants-to-know-1.4605972) on the [Help-Me-Watch system](https://helpmewatch.computing.dcu.ie/) developed together with Prof Alan Smeaton at DCU. 
-*  Jun, 2021: One paper has been accepted by International Conference on Sustainabilty in Energy and Buildings (SEB-21).
+*  Jun, 2021: One conference paper has been accepted by International Conference on Sustainabilty in Energy and Buildings (SEB-21).
 *  Jun, 2021: One invited lecture has been presented to students in the Ide3a project.
-*  Jun, 2021: One paper has been accepted by IEEE ITSC 2021. 
+*  Jun, 2021: One conference paper has been accepted by IEEE ITSC 2021. 
 *  Jun, 2021: One fully-funded PhD position is available in our group, please contact me if you are interested.
-*  Jun, 2021: One paper has been accepted by the 16th European Conference on Technology Enhanced Learning (EC-TEL).
+*  Jun, 2021: One conference paper has been accepted by the 16th European Conference on Technology Enhanced Learning (EC-TEL).
 *  May, 2021: Three journal papers have been submitted from our group to IEEE TITS, Nature SR and Energy (Elsevier). 
 *  Apr, 2021: One paper has been accepted by the 7th IEEE World Forum on Internet of Things (IEEE WF-IoT).
 *  Mar, 2021:  Congratulations to my project students C. Muli and J.M. Adove for winning [Ide3a scholarships](https://ide3a.net/first-ide3a-scholarship-holders-arrived-at-tu-berlin/) for their FYPs to be continually carried out at TU Berlin! 
-*  Feb, 2021:  One paper has been accepted by the 6th ACM/IEEE Conference on Internet of Things and Implementation (IoTDI 2021). 
-*  Feb, 2021:  One paper has been accepted by the IEEE 93rd Vehicular Technology Conference (VTC2021-Spring) for presentation.
-*  Jan, 2021:  One paper has been accepted by the IEEE Transactions on Intelligent Transportation Systems.
-*  Dec, 2020:  One paper has been accepted by the IEEE System Journal. 
-*  Dec, 2020:  One paper has been accepted by the AAAI workshop.
+*  Feb, 2021:  One conference paper has been accepted by the 6th ACM/IEEE Conference on Internet of Things and Implementation (IoTDI 2021). 
+*  Feb, 2021:  One conference paper has been accepted by the IEEE 93rd Vehicular Technology Conference (VTC2021-Spring) for presentation.
+*  Jan, 2021:  One journal paper has been accepted by the IEEE Transactions on Intelligent Transportation Systems.
+*  Dec, 2020:  One journal paper has been accepted by the IEEE System Journal. 
+*  Dec, 2020:  One conference paper has been accepted by the AAAI workshop.
 *  Oct, 2020:  Congratulations to my master student R.Dhakshinamurthy for getting one regular paper accepted by the IEEE GCAIoT 2020!
 *  Oct, 2020:  Congratulations to my bachelor student Z. Murphy for winning the IBM Opensource Expo prize for her final year project!
 *  Sept, 2020: I am currently looking for students to jointly apply for [IRC PhD/Postdoc funding](http://research.ie/funding/goipg/) with me. 
