@@ -5,18 +5,17 @@ permalink: /teaching/
 author_profile: true
 ---
 
-* Computer Architecture (2nd year, CCZU)
-* Foundations of digital electronic circuit (2nd year, CCZU)
 * System Dyanmics (2nd year, NUI Maynooth)
 * Control System Design (4th year, NUI Maynooth)
 * Computer Control System (4th year, NUI Maynooth)
 * Computation and Simulation (3rd year, NUI Maynooth)
 * Control System Analysis (4th year, DCU)
-* Mechatronic System Simulation & Control (4th year, DCU)
-
+* Mechatronic System Simulation & Control (4th year/Master, DCU)
+* Master IoT Project (Module Coordinator, DCU)
 
 Supervision
 ======
+* S. Yen (funded PhD in Electronic Engineering, DCU, Principal Supervisor)
 * H. Wu (funded Research Master in Electronic Engineering, DCU, Principal Supervisor)
 * Z. Cheng (funded PhD in Electronic Engineering, DCU, Principal Supervisor)
 * J. Adove (B.Eng in Electronic Engineering, DCU, Principal Supervisor)
