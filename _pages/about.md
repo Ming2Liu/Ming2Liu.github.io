@@ -56,6 +56,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+*  Oct, 2021: I am currently looking for students to jointly apply for [IRC PhD/Postdoc funding](http://research.ie/funding/goipg/) with me.
 *  Sept, 2021: One journal paper has been accepted by Sustainability. 
 *  Sept, 2021: One journal paper has been accepted by the Nature Scientic Report.
 *  Aug, 2021: One conference paper has been accepted by the IEEE VTC 2021-Fall.
