@@ -41,7 +41,7 @@ Research Interests
 Project Experience 
 ======
 *  Huawei SRE Project, PI, Funded with Grant €270k+
-*  [5G-Solutions](https://www.5gsolutionsproject.eu/) (EU H2020), PI, WP Lead, Grant €600k+
+*  [5G-Solutions](https://www.5gsolutionsproject.eu/) (EU H2020), PI, WP Lead, Grant €660k+
 *  [ICONET](https://www.iconetproject.eu/) (EU H2020), Task Tech Lead
 *  [VI-DAS](http://www.vi-das.eu/) (EU H2020), WP Tech Lead
 *  [Chariot](https://www.chariotproject.eu/) (EU H2020), Task Tech Contributor 
