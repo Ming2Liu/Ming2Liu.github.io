@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my papers on [my Google Scholar Page](https://scholar.google.com/citations?user=woHxot0AAAAJ&hl=en&authuser=1).
+The publications below may not be up to date. You can find my papers on [my Google Scholar Page](https://scholar.google.com/citations?user=woHxot0AAAAJ&hl=en&authuser=1).
 
 <b>[A Fair and Privacy-Aware EV Discharging Strategy using Decentralized Whale Optimization Algorithm for Minimizing Cost of EVs and the EV Aggregator](http://ming2liu.github.io/publications/woagrid)</b> <br>
 Y. Gu, <b>M. Liu</b>,
