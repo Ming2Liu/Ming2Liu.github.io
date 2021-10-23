@@ -12,11 +12,6 @@ redirect_from:
   <img src="https://ming2liu.github.io/files/mm_pic1.jpg" alt="Photo" style="width: 360px;"/> 
 </p>
 
-<p align="center">
-<audio controls controlsList="nodownload" preload="metadata" crossorigin="use-credentials" loop>
-    <source src="files/ag.mp3" type="audio/mp3"/>
-</audio>
-</p>
 
 Dr. Mingming Liu is currently an Assistant Professor in Electronic and Computer Engineering with the [School of Electronic Engineering](http://ece.eeng.dcu.ie/) at [Dublin City University (DCU)](https://www.dcu.ie/). 
 
@@ -83,3 +78,4 @@ Recent News
 *  Jun, 2020: Joined [SFI ML-Lab](https://www.ml-labs.ie/) as a research leader. 
 *  May, 2020: Joined [EU COST Action CA19126](https://www.cost.eu/actions/CA19126) as a funded MC member.
 
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?w=300&t=n&d=BR2Upx0sFRKc3PfVQr6-7suLXmtHNcoDIlN6fnmvC_g"></script>
