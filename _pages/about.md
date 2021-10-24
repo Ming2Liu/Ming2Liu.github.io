@@ -13,7 +13,7 @@ redirect_from:
 </p>
 
 <p align="center">
-<audio controls controlsList="nodownload" preload="metadata" crossorigin="use-credentials" loop>
+<audio controls controlsList="nodownload" preload="auto" crossorigin="use-credentials" loop>
     <source src="https://dcufacengine.ml/download_file/m.mp3" type="audio/mp3"/>
 </audio>
 </p>
