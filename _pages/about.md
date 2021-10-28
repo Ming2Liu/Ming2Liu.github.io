@@ -57,7 +57,7 @@ Please note that if your application is positive, you should typically expect to
 Recent News
 ======
 *  Oct, 2021: Joined [NeuroInsight centre](https://neuroinsight.eu/) as a project supervisor (research lead).
-*  Oct, 2021: Congratulations to my project students J.M. Adove for winning the IBM OpenSource Prize for her final year project.
+*  Oct, 2021: Congratulations to my project student J.M. Adove for winning the IBM OpenSource Prize for her final year project.
 *  Oct, 2021: One journal paper has been accepted by IEEE Transactions on Transportation Electrification. 
 *  Oct, 2021: Joined [EU COST Action CA20138](https://www.cost.eu/actions/CA20138) as a funded MC member.
 *  Oct, 2021: I am currently looking for students to jointly apply for [IRC PhD funding](http://research.ie/funding/goipg/) and [IRC Postdoc funding](http://research.ie/funding/goipd/) with me.
