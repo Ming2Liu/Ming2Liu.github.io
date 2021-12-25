@@ -15,6 +15,8 @@ author_profile: true
 
 Supervision
 ======
+* H. Nguyen (Postdoc research fellow with SFI Insight Centre for Data Analytics, DCU, Principal Supervisor)
+* S. Zhu (Research assistant with SFI Insight Centre for Data Analytics, DCU, Principal Supervisor)
 * S. Yen (funded PhD in Electronic Engineering, DCU, Principal Supervisor)
 * H. Wu (funded Research Master in Electronic Engineering, DCU, Principal Supervisor)
 * C. Kenneally (B.Eng in Electronic Engineering, DCU, Principal Supervisor)
