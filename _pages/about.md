@@ -57,6 +57,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+*  Jan, 2022: Joined SFI Insight Centre for Data Analytics as a Funded Investigator.
 *  Oct, 2021: We are looking for one [two-year MSCA postdoc researcher](https://neuroinsight.eu/proposals/) for the NeuroInsight project. Let me know if you are interested. 
 *  Oct, 2021: Joined [NeuroInsight centre](https://neuroinsight.eu/) as a project supervisor (research lead). 
 *  Oct, 2021: Congratulations to my project student J.M. Adove for winning the IBM OpenSource Prize for her final year project.
