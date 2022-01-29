@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://ming2liu.github.io/files/mm_new.JPG" alt="Photo" style="width: 360px;"/> 
+  <img src="https://ming2liu.github.io/files/mm_pic1.jpg" alt="Photo" style="width: 360px;"/> 
 </p>
 
 <p align="center">
