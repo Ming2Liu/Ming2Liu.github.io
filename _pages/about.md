@@ -35,7 +35,7 @@ Research Interests
 *  Linear and Nonlinear Dynamical Systems 
 *  Machine Learning, Deep Learning, Data Science 
 *  Centralized, Decentralized, Distributed Control, Algorithms, Optimization 
-*  E-Mobility, Smart Grids, Intelligent Transportation Systems, Smart Cities
+*  E-Mobility, Smart Grids, Smart Transportation, Smart Healthcare, Smart Cities
 
 
 Project Experience 
