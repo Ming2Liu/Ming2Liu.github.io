@@ -58,6 +58,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+* Mar, 2022: One conference paper has been accepted by the IEEE VTC 2022-Spring. 
 * Feb, 2022: Joined the Expert Panel for Leadership for DCU Futures. 
 * Jan, 2022: Joined SFI Insight Centre for Data Analytics as a Funded Investigator.
 * Oct, 2021: We are looking for one [two-year MSCA postdoc researcher](https://neuroinsight.eu/proposals/) for the NeuroInsight project. Let me know if you are interested. 
