@@ -58,6 +58,8 @@ Please note that if your application is positive, you should typically expect to
 Recent News
 ======
 *  Mar, 2022: We have a 3-month scholarship to support a DCU student travelling to TU Berlin this summer, details of the project can be found [here](https://events.tu-berlin.de/de/events/f02f7d8a-1744-4749-836a-f17c8ab15b63/apply). Reach out to me if you are interested. DDL: 17th of April.
+*  Mar, 2022: One conference paper has been accepted by the IEEE VTC 2022-Spring.
+*  Feb, 2022: Joined the Expert Panel for Leadership for DCU Futures.
 *  Jan, 2022: Joined SFI Insight Centre for Data Analytics as a Funded Investigator.
 *  Oct, 2021: We are looking for one [two-year MSCA postdoc researcher](https://neuroinsight.eu/proposals/) for the NeuroInsight project. Let me know if you are interested. 
 *  Oct, 2021: Joined [NeuroInsight centre](https://neuroinsight.eu/) as a project supervisor (research lead). 
@@ -89,6 +91,5 @@ Recent News
 *  Sept, 2020: Our COVID-19 project has received funding from Google Cloud Platform to support its cloud infrastructure dev.
 *  Jun, 2020: Joined [SFI ML-Lab](https://www.ml-labs.ie/) as a research leader. 
 *  May, 2020: Joined [EU COST Action CA19126](https://www.cost.eu/actions/CA19126) as a funded MC member.
-
 
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?w=300&t=n&d=BR2Upx0sFRKc3PfVQr6-7suLXmtHNcoDIlN6fnmvC_g"></script>
