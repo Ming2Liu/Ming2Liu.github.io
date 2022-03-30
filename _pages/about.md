@@ -57,6 +57,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+*  Mar, 2022: We have a 3-month scholarship to support a DCU student travelling to TU Berlin this summer, details of the project can be found [here](https://events.tu-berlin.de/de/events/f02f7d8a-1744-4749-836a-f17c8ab15b63/apply). Reach out to me if you are interested. DDL: 17th of April.
 *  Jan, 2022: Joined SFI Insight Centre for Data Analytics as a Funded Investigator.
 *  Oct, 2021: We are looking for one [two-year MSCA postdoc researcher](https://neuroinsight.eu/proposals/) for the NeuroInsight project. Let me know if you are interested. 
 *  Oct, 2021: Joined [NeuroInsight centre](https://neuroinsight.eu/) as a project supervisor (research lead). 
