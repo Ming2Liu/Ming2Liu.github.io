@@ -57,7 +57,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
-*  Apr, 2022: One conference paper has been accepted by the 8th International Conference on Higher Education AAdvanced (HEAd'22)
+*  Apr, 2022: One conference paper has been accepted by the 8th International Conference on Higher Education AAdvanced (HEAd'22).
 *  Mar, 2022: We have a 3-month scholarship to support a DCU student travelling to TU Berlin this summer, details of the project can be found [here](https://events.tu-berlin.de/de/events/f02f7d8a-1744-4749-836a-f17c8ab15b63/apply). Reach out to me if you are interested. DDL: 17th of April.
 *  Mar, 2022: One conference paper has been accepted by the IEEE VTC 2022-Spring.
 *  Feb, 2022: Joined the Expert Panel for Leadership for DCU Futures.
