@@ -54,7 +54,7 @@ Recent News
 *  Apr, 2022: CFP - Special Issue on: [“Enabling Technologies for Zero-Emission Road Vehicles”](https://www.inderscience.com/info/ingeneral/cfp.php?id=5563), International Journal of Powertrains.
 *  Apr, 2022: One conference paper has been accepted by the 8th International Conference on Higher Education AAdvanced (HEAd'22).
 *  Mar, 2022: We have a 3-month scholarship to support a DCU student travelling to TU Berlin this summer, details of the project can be found [here](https://events.tu-berlin.de/de/events/f02f7d8a-1744-4749-836a-f17c8ab15b63/apply). Reach out to me if you are interested. DDL: 17th of April.
-*  Mar, 2022: One conference paper has been accepted by the IEEE VTC 2022-Spring.
+*  Mar, 2022: [One conference paper](https://arxiv.org/pdf/2203.14764.pdf) has been accepted by the IEEE VTC 2022-Spring.
 *  Feb, 2022: Joined the Expert Panel for Leadership for DCU Futures.
 *  Jan, 2022: Joined SFI Insight Centre for Data Analytics as a Funded Investigator.
 *  Oct, 2021: We are looking for one [two-year MSCA postdoc researcher](https://neuroinsight.eu/proposals/) for the NeuroInsight project. Let me know if you are interested. 
