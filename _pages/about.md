@@ -34,7 +34,7 @@ Research Interests
 
 Project Experience 
 ======
-*  Huawei SRE Project, PI, Funded with Grant €270k+
+*  [Huawei SRE Project](https://www.dcu.ie/sites/default/files/inline-files/rf1531-postdoctoral-researcher-huawei-project-jd.pdf), PI, Funded with Grant €270k+
 *  [5G-Solutions](https://www.5gsolutionsproject.eu/) (EU H2020), PI, WP Lead, Grant €660k+
 *  [Insight DCU TU/IoT](https://l2learning.computing.dcu.ie/login/), Co-PI with Prof. A. Smeaton et al., Grant €50k, co-funded by Google Cloud Research Credits (PI, €5k)  
 *  [ICONET](https://www.iconetproject.eu/) (EU H2020), Task Tech Lead
@@ -52,7 +52,7 @@ Please note that if your application is positive, you should typically expect to
 Recent News
 ======
 *  Apr, 2022: CFP - Special Issue on: [“Enabling Technologies for Zero-Emission Road Vehicles”](https://www.inderscience.com/info/ingeneral/cfp.php?id=5563), International Journal of Powertrains.
-*  Apr, 2022: One conference paper has been accepted by the 8th International Conference on Higher Education Advanced (HEAd'22).
+*  Apr, 2022: [One conference paper](https://arxiv.org/abs/2204.10393#) has been accepted by the 8th International Conference on Higher Education Advanced (HEAd'22).
 *  Mar, 2022: We have a 3-month scholarship to support a DCU student travelling to TU Berlin this summer, details of the project can be found [here](https://events.tu-berlin.de/de/events/f02f7d8a-1744-4749-836a-f17c8ab15b63/apply). Reach out to me if you are interested. DDL: 17th of April.
 *  Mar, 2022: [One conference paper](https://arxiv.org/pdf/2203.14764.pdf) has been accepted by the IEEE VTC 2022-Spring.
 *  Feb, 2022: Joined the Expert Panel for Leadership for DCU Futures.
