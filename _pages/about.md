@@ -56,7 +56,7 @@ Recent News
 *  Mar, 2022: We have a 3-month scholarship to support a DCU student travelling to TU Berlin this summer, details of the project can be found [here](https://events.tu-berlin.de/de/events/f02f7d8a-1744-4749-836a-f17c8ab15b63/apply). Reach out to me if you are interested. DDL: 17th of April.
 *  Mar, 2022: [One conference paper](https://arxiv.org/pdf/2203.14764.pdf) has been accepted by the IEEE VTC 2022-Spring.
 *  Feb, 2022: Joined the Expert Panel for Leadership for DCU Futures.
-*  Jan, 2022: Joined SFI Insight Centre for Data Analytics as a Funded Investigator.
+*  Jan, 2022: Joined SFI Insight Centre for Data Analytics as a [Funded Investigator](https://www.insight-centre.org/our-team/dr-mingming-liu/).
 *  Oct, 2021: We are looking for one [two-year MSCA postdoc researcher](https://neuroinsight.eu/proposals/) for the NeuroInsight project. Let me know if you are interested. 
 *  Oct, 2021: Joined [NeuroInsight centre](https://neuroinsight.eu/) as a project supervisor (research lead). 
 *  Oct, 2021: Congratulations to my project student J.M. Adove for winning the IBM OpenSource Prize for her final year project.
