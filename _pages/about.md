@@ -51,6 +51,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+*  May, 2022: I have joined PLOS One journal as an academic editor.
 *  Apr, 2022: I have been elevated to the IEEE Senior Member. 
 *  Apr, 2022: CFP - Special Issue on: [“Enabling Technologies for Zero-Emission Road Vehicles”](https://www.inderscience.com/info/ingeneral/cfp.php?id=5563), International Journal of Powertrains.
 *  Apr, 2022: [One conference paper](https://arxiv.org/abs/2204.10393#) has been accepted by the 8th International Conference on Higher Education Advanced (HEAd'22).
