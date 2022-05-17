@@ -51,6 +51,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+*  May, 2022: I have joined the Journal of Information Systems and Operational Research (INFOR) as an Associate Editor.
 *  May, 2022: Three papers have been accepted by the EUROCALL 2022 conference.
 *  May, 2022: I have joined PLOS One journal as an academic editor.
 *  Apr, 2022: I have been elevated to the IEEE Senior Member. 
