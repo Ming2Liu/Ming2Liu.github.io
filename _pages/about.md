@@ -51,6 +51,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+*  Jun, 2022: One conference paper as been accepted by the IEEE ITSC 2022.
 *  May, 2022: [One conference paper](https://arxiv.org/abs/2206.01609) has been accepted by the Global IoT Summit 2022.
 *  May, 2022: I have joined the [Journal of Information Systems and Operational Research (INFOR)](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=tinf20) as an Associate Editor.
 *  May, 2022: Three papers have been accepted by the EUROCALL 2022 conference.
