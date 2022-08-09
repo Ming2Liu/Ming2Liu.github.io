@@ -51,6 +51,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+*  Aug, 2022: [One journal paper](https://www.mdpi.com/1424-8220/22/16/5945) has been accepted by Sensors. 
 *  Jun, 2022: [One journal paper](https://www.frontiersin.org/articles/10.3389/feduc.2022.733646/abstract) has been accepted by Frontiers in Education. 
 *  Jun, 2022: [One conference paper](https://arxiv.org/abs/2207.00824) has been accepted by the IEEE ITSC 2022.
 *  May, 2022: [One conference paper](https://arxiv.org/abs/2206.01609) has been accepted by the Global IoT Summit 2022.
