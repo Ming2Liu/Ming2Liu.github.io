@@ -51,47 +51,48 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
-*  Aug, 2022: [One journal paper](https://www.mdpi.com/1424-8220/22/16/5945) has been accepted by Sensors. 
-*  Jun, 2022: [One journal paper](https://www.frontiersin.org/articles/10.3389/feduc.2022.733646/abstract) has been accepted by Frontiers in Education. 
-*  Jun, 2022: [One conference paper](https://arxiv.org/abs/2207.00824) has been accepted by the IEEE ITSC 2022.
-*  May, 2022: [One conference paper](https://arxiv.org/abs/2206.01609) has been accepted by the Global IoT Summit 2022.
-*  May, 2022: I have joined the [Journal of Information Systems and Operational Research (INFOR)](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=tinf20) as an Associate Editor.
-*  May, 2022: Three papers have been accepted by the EUROCALL 2022 conference.
-*  May, 2022: I have joined PLOS One journal as an academic editor.
-*  Apr, 2022: I have been elevated to the IEEE Senior Member. 
-*  Apr, 2022: CFP - Special Issue on: [“Enabling Technologies for Zero-Emission Road Vehicles”](https://www.inderscience.com/info/ingeneral/cfp.php?id=5563), International Journal of Powertrains.
-*  Apr, 2022: [One conference paper](https://arxiv.org/abs/2204.10393#) has been accepted by the 8th International Conference on Higher Education Advanced (HEAd'22).
-*  Mar, 2022: We have a 3-month scholarship to support a DCU student travelling to TU Berlin this summer, details of the project can be found [here](https://events.tu-berlin.de/de/events/f02f7d8a-1744-4749-836a-f17c8ab15b63/apply). Reach out to me if you are interested. DDL: 17th of April.
-*  Mar, 2022: [One conference paper](https://arxiv.org/pdf/2203.14764.pdf) has been accepted by the IEEE VTC 2022-Spring.
-*  Feb, 2022: Joined the Expert Panel for Leadership for DCU Futures.
-*  Jan, 2022: Joined SFI Insight Centre for Data Analytics as a [Funded Investigator](https://www.insight-centre.org/our-team/dr-mingming-liu/).
-*  Oct, 2021: We are looking for one [two-year MSCA postdoc researcher](https://neuroinsight.eu/proposals/) for the NeuroInsight project. Let me know if you are interested. 
-*  Oct, 2021: Joined [NeuroInsight centre](https://neuroinsight.eu/) as a project supervisor (research lead). 
-*  Oct, 2021: Congratulations to my project student J.M. Adove for winning the IBM OpenSource Prize for her final year project.
-*  Oct, 2021: [One journal paper](https://ieeexplore.ieee.org/document/9597533) has been accepted by IEEE Transactions on Transportation Electrification. 
-*  Oct, 2021: Joined [EU COST Action CA20138](https://www.cost.eu/actions/CA20138) as a funded MC member.
-*  Oct, 2021: I am currently looking for students to jointly apply for [IRC PhD funding](http://research.ie/funding/goipg/) and [IRC Postdoc funding](http://research.ie/funding/goipd/) with me.
-*  Sept, 2021: [One journal paper](http://doras.dcu.ie/26298/) has been accepted by Sustainability. 
-*  Sept, 2021: [One journal paper](http://doras.dcu.ie/26297/) has been accepted by the Nature Scientic Report.
-*  Aug, 2021: [One conference paper](http://doras.dcu.ie/26111/) has been accepted by the IEEE VTC 2021-Fall.
-*  Jun, 2021: We are looking for [one postdoc researcher](https://www.dcu.ie/sites/default/files/inline-files/rf1531-postdoctoral-researcher-huawei-project-jd.pdf) and [one research assistant](https://www.dcu.ie/sites/default/files/inline-files/rf1529-jd-research-assistant-huawei.pdf) for the Huawei project, please contact me if interested. 
-*  Jun, 2021: [National media report](https://www.irishtimes.com/business/technology/how-are-you-feeling-ai-wants-to-know-1.4605972) on the [Help-Me-Watch system](https://helpmewatch.computing.dcu.ie/) developed together with Prof Alan Smeaton at DCU. 
-*  Jun, 2021: [One conference paper](http://doras.dcu.ie/26171/) has been accepted by International Conference on Sustainability in Energy and Buildings (SEB-21).
-*  Jun, 2021: One invited lecture has been presented to students in the Ide3a project.
-*  Jun, 2021: [One conference paper](http://doras.dcu.ie/26053/) has been accepted by IEEE ITSC 2021. 
-*  Jun, 2021: One fully-funded PhD position is available in our group, please contact me if you are interested.
-*  Jun, 2021: [One conference paper](http://doras.dcu.ie/26032/1/Usage-based_Summaries_of_Video_Learning_Material.pdf) has been accepted by the 16th European Conference on Technology Enhanced Learning (EC-TEL).
-*  May, 2021: Three journal papers have been submitted from our group to IEEE TITS, Nature SR and Energy (Elsevier). 
-*  Apr, 2021: [One conference paper](http://doras.dcu.ie/25764/) has been accepted by the 7th IEEE World Forum on Internet of Things (IEEE WF-IoT).
-*  Mar, 2021:  Congratulations to my project students C. Muli and J.M. Adove for winning [Ide3a scholarships](https://ide3a.net/first-ide3a-scholarship-holders-arrived-at-tu-berlin/) for their FYPs to be continually carried out at TU Berlin! 
-*  Feb, 2021:  [One conference paper](http://doras.dcu.ie/25596/) has been accepted by the 6th ACM/IEEE Conference on Internet of Things and Implementation (IoTDI 2021). 
-*  Feb, 2021:  [One conference paper](http://doras.dcu.ie/25741/) has been accepted by the IEEE 93rd Vehicular Technology Conference (VTC2021-Spring) for presentation.
-*  Jan, 2021:  [One journal paper](http://doras.dcu.ie/25397/) has been accepted by the IEEE Transactions on Intelligent Transportation Systems.
-*  Dec, 2020:  [One journal paper](http://doras.dcu.ie/25740/) has been accepted by the IEEE System Journal. 
-*  Dec, 2020:  [One conference paper](http://doras.dcu.ie/25395/) has been accepted by the AAAI workshop.
-*  Oct, 2020:  Congratulations to my master student R.Dhakshinamurthy for getting [one regular paper](https://arxiv.org/pdf/2010.06062.pdf) accepted by the IEEE GCAIoT 2020!
-*  Oct, 2020:  Congratulations to my bachelor student Z. Murphy for winning the [IBM Opensource Expo prize](https://ece.eeng.dcu.ie/the-ibm-opensource-prizes-goes-to/) for her final year project!
-*  Sept, 2020: One funded research master position is available, contact me if you are interested.  
-*  Sept, 2020: Our COVID-19 project has received funding from Google Cloud Platform to support its cloud infrastructure dev.
-*  Jun, 2020: Joined [SFI ML-Lab](https://www.ml-labs.ie/) as a research leader. 
-*  May, 2020: Joined [EU COST Action CA19126](https://www.cost.eu/actions/CA19126) as a funded MC member.
+* Sep, 2022: One conference paper has been accepted by IEEE International Conference on Cloud Networking (IEEE CloudNet 2022). 
+* Aug, 2022: [One journal paper](https://www.mdpi.com/1424-8220/22/16/5945) has been accepted by Sensors. 
+* Jun, 2022: [One journal paper](https://www.frontiersin.org/articles/10.3389/feduc.2022.733646/abstract) has been accepted by Frontiers in Education. 
+* Jun, 2022: [One conference paper](https://arxiv.org/abs/2207.00824) has been accepted by the IEEE ITSC 2022.
+* May, 2022: [One conference paper](https://arxiv.org/abs/2206.01609) has been accepted by the Global IoT Summit 2022.
+* May, 2022: I have joined the [Journal of Information Systems and Operational Research (INFOR)](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=tinf20) as an Associate Editor.
+* May, 2022: Three papers have been accepted by the EUROCALL 2022 conference.
+* May, 2022: I have joined PLOS One journal as an academic editor.
+* Apr, 2022: I have been elevated to the IEEE Senior Member. 
+* Apr, 2022: CFP - Special Issue on: [“Enabling Technologies for Zero-Emission Road Vehicles”](https://www.inderscience.com/info/ingeneral/cfp.php?id=5563), International Journal of Powertrains.
+* Apr, 2022: [One conference paper](https://arxiv.org/abs/2204.10393#) has been accepted by the 8th International Conference on Higher Education Advanced (HEAd'22).
+* Mar, 2022: We have a 3-month scholarship to support a DCU student travelling to TU Berlin this summer, details of the project can be found [here](https://events.tu-berlin.de/de/events/f02f7d8a-1744-4749-836a-f17c8ab15b63/apply). Reach out to me if you are interested. DDL: 17th of April.
+* Mar, 2022: [One conference paper](https://arxiv.org/pdf/2203.14764.pdf) has been accepted by the IEEE VTC 2022-Spring.
+* Feb, 2022: Joined the Expert Panel for Leadership for DCU Futures.
+* Jan, 2022: Joined SFI Insight Centre for Data Analytics as a [Funded Investigator](https://www.insight-centre.org/our-team/dr-mingming-liu/).
+* Oct, 2021: We are looking for one [two-year MSCA postdoc researcher](https://neuroinsight.eu/proposals/) for the NeuroInsight project. Let me know if you are interested. 
+* Oct, 2021: Joined [NeuroInsight centre](https://neuroinsight.eu/) as a project supervisor (research lead). 
+* Oct, 2021: Congratulations to my project student J.M. Adove for winning the IBM OpenSource Prize for her final year project.
+* Oct, 2021: [One journal paper](https://ieeexplore.ieee.org/document/9597533) has been accepted by IEEE Transactions on Transportation Electrification. 
+* Oct, 2021: Joined [EU COST Action CA20138](https://www.cost.eu/actions/CA20138) as a funded MC member.
+* Oct, 2021: I am currently looking for students to jointly apply for [IRC PhD funding](http://research.ie/funding/goipg/) and [IRC Postdoc funding](http://research.ie/funding/goipd/) with me.
+* Sept, 2021: [One journal paper](http://doras.dcu.ie/26298/) has been accepted by Sustainability. 
+* Sept, 2021: [One journal paper](http://doras.dcu.ie/26297/) has been accepted by the Nature Scientic Report.
+* Aug, 2021: [One conference paper](http://doras.dcu.ie/26111/) has been accepted by the IEEE VTC 2021-Fall.
+* Jun, 2021: We are looking for [one postdoc researcher](https://www.dcu.ie/sites/default/files/inline-files/rf1531-postdoctoral-researcher-huawei-project-jd.pdf) and [one research assistant](https://www.dcu.ie/sites/default/files/inline-files/rf1529-jd-research-assistant-huawei.pdf) for the Huawei project, please contact me if interested. 
+* Jun, 2021: [National media report](https://www.irishtimes.com/business/technology/how-are-you-feeling-ai-wants-to-know-1.4605972) on the [Help-Me-Watch system](https://helpmewatch.computing.dcu.ie/) developed together with Prof Alan Smeaton at DCU. 
+* Jun, 2021: [One conference paper](http://doras.dcu.ie/26171/) has been accepted by International Conference on Sustainability in Energy and Buildings (SEB-21).
+* Jun, 2021: One invited lecture has been presented to students in the Ide3a project.
+* Jun, 2021: [One conference paper](http://doras.dcu.ie/26053/) has been accepted by IEEE ITSC 2021. 
+* Jun, 2021: One fully-funded PhD position is available in our group, please contact me if you are interested.
+* Jun, 2021: [One conference paper](http://doras.dcu.ie/26032/1/Usage-based_Summaries_of_Video_Learning_Material.pdf) has been accepted by the 16th European Conference on Technology Enhanced Learning (EC-TEL).
+* May, 2021: Three journal papers have been submitted from our group to IEEE TITS, Nature SR and Energy (Elsevier). 
+* Apr, 2021: [One conference paper](http://doras.dcu.ie/25764/) has been accepted by the 7th IEEE World Forum on Internet of Things (IEEE WF-IoT).
+* Mar, 2021:  Congratulations to my project students C. Muli and J.M. Adove for winning [Ide3a scholarships](https://ide3a.net/first-ide3a-scholarship-holders-arrived-at-tu-berlin/) for their FYPs to be continually carried out at TU Berlin! 
+* Feb, 2021:  [One conference paper](http://doras.dcu.ie/25596/) has been accepted by the 6th ACM/IEEE Conference on Internet of Things and Implementation (IoTDI 2021). 
+* Feb, 2021:  [One conference paper](http://doras.dcu.ie/25741/) has been accepted by the IEEE 93rd Vehicular Technology Conference (VTC2021-Spring) for presentation.
+* Jan, 2021:  [One journal paper](http://doras.dcu.ie/25397/) has been accepted by the IEEE Transactions on Intelligent Transportation Systems.
+* Dec, 2020:  [One journal paper](http://doras.dcu.ie/25740/) has been accepted by the IEEE System Journal. 
+* Dec, 2020:  [One conference paper](http://doras.dcu.ie/25395/) has been accepted by the AAAI workshop.
+* Oct, 2020:  Congratulations to my master student R.Dhakshinamurthy for getting [one regular paper](https://arxiv.org/pdf/2010.06062.pdf) accepted by the IEEE GCAIoT 2020!
+* Oct, 2020:  Congratulations to my bachelor student Z. Murphy for winning the [IBM Opensource Expo prize](https://ece.eeng.dcu.ie/the-ibm-opensource-prizes-goes-to/) for her final year project!
+* Sept, 2020: One funded research master position is available, contact me if you are interested.  
+* Sept, 2020: Our COVID-19 project has received funding from Google Cloud Platform to support its cloud infrastructure dev.
+* Jun, 2020: Joined [SFI ML-Lab](https://www.ml-labs.ie/) as a research leader. 
+* May, 2020: Joined [EU COST Action CA19126](https://www.cost.eu/actions/CA19126) as a funded MC member.
