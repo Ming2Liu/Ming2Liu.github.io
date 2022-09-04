@@ -93,7 +93,7 @@ Recent News
 * Dec, 2020:  [One conference paper](http://doras.dcu.ie/25395/) has been accepted by the AAAI workshop.
 * Oct, 2020:  Congratulations to my master student R.Dhakshinamurthy for getting [one regular paper](https://arxiv.org/pdf/2010.06062.pdf) accepted by the IEEE GCAIoT 2020!
 * Oct, 2020:  Congratulations to my bachelor student Z. Murphy for winning the [IBM Opensource Expo prize](https://ece.eeng.dcu.ie/the-ibm-opensource-prizes-goes-to/) for her final year project!
-* Sept, 2020: One funded research master position is available, contact me if you are interested.  
-* Sept, 2020: Our COVID-19 project has received funding from Google Cloud Platform to support its cloud infrastructure dev.
+* Sep, 2020: One funded research master position is available, contact me if you are interested.  
+* Sep, 2020: Our COVID-19 project has received funding from Google Cloud Platform to support its cloud infrastructure dev.
 * Jun, 2020: Joined [SFI ML-Lab](https://www.ml-labs.ie/) as a research leader. 
 * May, 2020: Joined [EU COST Action CA19126](https://www.cost.eu/actions/CA19126) as a funded MC member.
