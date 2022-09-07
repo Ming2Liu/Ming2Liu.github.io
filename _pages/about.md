@@ -51,7 +51,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
-* Sep, 2022: One conference paper has been accepted by IEEE International Conference on Cloud Networking (IEEE CloudNet 2022).
+* Sep, 2022: [One conference paper](https://arxiv.org/abs/2209.02551) has been accepted by IEEE International Conference on Cloud Networking (IEEE CloudNet 2022).
 * Aug, 2022: [One journal paper](https://www.mdpi.com/1424-8220/22/16/5945) has been accepted by Sensors.
 * Jul, 2022: Joined [EU COST Action CA21131](https://www.cost.eu/actions/CA21131) as a funded MC member.
 * Jun, 2022: [One journal paper](https://www.frontiersin.org/articles/10.3389/feduc.2022.733646/abstract) has been accepted by Frontiers in Education. 
