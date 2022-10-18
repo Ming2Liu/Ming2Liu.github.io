@@ -51,6 +51,8 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+* Oct, 2022: We are currenty looking for a Postdoc researcher who has background in any aspects of NLP, AI, Neuroscience, Smart Health for a 2-year Irish-based MSCA NeuroInsight programme. Please contact me if you are interested. More details can be found [here](https://www.linkedin.com/posts/liumingming_home-neuroinsight-activity-6987855347755409409-8GZB?utm_source=share&utm_medium=member_desktop)
+* Oct, 2022: Congratulations to my FYP student C. Kenneally for being named on the Dean's Honours List this year. Well done Colm.
 * Sep, 2022: [One conference paper](https://arxiv.org/abs/2209.02551) has been accepted by IEEE International Conference on Cloud Networking (IEEE CloudNet 2022).
 * Aug, 2022: [One journal paper](https://www.mdpi.com/1424-8220/22/16/5945) has been accepted by Sensors.
 * Jul, 2022: Joined [EU COST Action CA21131](https://www.cost.eu/actions/CA21131) as a funded MC member.
