@@ -51,6 +51,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+* Oct, 2022: I visited TU Berlin with the invitation of Prof. S. Park.
 * Oct, 2022: Our group has attended the SFI Insight Showcase Smart Surroundings event with presentations, posters and demos for the research work on Data Analytics for Microservice-based Applications and E-mobility. See [here](http://ming2liu.github.io/talks/InsightShowcaseNew.pdf) for details. 
 * Oct, 2022: We are currenty looking for a Postdoc researcher who has background in any aspects of NLP, AI, Neuroscience, Smart Health for a 2-year Irish-based MSCA NeuroInsight programme supervised by me and Prof. Gianpiero Cavalleri at RCSI. Please contact me if you are interested. More details can be found [here](https://www.linkedin.com/posts/liumingming_home-neuroinsight-activity-6987855347755409409-8GZB?utm_source=share&utm_medium=member_desktop).
 * Oct, 2022: Congratulations to my FYP student C. Kenneally for being named on the Dean's Honours List this year. Well done Colm.
