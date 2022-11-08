@@ -36,7 +36,7 @@ Project Experience
 ======
 *  [Huawei SRE Project](https://www.dcu.ie/sites/default/files/inline-files/rf1531-postdoctoral-researcher-huawei-project-jd.pdf), PI, Funded with Grant €270k+
 *  [5G-Solutions](https://www.5gsolutionsproject.eu/) (EU H2020), PI, WP Lead, Grant €660k+
-*  [Insight DCU TU/IoT](https://l2learning.computing.dcu.ie/login/), Co-PI with Prof. A. Smeaton et al., Grant €50k, co-funded by Google Cloud Research Credits (PI, €5k)  
+*  [Insight DCU TU/IoT](https://www.insight-centre.org/tu-iot-collaborations-2022/), Co-PI with Prof. A. Smeaton et al., Grant €50k, co-funded by Google Cloud Research Credits (PI, €5k)  
 *  [ICONET](https://www.iconetproject.eu/) (EU H2020), Task Tech Lead
 *  [VI-DAS](http://www.vi-das.eu/) (EU H2020), WP Tech Lead
 *  [Chariot](https://www.chariotproject.eu/) (EU H2020), Task Tech Contributor 
