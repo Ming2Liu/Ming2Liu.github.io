@@ -27,7 +27,7 @@ Research Interests
 *  5G & IoT Applications 
 *  Edge, Fog and Cloud Computing 
 *  Linear and Nonlinear Dynamical Systems 
-*  Machine Learning, Deep Learning, Data Science 
+*  Machine Learning, Deep Learning, Data Science, SRE/MLOps 
 *  Centralized, Decentralized, Distributed Control, Algorithms, Optimization 
 *  E-Mobility, Smart Grids, Smart Transportation, Smart Healthcare, Smart Cities
 
