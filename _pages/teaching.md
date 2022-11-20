@@ -23,7 +23,7 @@ Supervision
 * A. Mohammadhoseini (Master in IoT, DCU, Principal Supervisor)
 * J. Bryan (Master in IoT, DCU, Principal Supervisor)
 * H. Kumar (Master in IoT, DCU, Principal Supervisor)
-* I. Yadav (Master in IoT, DCU, Principla Supervisor)  
+* I. Yadav (Master in IoT, DCU, Principal Supervisor)  
 * C. Kenneally (B.Eng in Electronic Engineering, DCU, Principal Supervisor)
 * J. McConnon (B.Eng in Electronic Engineering, DCU, Principal Supervisor)
 * S. Chandra (Master in Computing, DCU, Co-Supervisor with T. Ward)
