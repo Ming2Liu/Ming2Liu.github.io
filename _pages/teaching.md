@@ -16,6 +16,7 @@ author_profile: true
 Supervision
 ======
 * S. Mandal (funded PhD in Electronic Engineering, DCU, Principal Supervisor)
+* C. Kaundanya (funded PhD in Computing, DCU, Co-Supervisor)
 * H. Nguyen (Postdoc research fellow with SFI Insight Centre for Data Analytics, DCU, Principal Supervisor)
 * S. Zhu (Research assistant with SFI Insight Centre for Data Analytics, DCU, Principal Supervisor)
 * S. Yen (funded PhD in Electronic Engineering, DCU, Principal Supervisor)
