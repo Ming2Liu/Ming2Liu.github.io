@@ -51,7 +51,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
-* Nov, 2022: Our Huawei project has received the DCU Invent Commercialization Award.
+* Nov, 2022: Our Huawei project has received the [DCU Invent Commercialization Award](http://ming2liu.github.io/images/invent_award.jpg).
 * Nov, 2022: We are currently looking for a [Research Assistant](https://lnkd.in/ej2grMqM) and a [Postdoc Researcher](https://lnkd.in/ePbHTX9F) for the Shared E-mobility project. Please reach out to me if you are interested. 
 * Oct, 2022: I visited TU Berlin with the invitation of Prof. S. Park.
 * Oct, 2022: Our group has attended the SFI Insight Showcase Smart Surroundings event with presentations, posters and demos for the research work on Data Analytics for Microservice-based Applications and E-mobility. See [here](http://ming2liu.github.io/talks/InsightShowcaseNew.pdf) for details. 
