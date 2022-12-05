@@ -51,6 +51,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+* Dec, 2022: [One journal paper](https://www.mdpi.com/1424-8220/22/23/9492/htm) has been accepted by Sensors.
 * Nov, 2022: Our Huawei project has received the [DCU Invent Commercialization Award](http://ming2liu.github.io/images/invent_award.jpg).
 * Nov, 2022: We are currently looking for a [Research Assistant](https://lnkd.in/ej2grMqM) and a [Postdoc Researcher](https://lnkd.in/ePbHTX9F) for the Shared E-mobility project. Please reach out to me if you are interested. 
 * Oct, 2022: I visited TU Berlin with the invitation of Prof. S. Park.
