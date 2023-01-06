@@ -34,15 +34,16 @@ Research Interests
 
 Project Experience 
 ======
-*  [Huawei SRE Project](https://www.dcu.ie/sites/default/files/inline-files/rf1531-postdoctoral-researcher-huawei-project-jd.pdf), PI, Funded with Grant €270k+
-*  [5G-Solutions](https://www.5gsolutionsproject.eu/) (EU H2020), PI, WP Lead, Grant €660k+
-*  [Insight DCU TU/IoT](https://www.insight-centre.org/tu-iot-collaborations-2022/), Co-PI with Prof. A. Smeaton et al., Grant €50k, co-funded by Google Cloud Research Credits (PI, €5k)  
-*  [ICONET](https://www.iconetproject.eu/) (EU H2020), Task Tech Lead
-*  [VI-DAS](http://www.vi-das.eu/) (EU H2020), WP Tech Lead
-*  [Chariot](https://www.chariotproject.eu/) (EU H2020), Task Tech Contributor 
-*  [COPKIT](https://copkit.eu/) (EU H2020), Task Tech Contributor 
-*  [Enable-S3](https://cordis.europa.eu/project/id/692455) (EU H2020), Task Tech Contributor
-*  [Green Transportation and Communication Networks](https://www.hamilton.ie/new-3m-research-project-in-green-transport-and-communications-networks-announced.htm) (SFI), Task Tech Contributor
+* [SFI-Funded Project](https://lnkd.in/ePbHTX9F), PI, Funded with Grant €320k+
+* [Huawei SRE Project](https://www.dcu.ie/sites/default/files/inline-files/rf1531-postdoctoral-researcher-huawei-project-jd.pdf), PI, Funded with Grant €270k+
+* [5G-Solutions](https://www.5gsolutionsproject.eu/) (EU H2020), PI, WP Lead, Grant €660k+
+* [Insight DCU TU/IoT](https://www.insight-centre.org/tu-iot-collaborations-2022/), Co-PI with Prof. A. Smeaton et al., Grant €50k, co-funded by Google Cloud Research Credits (PI, €5k)  
+* [ICONET](https://www.iconetproject.eu/) (EU H2020), Task Tech Lead
+* [VI-DAS](http://www.vi-das.eu/) (EU H2020), WP Tech Lead
+* [Chariot](https://www.chariotproject.eu/) (EU H2020), Task Tech Contributor 
+* [COPKIT](https://copkit.eu/) (EU H2020), Task Tech Contributor 
+* [Enable-S3](https://cordis.europa.eu/project/id/692455) (EU H2020), Task Tech Contributor
+* [Green Transportation and Communication Networks](https://www.hamilton.ie/new-3m-research-project-in-green-transport-and-communications-networks-announced.htm) (SFI), Task Tech Contributor
 
 Opening Vacancies 
 ======
@@ -51,6 +52,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+* Jan, 2023: [One book chapter](https://link.springer.com/book/10.1007/978-3-031-20936-9?sap-outbound-id=FBD9AA2CB1B44B38CEF3AD97F8673E5BA897C803) has been published by Springer. 
 * Dec, 2022: [One journal paper](https://www.mdpi.com/1424-8220/22/23/9492/htm) has been accepted by Sensors.
 * Nov, 2022: Our Huawei project has received the [DCU Invent Commercialization Award](http://ming2liu.github.io/images/invent_award.jpg).
 * Nov, 2022: We are currently looking for a [Research Assistant](https://lnkd.in/ej2grMqM) and a [Postdoc Researcher](https://lnkd.in/ePbHTX9F) for the Shared E-mobility project. Please reach out to me if you are interested. 
