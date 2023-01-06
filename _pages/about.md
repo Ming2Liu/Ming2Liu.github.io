@@ -52,6 +52,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+* Jan, 2023: Please contact me if you are interested in a funded-PhD position in Ireland doing machine learning related research with me. More details can be found [here](https://www.ml-labs.ie/apply/). 
 * Jan, 2023: [One book chapter](https://link.springer.com/book/10.1007/978-3-031-20936-9?sap-outbound-id=FBD9AA2CB1B44B38CEF3AD97F8673E5BA897C803) has been published by Springer. 
 * Dec, 2022: [One journal paper](https://www.mdpi.com/1424-8220/22/23/9492/htm) has been accepted by Sensors.
 * Nov, 2022: Our Huawei project has received the [DCU Invent Commercialization Award](http://ming2liu.github.io/images/invent_award.jpg).
