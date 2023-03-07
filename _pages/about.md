@@ -34,7 +34,7 @@ Research Interests
 
 Project Experience 
 ======
-* [SFI-Funded Project](https://lnkd.in/ePbHTX9F), PI, Funded with Grant €320k+
+* [SFI-Funded Project](https://lnkd.in/ePbHTX9F), PI, Funded with Grant €320k+, co-funded by Google Cloud Research Credits (PI, €5k)
 * [Huawei SRE Project](https://www.dcu.ie/sites/default/files/inline-files/rf1531-postdoctoral-researcher-huawei-project-jd.pdf), PI, Funded with Grant €270k+
 * [5G-Solutions](https://www.5gsolutionsproject.eu/) (EU H2020), PI, WP Lead, Grant €660k+
 * [Insight DCU TU/IoT](https://www.insight-centre.org/tu-iot-collaborations-2022/), Co-PI with Prof. A. Smeaton et al., Grant €50k, co-funded by Google Cloud Research Credits (PI, €5k)  
@@ -52,6 +52,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+* Mar, 2023: Our SFI project has received external funding support from Google Cloud Research Credits for 5k. 
 * Feb, 2023: Our group attended the [Google Air Quality Hackathon](http://ming2liu.github.io/talks/hackathon.png) at Google Dublin.
 * Feb, 2023: Please contact me if you are interested in a two-year postdoctoral researcher position in Ireland doing e-mobility related research with me.
 * Jan, 2023: Please contact me if you are interested in a funded-PhD position in Ireland doing machine learning related research with me. 
