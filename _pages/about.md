@@ -52,7 +52,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
-* Mar, 2023: Our SFI project has received external funding support from Google Cloud Research Credits for 5k. 
+* Mar, 2023: Our SFI project has received external funding support from Google Cloud Research Credits for €5k. 
 * Feb, 2023: Our group attended the [Google Air Quality Hackathon](http://ming2liu.github.io/talks/hackathon.png) at Google Dublin.
 * Feb, 2023: Please contact me if you are interested in a two-year postdoctoral researcher position in Ireland doing e-mobility related research with me.
 * Jan, 2023: Please contact me if you are interested in a funded-PhD position in Ireland doing machine learning related research with me. 
