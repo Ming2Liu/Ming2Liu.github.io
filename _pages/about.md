@@ -52,6 +52,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+* Mar, 2023: Our proposal ``New Technological Trends in Shared Mobility Systems” has been accepted for its inclusion in the program of the IEEE-ITSC 2023 conference.
 * Mar, 2023: Our SFI project has received external funding support from Google Cloud Research Credits for €5k. 
 * Feb, 2023: Our group attended the [Google Air Quality Hackathon](http://ming2liu.github.io/talks/hackathon.png) at Google Dublin.
 * Feb, 2023: Please contact me if you are interested in a two-year postdoctoral researcher position in Ireland doing e-mobility related research with me.
