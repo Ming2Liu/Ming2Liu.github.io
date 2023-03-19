@@ -5,11 +5,14 @@ permalink: /activities/
 author_profile: true
 ---
 
-*  IEEE Member
-*  IEEE Power & Energy Socieity Member
-*  IEEE ICNP 2017 Technical Programme Committee Member 
-*  5th IEEE WF-IoT Conference Organising Committee Co-Chair & Automotive Track Co-Chair
-*  Urban Transportation Systems and Mobility Editorial Board Member 
+* IEEE Senior Member
+* Academic Editor for PLOS ONE
+* IEEE Power & Energy Socieity Member
+* IEEE Intelligent Transportation Society Member
+* IEEE ICNP 2017 Technical Programme Committee Member 
+* Urban Transportation Systems and Mobility Editorial Board Member
+* Associate Editor for the Journal of Information Systems and Operational Research 
+* 5th IEEE WF-IoT Conference Organising Committee Co-Chair & Automotive Track Co-Chair
 
 Technical Talks
 ======
@@ -22,13 +25,14 @@ Technical Talks
 Scientific Reviewer
 ======
 
-*  Energies 
-*  IEEE Transactions on Intelligent Transportation Systems
-*  IEEE Transactions on Systems, Man, and Cybernetics: Systems
-*  Transactions of the Institute of Measurement and Control
-*  International Journal of Electrical Power and Energy System
-*  IEEE ICNP 2017 conference
-*  Irish Signals and Systems Conference 
-*  First International Workshop on Urban Reasoning (in conjunction with ECML-PKDD)
+* Energies 
+* IEEE ICNP 2017 conference
+* IEEE Internet of Things Journal
+* Irish Signals and Systems Conference 
+* IEEE Transactions on Intelligent Transportation Systems
+* Transactions of the Institute of Measurement and Control
+* IEEE Transactions on Systems, Man, and Cybernetics: Systems
+* International Journal of Electrical Power and Energy System
+* First International Workshop on Urban Reasoning (in conjunction with ECML-PKDD)
 
 
