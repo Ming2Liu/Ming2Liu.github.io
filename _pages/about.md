@@ -52,7 +52,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
-* Apr, 2023: My recent research work on EVs has been highlighted in the Insight Sustainability week, see link [here](https://www.insight-centre.org/insight-sustainability-mingming-liu-teaching-electric-vehicles-to-learn-from-eachother/).  
+* Apr, 2023: My recent research work on EVs has been highlighted in the Insight Sustainability week, please find more [here](https://www.insight-centre.org/insight-sustainability-mingming-liu-teaching-electric-vehicles-to-learn-from-eachother/).  
 * Apr, 2023: We presented a [lay-person poster](http://ming2liu.github.io/files/surveyposter.pdf) for the faculty research day event at DCU. 
 * Mar, 2023: We are orgainising a Special Session for the IEEE ITSC 2023, please see our CFP ["New Technological Trends in Shared Mobility Systems"](http://ming2liu.github.io/files/CFP.pdf) for more details. Submission DDL: 15th of May 2023.
 * Mar, 2023: Our SFI project has received external funding support from Google Cloud Research for €5k. 
