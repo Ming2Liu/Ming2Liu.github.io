@@ -52,6 +52,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+* May, 2023: We are organising a Special Session for the CVCI 2023, please see our CFP ["Smart & Sustainable Enabling Technologies for E-Mobility"](http://ming2liu.github.io/files/emcfp.pdf)
 * Apr, 2023: Congrats to my student Sen Yan who has won the [best presentation](http://ming2liu.github.io/files/sen.jpeg) at the DCU Faculty of Engineering and Computing Research Day 2023 for his work in machine learning for smart transportation. 
 * Apr, 2023: My recent research work on EVs has been highlighted in the Insight Sustainability week, please find more [here](https://www.insight-centre.org/insight-sustainability-mingming-liu-teaching-electric-vehicles-to-learn-from-eachother/).  
 * Apr, 2023: We presented a [lay-person poster](http://ming2liu.github.io/files/surveyposter.pdf) for the faculty research day event at DCU. 
