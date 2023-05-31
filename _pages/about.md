@@ -35,7 +35,7 @@ Research Interests
 
 Project Experience 
 ======
-* [SFI Frontiers for the Future Programme](https://lnkd.in/ePbHTX9F), PI, Funded with Grant €320k+, co-funded by Google Cloud Research (PI, €5k)
+* [SFI Frontiers for the Future Programme](https://lnkd.in/ejxwqNCr), PI, Funded with Grant €335k, co-funded by Google Cloud Research (PI, €5k)
 * [Huawei SRE Project](https://www.dcu.ie/sites/default/files/inline-files/rf1531-postdoctoral-researcher-huawei-project-jd.pdf), PI, Funded with Grant €270k+
 * [5G-Solutions](https://www.5gsolutionsproject.eu/) (EU H2020), PI, WP Lead, Grant €660k+
 * [Insight DCU TU/IoT](https://www.insight-centre.org/tu-iot-collaborations-2022/), Co-PI with Prof. A. Smeaton et al., Grant €50k, co-funded by Google Cloud Research (PI, €5k)  
