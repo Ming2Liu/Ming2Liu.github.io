@@ -53,6 +53,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+* May, 2023: The proposal "AIAware" has been funded by the Insight PRI Project Programme. 
 * May, 2023: I was invited to give a talk on "Graph Neural Networks for Microservice-based Cloud Application" at the [Global Software Technology Summit 2023](https://huawei-events.de/en/gsts23-mingming-liu.htm) organized by Huawei.
 * May, 2023: My research group has an open postdoc position. Please reach out to me if you are interested in applying.
 * May, 2023: We are organising a Special Session for the CVCI 2023, please see our CFP ["Smart & Sustainable Enabling Technologies for E-Mobility"](http://ming2liu.github.io/files/emcfp.pdf) for more details. 
