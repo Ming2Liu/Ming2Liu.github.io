@@ -53,6 +53,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+* Aug, 2023: [One conference paper](https://arxiv.org/abs/2307.15401) has been accepted by IEEE International Conference on Intelligent Transportation System (IEEE ITSC 2023).
 * Jul, 2023: I was invited to give a [keynote presentation](http://ming2liu.github.io/files/HCIO.jpeg) on "Deep learning for anomaly detection" at the Huawei HCIO 2023 event.  
 * Jun, 2023: Our proposal [AIrAware](http://ming2liu.github.io/files/AIrAwareNew.pdf) has received funding support from the Insight PRI Programme for €99k.
 * May, 2023: I was invited to give a talk on "Graph Neural Networks for Microservice-based Cloud Application" at the [Global Software Technology Summit 2023](https://huawei-events.de/en/gsts23-mingming-liu.htm) organized by Huawei.
