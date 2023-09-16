@@ -54,6 +54,8 @@ Please note that if your application is positive, you should typically expect to
 Recent News
 ======
 * Sep, 2023: I have three postdoc positions available in my group at DCU focused on AI and data science. Please contact me if you are interested. 
+* Sep, 2023: One conference paper has been accepted by CVCI 2023. 
+* Sep, 2023: One journal paper has been accepted by the Journal of Virtual Exchange.
 * Aug, 2023: [One conference paper](https://arxiv.org/abs/2307.15401) has been accepted by IEEE International Conference on Intelligent Transportation System (IEEE ITSC 2023).
 * Jul, 2023: I was invited to give a [keynote presentation](http://ming2liu.github.io/files/HCIO.jpeg) on "Deep learning for anomaly detection" at the Huawei HCIO 2023 event.  
 * Jun, 2023: Our proposal [AIrAware](http://ming2liu.github.io/files/AIrAwareNew.pdf) has received funding support from the Insight PRI Programme for €99k.
