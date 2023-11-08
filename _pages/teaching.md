@@ -15,8 +15,10 @@ author_profile: true
 
 Supervision
 ======
-* H. Fang (Research assistant with SFI Insight Centre for Data Analytics, DCU, Principal Supervisor)
-* Y. Ding (Research assistant with SFI Insight Centre for Data Analytics, DCU, Principal Supervisor)
+* C. McCarthy (B.Eng in Electronic Engineering, DCU, Principal Supervisor)
+* T. Liu (B.Eng in Electronic Engineering, DCU, Principal Supervisor)
+* H. Fang (Research assistant/PhD with SFI Insight Centre for Data Analytics/ML-Lab, DCU, Principal Supervisor)
+* Y. Ding (Research assistant/PhD with SFI Insight Centre for Data Analytics/ML-Lab, DCU, Principal Supervisor)
 * C. Kaundanya (funded PhD in Computing, DCU, Co-Supervisor)
 * E. Curran (funded PhD in Computing, UCD, Research Study Panel Member)
 * H. Nguyen (Postdoc research fellow with SFI Insight Centre for Data Analytics, DCU, Principal Supervisor)
