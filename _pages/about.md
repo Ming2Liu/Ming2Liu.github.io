@@ -54,12 +54,13 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+* Dec, 2023: One [journal paper](https://ieeexplore.ieee.org/document/10360167) has been accepted by the IEEE Transaction on Transportation Electrification. 
 * Nov, 2023: Congratulations to my PhD student Yue Ding for winning first place at this year's ML-Lab bootcamp. 
 * Oct, 2023: Our work has been reported by RTE, feel free to read the article [here](https://www.rte.ie/brainstorm/2023/1024/1412626-app-green-cycle-walking-routes-dublin-air-quality-data/).
 * Oct, 2023: Our team are developing clean air travel app at Insight DCU, feel free to read more details [here](https://www.dcu.ie/research/news/2023/oct/dcu-researchers-reveal-commuter-clean-air-travel-app-under-development) 
-* Sep, 2023: I have three postdoc positions available in my group at DCU focused on AI and data science. Please contact me if you are interested. 
-* Sep, 2023: One conference paper has been accepted by CVCI 2023. 
-* Sep, 2023: One journal paper has been accepted by the Journal of Virtual Exchange.
+* Sep, 2023: I have three postdoc positions available in my research group at DCU focused on AI and data science. Please contact me if you are interested. 
+* Sep, 2023: One [conference paper](https://arxiv.org/abs/2309.15140) has been accepted by CVCI 2023. 
+* Sep, 2023: One [journal paper](https://journal.unicollaboration.org/article/view/39119) has been accepted by the Journal of Virtual Exchange.
 * Aug, 2023: [One conference paper](https://arxiv.org/abs/2307.15401) has been accepted by IEEE International Conference on Intelligent Transportation System (IEEE ITSC 2023).
 * Jul, 2023: I was invited to give a [keynote presentation](http://ming2liu.github.io/files/HCIO.jpeg) on "Deep learning for anomaly detection" at the Huawei HCIO 2023 event.  
 * Jun, 2023: Our proposal [AIrAware](http://ming2liu.github.io/files/AIrAwareNew.pdf) has received funding support from the Insight PRI Programme for €99k.
