@@ -54,7 +54,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
-* Dec, 2023: One [journal paper](https://ieeexplore.ieee.org/document/10360167) has been accepted by the IEEE Transaction on Transportation Electrification. 
+* Dec, 2023: One [journal paper](https://ieeexplore.ieee.org/document/10360167) has been accepted by the IEEE Transactions on Transportation Electrification. 
 * Nov, 2023: Congratulations to my PhD student Yue Ding for winning first place at this year's ML-Lab bootcamp. 
 * Oct, 2023: Our work has been reported by RTE, feel free to read the article [here](https://www.rte.ie/brainstorm/2023/1024/1412626-app-green-cycle-walking-routes-dublin-air-quality-data/).
 * Oct, 2023: Our team are developing clean air travel app at Insight DCU, feel free to read more details [here](https://www.dcu.ie/research/news/2023/oct/dcu-researchers-reveal-commuter-clean-air-travel-app-under-development) 
