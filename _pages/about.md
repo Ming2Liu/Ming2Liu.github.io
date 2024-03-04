@@ -54,6 +54,11 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+* Mar, 2024: I was invited to present a talk about my research in AI to a group of visitors from Huawei HQ.
+* Feb, 2024: One conference paper has been accepted by the IEEE Transportation Electrification Conference & Expo (ITEC) 2024.
+* Feb, 2024: I was invited by Honeywell to present a talk entitled ``Optimization of Energy Systems using AI and Decentralized Optimization".
+* Feb, 2024: One conference paper has been accepted by the International Conference on Agency, Engagement and Learning in Technology-based Language Pedagogy.
+* Jan, 2024: One conference paper has been accepted by the 10th International Conference on Vehicle Technology and Intelligent Transport Systems (VEHITS 2024).
 * Dec, 2023: One [journal paper](https://ieeexplore.ieee.org/document/10360167) has been accepted by the IEEE Transactions on Transportation Electrification. 
 * Dec, 2023: Our research group welcomed visitors from [Huawei Ireland Research Centre](http://ming2liu.github.io/files/HW.jpg).
 * Nov, 2023: Congratulations to my PhD student Yue Ding for winning [first place](http://ming2liu.github.io/files/Yue.jpg) at this year's SFI ML-Lab bootcamp. 
