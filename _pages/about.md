@@ -54,7 +54,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
-* Apr, 2024: One [journal paper](https://www.sciencedirect.com/science/article/pii/S2210670724002300) has been accepted by the Sustainable Cities and Society Journal.
+* Apr, 2024: One [journal paper](https://www.sciencedirect.com/science/article/pii/S2210670724002300) has been accepted by the journal of Sustainable Cities and Society.
 * Apr, 2024: Congratulations to my postdoc Noureddine for winning 5k Google Credits from Google Cloud Platform.
 * Mar, 2024: Congratulations to my postdoc Maqsood for winning 5k Google Credits from Google Cloud Platform.
 * Mar, 2024: I was invited to present a talk about my research in AI to a group of visitors from Huawei HQ.
