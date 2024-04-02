@@ -54,8 +54,11 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+* Apr, 2024: One [journal paper](https://www.sciencedirect.com/science/article/pii/S2210670724002300) has been accepted by the Sustainable Cities and Society Journal.
+* Apr, 2024: Congratulations to my postdoc Noureddine for winning 5k Google Credits from Google Cloud Platform.
+* Mar, 2024: Congratulations to my postdoc Maqsood for winning 5k Google Credits from Google Cloud Platform.
 * Mar, 2024: I was invited to present a talk about my research in AI to a group of visitors from Huawei HQ.
-* Feb, 2024: One conference paper has been accepted by the IEEE Transportation Electrification Conference & Expo (ITEC) 2024.
+* Feb, 2024: One [conference paper](https://arxiv.org/pdf/2403.17632.pdf) has been accepted by the IEEE Transportation Electrification Conference & Expo (ITEC) 2024.
 * Feb, 2024: I was invited by Honeywell to present a talk entitled "Optimization of Energy Systems using AI and Decentralized Optimization".
 * Feb, 2024: One conference paper has been accepted by the International Conference on Agency, Engagement and Learning in Technology-based Language Pedagogy.
 * Jan, 2024: One conference paper has been accepted by the 10th International Conference on Vehicle Technology and Intelligent Transport Systems (VEHITS 2024).
