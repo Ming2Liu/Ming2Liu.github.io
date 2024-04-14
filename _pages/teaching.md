@@ -16,7 +16,8 @@ author_profile: true
 Supervision
 ======
 * C. McCarthy (B.Eng in Electronic Engineering, DCU, Principal Supervisor)
-* T. Liu (B.Eng in Electronic Engineering, DCU, Principal Supervisor)
+* J. Olagbemiro (B. Eng in Electronic Engineering, DCU, Principal Supervisor)
+* T. Liu (M.Eng in Mechatronic Engineering, DCU, Principal Supervisor)
 * H. Fang (Research assistant/PhD with SFI Insight Centre for Data Analytics/ML-Lab, DCU, Principal Supervisor)
 * Y. Ding (Research assistant/PhD with SFI Insight Centre for Data Analytics/ML-Lab, DCU, Principal Supervisor)
 * C. Kaundanya (funded PhD in Computing, DCU, Co-Supervisor)
