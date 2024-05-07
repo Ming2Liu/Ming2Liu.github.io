@@ -54,6 +54,8 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+* May, 2024: One [journal paper] has been accepted Applied Energy.
+* May, 2024: Our paper ``Using Attention Mechanisms in Compact CNN Models for Improved Micromobility Safety Through Lane Recognition" has received the [Best Paper Award](http://ming2liu.github.io/files/VEHITS_BestPaper.pdf) at the VEHITS 2024 conference.
 * Apr, 2024: One [journal paper](https://www.sciencedirect.com/science/article/pii/S2210670724002300) has been accepted by the journal of Sustainable Cities and Society.
 * Apr, 2024: Congratulations to my postdoc Noureddine for winning 5k Google Credits from Google Cloud Platform.
 * Mar, 2024: Congratulations to my postdoc Maqsood for winning 5k Google Credits from Google Cloud Platform.
