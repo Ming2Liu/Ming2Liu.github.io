@@ -54,6 +54,8 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+* Jun, 2024: We have two papers accepted at the 10th International Conference on machine Learning, Optimization and Data science (LOD 2024).
+* Jun, 2024: We have one paper accepted at the IEEE Intelligent System Conference.
 * May, 2024: I joined [Advanced Processing Technology (APT)](https://aptcentre.ie/) Research centre at DCU. 
 * May, 2024: One [journal paper](https://www.sciencedirect.com/science/article/pii/S0306261924008079) has been accepted by Applied Energy.
 * May, 2024: Our paper "Using Attention Mechanisms in Compact CNN Models for Improved Micromobility Safety Through Lane Recognition" has received the [Best Paper Award](http://ming2liu.github.io/files/VEHITS_BestPaper.pdf) at the VEHITS 2024 conference.
