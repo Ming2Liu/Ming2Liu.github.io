@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://ming2liu.github.io/files/mm_pic3.jpg" alt="Photo" style="width: 360px;"/> 
+  <img src="https://ming2liu.github.io/files/mm_pic3.jpg" alt="Photo" style="width: 560px;"/> 
 </p>
 
 Dr. Mingming Liu is a tenured Assistant Professor in Electronic and Computer Engineering with the [School of Electronic Engineering](http://ece.eeng.dcu.ie/) at [Dublin City University (DCU)](https://www.dcu.ie/). 
