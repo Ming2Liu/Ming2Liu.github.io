@@ -54,6 +54,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+* Jun, 2024: We have secured 5k GCP credits from Google Cloud for our research projects. 
 * Jun, 2024: We have two papers accepted at the 10th International Conference on machine Learning, Optimization and Data science (LOD 2024).
 * Jun, 2024: We have one paper accepted at the IEEE Intelligent System Conference.
 * May, 2024: I joined [Advanced Processing Technology (APT)](https://aptcentre.ie/) Research centre at DCU. 
