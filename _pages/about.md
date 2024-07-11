@@ -54,7 +54,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
-* Jul, 2024: Our U-park paper has been accepted by the IEEE Transaction on Artificial Intelligence.
+* Jul, 2024: Our U-park paper has been accepted by the IEEE Transactions on Artificial Intelligence.
 * Jul, 2024: I have been invited by the Huawei Ireland Research Centre to present my recent work on smart mobility at the [Global Software Technology Summit 2024](http://ming2liu.github.io/files/GSTS2024.jpg). 
 * Jun, 2024: We have secured 5k GCP credits from Google Cloud for our research projects. 
 * Jun, 2024: We have two papers accepted at the 10th International Conference on machine Learning, Optimization and Data science (LOD 2024).
