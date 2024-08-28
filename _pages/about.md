@@ -54,6 +54,8 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+* Aug, 2024: Our research team welcomed Prof Liu and Prof Wang from Dalian University of Technology and Prof Li from University of Birmingham to attend [the smart mobility workshop at DCU](http://ming2liu.github.io/files/workshop.jpg). 
+* Aug, 2024: Our [U-park work](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10599560) has been disseminated by [Insight](https://www.insight-centre.org/insight-sustainability-u-park-tackling-inconsiderate-parking-with-ai/), [DCU News](https://x.com/DCU/status/1828348041759265027), [RTE Brainstorm](https://www.rte.ie/brainstorm/2024/0827/1466860-ebikes-escooters-parking-cities-towns/) and [RTE News Lens](http://ming2liu.github.io/files/RTE_News_Lens.png). 
 * Jul, 2024: Our [U-park paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10599560) has been accepted by the IEEE Transactions on Artificial Intelligence.
 * Jul, 2024: I have been invited by the Huawei Ireland Research Centre to present my recent work on smart mobility at the [Global Software Technology Summit 2024](http://ming2liu.github.io/files/GSTS2024_new.jpeg). 
 * Jun, 2024: We have secured 5k GCP credits from Google Cloud for our research projects. 
