@@ -55,6 +55,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+* Nov, 2024: Our paper ``Leveraging Multimodal Models for Enhanced Neuroimaging Diagnostics in Alzheimer’s Disease" has been accepted for oral presentation at the [2024 IEEE International Conference on Big Data (IEEE BigData 2024)](https://www3.cs.stonybrook.edu/~ieeebigdata2024/).
 * Oct, 2024: Congratulation to my research assistants M. Yu and X. Chen for being on the [2024 Dean’s Honours List](https://www.dcu.ie/engineeringandcomputing/news/2024/oct/deans-honours-list-autumn-2024).
 * Oct, 2024: I have been invited by [AMD](https://www.amd.com/en.html) to present a talk at the [eFutures event for Edge AI](https://www.eventbrite.co.uk/e/efuturesamd-edge-ai-networking-event-tickets-1026908389637?aff=oddtdtcreator). 
 * Sep, 2024: One [journal paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320324007945) has been accepted by Pattern Recognition. 
