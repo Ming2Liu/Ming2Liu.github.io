@@ -54,6 +54,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+* Dec, 2024: Our papers "Comparative Analysis of Machine Learning-Based Imputation Techniques for Air Quality Datasets with High Missing Data Rates" and "On Scalable Design for User-Centric Multi-Modal Shared E-Mobility Systems using MILP and Modified Dijkstra’s Algorithm" have been accepted by the 2025 IEEE Symposium Series on Computational Intelligence.
 * Dec, 2024: Our paper "Enhancing Small Object Detection in Resource-Constrained ARAS Using Image Cropping and Slicing Techniques" has been accepted by the VISAPP 2025 conference. 
 * Nov, 2024: [Our book chapter](https://link.springer.com/chapter/10.1007/978-3-031-64936-3_19) has been published in the book titled "Intelligent Engineering Optimisation with the Bees Algorithm". 
 * Nov, 2024: [Our VLM paper](https://arxiv.org/abs/2411.07871) has been accepted for oral presentation at the [2024 IEEE International Conference on Big Data (IEEE BigData 2024)](https://www3.cs.stonybrook.edu/~ieeebigdata2024/).
