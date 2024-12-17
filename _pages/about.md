@@ -35,6 +35,7 @@ Research Interests
 
 Project Experience 
 ======
+* [SFI Challenge Call](https://www.researchireland.ie/news/ncf-finalists/), Co-PI, Funded with Grant €500k.
 * [Huawei Cloud Project](https://www.dcu.ie/sites/default/files/inline-files/RF1899a%20Postdoctoral%20Researcher%20-%20Huawei%20Cloud%20INSIGHT%20JD.pdf), PI, Funded with Grant €300k.
 * [SFI Frontiers for the Future Programme](https://lnkd.in/ejxwqNCr), PI, Funded with Grant €335k, co-funded by Google Cloud Research (PI, €5k)
 * [Huawei SRE Project](https://www.dcu.ie/sites/default/files/inline-files/rf1531-postdoctoral-researcher-huawei-project-jd.pdf), PI, Funded with Grant €270k+
