@@ -55,7 +55,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
-* Dec, 2024: The Biological and chemical aerosol monitoring and modelling [(BOHEMIAN)](https://www.researchireland.ie/news/ncf-finalists/) project has been awarded a €500k grant from the Research Ireland National Challenge Fund, where I serve as Co-PI.
+* Dec, 2024: The Biological and chemical aerosol monitoring and modelling [(BOHEMIAN)](https://www.researchireland.ie/news/ncf-finalists/) project has been awarded a €500k grant for the Grow Phase from the Research Ireland National Challenge Fund, where I serve as Co-PI.
 * Dec, 2024: Our papers "Comparative Analysis of Machine Learning-Based Imputation Techniques for Air Quality Datasets with High Missing Data Rates" and "On Scalable Design for User-Centric Multi-Modal Shared E-Mobility Systems using MILP and Modified Dijkstra’s Algorithm" have been accepted by the 2025 IEEE Symposium Series on Computational Intelligence.
 * Dec, 2024: Our paper "Enhancing Small Object Detection in Resource-Constrained ARAS Using Image Cropping and Slicing Techniques" has been accepted by the 20th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications. 
 * Nov, 2024: [Our book chapter](https://link.springer.com/chapter/10.1007/978-3-031-64936-3_19) has been published in the book titled "Intelligent Engineering Optimisation with the Bees Algorithm". 
