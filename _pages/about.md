@@ -55,6 +55,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+* Jan, 2025: Our research output from the SFI ESSENTIAL project has been disseminated by the Faculty of Engineering and Computing at DCU, read more [here](https://www.linkedin.com/posts/dcu-faculty-of-engineering-and-computing_dr-mingming-l-from-dcus-school-of-electronic-activity-7285978869759672320-nhws?utm_source=share&utm_medium=member_desktop).
 * Dec, 2024: The Biological and chemical aerosol monitoring and modelling [(BOHEMIAN)](https://www.researchireland.ie/news/ncf-finalists/) project has been awarded a €500k grant for the Grow Phase from the Research Ireland National Challenge Fund, where I serve as Co-PI.
 * Dec, 2024: Our papers ["Comparative Analysis of Machine Learning-Based Imputation Techniques for Air Quality Datasets with High Missing Data Rates"](https://arxiv.org/abs/2412.13966) and ["On Scalable Design for User-Centric Multi-Modal Shared E-Mobility Systems using MILP and Modified Dijkstra’s Algorithm"](https://arxiv.org/abs/2412.10986) have been accepted by the 2025 IEEE Symposium Series on Computational Intelligence.
 * Dec, 2024: Our paper "Enhancing Small Object Detection in Resource-Constrained ARAS Using Image Cropping and Slicing Techniques" has been accepted by the 20th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications. 
