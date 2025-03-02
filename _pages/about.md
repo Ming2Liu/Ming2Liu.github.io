@@ -55,6 +55,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+* Mar, 2025: I joined the 11th international conference on machine learning, optimization & data science as a program committee member. 
 * Mar, 2025: Our book chapter has been published to [Next-Generation Cities: An Encyclopedia](https://www.worldscientific.com/worldscibooks/10.1142/13660#t=aboutBook). Free version of the book chapter can be found [here](https://arxiv.org/pdf/2306.01282).
 * Feb, 2025: I have joined the UK Chinese Society of Automotive Engineers as a member. 
 * Jan, 2025: Our research output from the SFI ESSENTIAL project has been disseminated by the Faculty of Engineering and Computing at DCU, read more [here](https://www.linkedin.com/posts/dcu-faculty-of-engineering-and-computing_dr-mingming-l-from-dcus-school-of-electronic-activity-7285978869759672320-nhws?utm_source=share&utm_medium=member_desktop).
