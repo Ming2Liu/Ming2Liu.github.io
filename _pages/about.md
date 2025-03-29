@@ -55,6 +55,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+* Mar, 2025: Our paper ["On Scalable Design for User-Centric Multi-Modal Shared E-Mobility Systems using MILP and Modified Dijkstra's Algorithm"](https://arxiv.org/pdf/2412.10986) has been nominated as the best paper in the IEEE SSCI 2025 conference.
 * Mar, 2025: I have joined [Engineer Ireland](https://www.engineersireland.ie/Professionals) as a full member. 
 * Mar, 2025: I have been nominated for the President's Award for Excellence in Doctoral Supervision category at DCU.
 * Mar, 2025: I joined the [11th international conference on machine learning, optimization & data science](https://lod2025.icas.events/) as a program committee member. 
