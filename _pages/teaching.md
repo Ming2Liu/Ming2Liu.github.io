@@ -15,6 +15,8 @@ author_profile: true
 
 Supervision
 ======
+* H. Wang (Research assistant with School of Electronic Engineering, DCU, Principal Supervisor)
+* B. Crane (B.Eng in Electronic Engineering, DCU, Principal Supervisor)
 * C. McCarthy (B.Eng in Electronic Engineering, DCU, Principal Supervisor)
 * J. Olagbemiro (B.Eng in Electronic Engineering, DCU, Principal Supervisor)
 * T. Liu (M.Eng in Mechatronic Engineering, DCU, Principal Supervisor)
