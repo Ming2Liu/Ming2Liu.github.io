@@ -42,7 +42,7 @@ This paper, published in *IEEE Transactions on Intelligent Transportation System
 
 ### 5. [A Distributed Markovian Parking Assist System](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8467499)  
 **Liu, M., Naoum-Sawaya, J., Gu, Y., Lecue, F., and Shorten, R.**  
-*IEEE Transactions on Intelligent Transportation Systems, 2018, 20(6), pp. 2230–2240.
+*IEEE Transactions on Intelligent Transportation Systems*, 2018, 20(6), pp. 2230–2240.
 
 This paper, published in *IEEE Transactions on Intelligent Transportation Systems* (Q1, Impact Factor: 7.9), presents a distributed parking guidance system that leverages ant colony optimization and Markovian signaling to direct drivers to on-street parking with minimal infrastructure. By recommending routes based on parking likelihood and travel cost, the system balances congestion and improves search efficiency. Validated using SUMO simulations and real data from Dublin, it achieves significant reductions in travel time and distance.
 
