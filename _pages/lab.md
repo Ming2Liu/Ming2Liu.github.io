@@ -43,7 +43,23 @@ author_profile: true
   </div>
 </div>
 
+
 <!-- Postdoc 2 -->
+<div style="display: flex; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
+  <div style="flex-shrink: 0;">
+    <img src="https://ming2liu.github.io/files/hoa.png" alt="Hoa Xuan Nguyen"
+         style="width: 250px; border-radius: 12px; object-fit: cover;" />
+  </div>
+  <div style="flex: 1;">
+    <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Hoa Xuan Nguyen</h2>
+    <p style="color: #1a1a1a; font-size: 16px; line-height: 1.6; margin-top: 0;">
+        Dr Hoa Nguyen received his PhD in Civil, Structural and Environmental Engineering from Trinity College Dublin in 2022. He is now working as a postdoctoral researcher in Oxford University. His research interest include graph neural networks with applications to cloud systems. 
+    </p>
+  </div>
+</div>
+
+
+<!-- Postdoc 3 -->
 <div style="display: flex; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
     <img src="https://ming2liu.github.io/files/Noureddine.jpg" alt="Noureddine Boujnah"
@@ -57,7 +73,7 @@ author_profile: true
   </div>
 </div>
 
-<!-- Postdoc 3 -->
+<!-- Postdoc 4 -->
 <div style="display: flex; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
     <img src="https://ming2liu.github.io/files/yingqi.jpg" alt="Yingqi Gu"
@@ -150,7 +166,23 @@ author_profile: true
   </div>
 </div>
 
+
 <!-- RA 2 -->
+<div style="display: flex; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
+  <div style="flex-shrink: 0;">
+    <img src="https://ming2liu.github.io/files/ming.jpg" alt="Ming Yu"
+         style="width: 250px; border-radius: 12px; object-fit: cover;" />
+  </div>
+  <div style="flex: 1;">
+    <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Ming Yu</h2>
+    <p style="color: #1a1a1a; font-size: 16px; line-height: 1.6; margin-top: 0;">
+     Ming is a research assistant working at the Insight Research Ireland Centre for Data Analytics, Dublin City University (DCU). She holds a First-Class Honours bachelor’s degree in Data Science and a First-Class Honours master’s degree in Computer Science, both from DCU, Ireland. Her research focuses on DevOps and machine learning applications in cloud computing. As a certified Cloud Practitioner, she possesses expertise in cloud network troubleshooting, Linux, and Site Reliability Engineering (SRE) operations.
+   </p>
+  </div>
+</div>
+
+
+<!-- RA 3 -->
 <div style="display: flex; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
     <img src="https://ming2liu.github.io/files/kevin.jpg" alt="Kevin O'Shea"
@@ -165,7 +197,7 @@ author_profile: true
 </div>
 
 
-<!-- RA 3 -->
+<!-- RA 4 -->
 <div style="display: flex; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
     <img src="https://ming2liu.github.io/files/connor.jpeg" alt="Conor McCarthy"
@@ -174,7 +206,85 @@ author_profile: true
   <div style="flex: 1;">
     <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Conor McCarthy</h2>
     <p style="color: #1a1a1a; font-size: 16px; line-height: 1.6; margin-top: 0;">
-      Connor received his B. Eng in Electronic and Computer Engineering from Dublin City University in 2024. He is currently working as a Research Assistant at DCU. His research interests include traffic modelling, simulation, data analytics and app development.
+      Connor received his BEng degree with first-class honours in Electronic and Computer Engineering from Dublin City University in 2024. He is currently working as a Research Assistant at DCU. His research interests include traffic modelling, simulation, data analytics and app development.
     </p>
   </div>
 </div>
+
+
+
+<!-- RA 5 -->
+<div style="display: flex; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
+  <div style="flex-shrink: 0;">
+    <img src="https://ming2liu.github.io/files/mohamed.jpeg" alt="Mohamed Allam"
+         style="width: 250px; border-radius: 12px; object-fit: cover;" />
+  </div>
+  <div style="flex: 1;">
+    <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Mohamed Allam</h2>
+    <p style="color: #1a1a1a; font-size: 16px; line-height: 1.6; margin-top: 0;">
+        Mohammad received his Master's degree in Computer Engineering from Politecnico di Milano in 2023 and his Bachelor's degree in Computer engineering from Politecnico di Tornino in 2020. His research interests include machine learning and cloud observability. 
+    </p>
+  </div>
+</div>
+
+
+
+<!-- RA 6 -->
+<div style="display: flex; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
+  <div style="flex-shrink: 0;">
+    <img src="https://ming2liu.github.io/files/connor.jpeg" alt="Xianjuan Chen"
+         style="width: 250px; border-radius: 12px; object-fit: cover;" />
+  </div>
+  <div style="flex: 1;">
+    <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Xianjuan Chen</h2>
+    <p style="color: #1a1a1a; font-size: 16px; line-height: 1.6; margin-top: 0;">
+      Xianjuan received her master’s degree with first-class honours in Computing, Data Analytics, from Dublin City University in 2024. Her research interests include machine learning and data analysis for applications in smart energy and cloud computing. She is dedicated to leveraging data-driven solutions to solve real-world challenges. Throughout her career, she has actively contributed to research projects and technical workshops, gaining hands-on experience in deploying machine learning to address practical problems.
+    </p>
+  </div>
+</div>
+
+
+<!-- RA 7 -->
+<div style="display: flex; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
+  <div style="flex-shrink: 0;">
+    <img src="https://ming2liu.github.io/files/hongyuan.jpg" alt="Hongyuan Fang"
+         style="width: 250px; border-radius: 12px; object-fit: cover;" />
+  </div>
+  <div style="flex: 1;">
+    <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Hongyuan Fang</h2>
+    <p style="color: #1a1a1a; font-size: 16px; line-height: 1.6; margin-top: 0;">
+       Hongyuan received his Master's degree in Image Processing from Dublin City University (DCU), Dublin, Ireland, in 2022. He is currently pursuing his Ph.D. in the field of Intelligent Transportation at the SFI ML-Labs Programme at the School of Electronic Engineering, DCU. His research focuses on explainable anomaly detection in multivariate time series using deep learning techniques. His primary research interests include machine learning, graph neural networks, data-driven modeling, and computer vision. His work is particularly centered around the application of these technologies in intelligent transportation systems.
+    </p>
+  </div>
+</div>
+
+<!-- RA 8 -->
+<div style="display: flex; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
+  <div style="flex-shrink: 0;">
+    <img src="https://ming2liu.github.io/files/shaoshu.jpeg" alt="Shaoshu Zhu"
+         style="width: 250px; border-radius: 12px; object-fit: cover;" />
+  </div>
+  <div style="flex: 1;">
+    <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Shaoshu Zhu</h2>
+    <p style="color: #1a1a1a; font-size: 16px; line-height: 1.6; margin-top: 0;">
+        Shaoshu received his Master's degree in Computer Science from University College Dublin in 2021, and his Bachelor's degree in Computer Science and Technology from Hunan University in 2020. He is currently a PhD student working at UCD and was a research assistant working on the industry project funded by Huawei Ireland research centre. His research interests include machine learning, distributed systems and cloud observability.  
+    </p>
+  </div>
+</div>
+
+
+<!-- RA 9 -->
+<div style="display: flex; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
+  <div style="flex-shrink: 0;">
+    <img src="https://ming2liu.github.io/files/hongde.jpeg" alt="Hongde Wu"
+         style="width: 250px; border-radius: 12px; object-fit: cover;" />
+  </div>
+  <div style="flex: 1;">
+    <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Hongde Wu</h2>
+    <p style="color: #1a1a1a; font-size: 16px; line-height: 1.6; margin-top: 0;">
+       Hongde received his B.Eng degree in Biomedical Engineering with an outstanding graduate from Beijing Institute of Technology in 2017 and received his M.Eng degree (research degree), under the supervision of Dr. Mingming Liu, from Dublin City University in 2022. Currently he works as a researcher in 2012 Lab at Huawei. His interests are deep learning, graph neural network and smart transportation.  
+    </p>
+  </div>
+</div>
+
+
