@@ -40,10 +40,10 @@ This paper, published in *IEEE Transactions on Intelligent Transportation System
 
 ---
 
-### 5. [A Distributed and Privacy-Aware Speed Advisory System for Optimizing Conventional and Electric Vehicle Networks](https://ieeexplore.ieee.org/document/7350149)  
-**Liu, M., Ordóñez-Hurtado, R.H., Wirth, F., Gu, Y., Crisostomi, E., and Shorten, R.**  
-*IEEE Transactions on Intelligent Transportation Systems*, 2015, 17(5), pp. 1308–1318.
+### 5. [A Distributed Markovian Parking Assist System](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8467499)  
+**Liu, M., Naoum-Sawaya, J., Gu, Y., Lecue, F., and Shorten, R.**  
+*IEEE Transactions on Intelligent Transportation Systems, 2018, 20(6), pp. 2230–2240.
 
-This foundational paper introduces a consensus-based, distributed speed advisory system for reducing emissions and energy consumption in vehicle networks. Published in *IEEE Transactions on Intelligent Transportation Systems* (Q1, Impact Factor: 7.9, acceptance rate <10%), this work has had lasting impact, and its results were included in the CRC Press book *Electric and Plug-in Hybrid Vehicle Networks: Optimization and Control*.
+This paper, published in *IEEE Transactions on Intelligent Transportation Systems* (Q1, Impact Factor: 7.9), presents a distributed parking guidance system that leverages ant colony optimization and Markovian signaling to direct drivers to on-street parking with minimal infrastructure. By recommending routes based on parking likelihood and travel cost, the system balances congestion and improves search efficiency. Validated using SUMO simulations and real data from Dublin, it achieves significant reductions in travel time and distance.
 
 ---
