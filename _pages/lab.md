@@ -4,7 +4,7 @@ title: "Applied Machine Learning Research Group"
 permalink: /lab/
 author_profile: true
 ---
-<h3 style="color: #1a1a1a; font-size: 22px; margin-bottom: 20px;">Lab Leader</h3>
+<h3 style="color: #1a1a1a; font-size: 22px; margin-bottom: 20px;">Group Leader</h3>
 
 <div style="display: flex; gap: 30px; align-items: flex-start; margin-bottom: 50px;">
   <!-- Group Logo and Name -->
