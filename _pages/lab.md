@@ -36,7 +36,7 @@ author_profile: true
          style="width: 250px; border-radius: 12px; object-fit: cover;" />
   </div>
   <div style="flex: 1;">
-    <h2 style="color: #1e90ff; font-size: 24px; margin: 0 0 10px 0;">xxx</h2>
+    <h2 style="color: #1e90ff; font-size: 24px; margin: 0 0 10px 0;">Maqsood Shah</h2>
     <p style="color: #dddddd; font-size: 16px; line-height: 1.6; margin-top: 0;">
         Dr. Maqsood Shah received his Ph.D. in Engineering from Nanjing University of Aeronautics and Astronautics, where he explored the viability of deep learning and AI architectures in the context of communications and digital signal processing. His research interests include deep learning and optimization with applications to smart mobility.
     </p>
@@ -46,11 +46,11 @@ author_profile: true
 <!-- Postdoc 2 -->
 <div style="display: flex; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
-    <img src="https://ming2liu.github.io/files/mm_pic1.jpg" alt="Noureddine Boujnah"
+    <img src="https://ming2liu.github.io/files/Noureddine.jpg" alt="Noureddine Boujnah"
          style="width: 250px; border-radius: 12px; object-fit: cover;" />
   </div>
   <div style="flex: 1;">
-    <h2 style="color: #1e90ff; font-size: 24px; margin: 0 0 10px 0;">yyy</h2>
+    <h2 style="color: #1e90ff; font-size: 24px; margin: 0 0 10px 0;">Noureddine Boujnah</h2>
     <p style="color: #dddddd; font-size: 16px; line-height: 1.6; margin-top: 0;">
       Dr. Noureddine Boujnah received the Engineering Diploma degree in telecommunication and the Master of Science Diploma degree in image processing from the Higher School of Communication of Tunis, SUPCOM, Tunisia, in 2002 and 2005, respectively, and the Professional Master degree in wireless systems and related technologies under TOPMED project and the Ph.D. degree in satellite telecommunication from the Polytechnic of Turin-TLC, Italy, in 2006 and 2011 respectively.   
     </p>
@@ -64,7 +64,7 @@ author_profile: true
          style="width: 250px; border-radius: 12px; object-fit: cover;" />
   </div>
   <div style="flex: 1;">
-    <h2 style="color: #1e90ff; font-size: 24px; margin: 0 0 10px 0;">xxx</h2>
+    <h2 style="color: #1e90ff; font-size: 24px; margin: 0 0 10px 0;">Yingqi Gu</h2>
     <p style="color: #dddddd; font-size: 16px; line-height: 1.6; margin-top: 0;">
         Dr. Yingqi Gu received her Ph.D. degree in control engineering and decision science from the School of Electrical and Electronic Engineering, University College Dublin, Dublin, Ireland, in 2018. Her current research interests include AI and machine learning, control and optimization theories with applications to electric vehicles, intelligent transportation systems, and smart healthcare systems.
     </p>
@@ -116,7 +116,6 @@ author_profile: true
     </p>
   </div>
 </div>
-
 
 
 <hr style="border: none; border-top: 2px solid #444; margin: 50px 0;" />
