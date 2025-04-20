@@ -9,7 +9,7 @@ author_profile: true
 <div style="display: flex; gap: 30px; align-items: flex-start; margin-bottom: 50px;">
   <!-- Group Logo and Name -->
   <div style="flex-shrink: 0; text-align: center;">
-    <img src="https://ming2liu.github.io/files/mm_pic1.jpg" alt="Group Logo"
+    <img src="https://ming2liu.github.io/files/mm.jpg" alt="Group Logo"
          style="width: 250px; border-radius: 12px; object-fit: contain;" />
   </div>
 
