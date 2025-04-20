@@ -20,7 +20,7 @@ Published in the top-tier journal *Pattern Recognition* (Impact Factor: 7.5, Q1)
 **Gohari, S., Silvia, S.C., Ashrafian, T., Konstantinou, T., Giancola, E., Prebreza, B., Aelenei, L., Murauskaite, L., and Liu, M.**  
 *Sustainable Cities and Society*, 2024, Article 105402.
 
-Appearing in the high-impact journal *Sustainable Cities and Society* (Impact Factor: 10.5, Q1), this study investigates the implementation of Positive Energy Districts (PEDs) through qualitative interviews with stakeholders across several European cities. As lead author, I contributed to shaping urban sustainability discussions, with policy-relevant findings for a zero-carbon future.
+Published in the high-impact journal *Sustainable Cities and Society* (Impact Factor: 10.5, Q1), this study investigates the implementation of Positive Energy Districts (PEDs) through qualitative interviews with stakeholders across several European cities. As lead author, I contributed to shaping urban sustainability discussions, with policy-relevant findings for a zero-carbon future.
 
 ---
 
