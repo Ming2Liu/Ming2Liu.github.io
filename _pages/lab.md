@@ -12,7 +12,7 @@ author_profile: true
   <div style="flex-shrink: 0; text-align: center;">
     <img src="https://ming2liu.github.io/files/mm_pic1.jpg" alt="Group Logo"
          style="width: 250px; border-radius: 12px; object-fit: contain;" />
-    <h3 style="margin-top: 10px; color: #bbbbbb; font-size: 20px;">Dr. Mingming Liu</h3>
+    <h3 style="margin-top: 10px; color: #bbbbbb; font-size: 20px;">Dr Mingming Liu</h3>
   </div>
 
   <!-- Description Text -->
@@ -21,7 +21,7 @@ author_profile: true
       The <strong>Applied Machine Learning Research Group</strong> at Dublin City University (DCU) is dedicated to advancing intelligent, sustainable, and data-driven solutions across sectors such as smart transportation, smart grids, smart healthcare and cloud-based systems. 
     </p>
     <p style="color: #1a1a1a; font-size: 16px; line-height: 1.6; margin: 0;">
-      Led by Dr. Mingming Liu, our team advances state-of-the-art research in AI-driven systems, combining applied optimization, systems engineering, and control with a strong emphasis on real-world impact. Our work focuses on federated learning, spatial-temporal graph neural networks, privacy-preserving intelligence, and user-centric solutions for decision-making under uncertainty.
+      Led by Dr Mingming Liu, our team advances state-of-the-art research in AI-driven systems, combining applied optimization, systems engineering, and control with a strong emphasis on real-world impact. Our work focuses on federated learning, spatial-temporal graph neural networks, privacy-preserving intelligence, and user-centric solutions for decision-making under uncertainty.
       We collaborate globally to design and develop next-generation AI systems that drive sustainability and real-world impact for the benefit of society. 
     </p>
   </div>
@@ -40,7 +40,7 @@ author_profile: true
   <div style="flex: 1;">
     <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Maqsood Shah</h2>
     <p style="color: #1a1a1a; font-size: 16px; line-height: 1.6; margin-top: 0;">
-        Dr. Maqsood Shah received his Ph.D. in Engineering from Nanjing University of Aeronautics and Astronautics, where he explored the viability of deep learning and AI architectures in the context of communications and digital signal processing. His research interests include deep learning and optimization with applications to smart mobility.
+        Dr Maqsood Shah received his Ph.D. in Engineering from Nanjing University of Aeronautics and Astronautics, where he explored the viability of deep learning and AI architectures in the context of communications and digital signal processing. His research interests include deep learning and optimization with applications to smart mobility.
     </p>
   </div>
 </div>
@@ -70,7 +70,7 @@ author_profile: true
   <div style="flex: 1;">
     <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Noureddine Boujnah</h2>
     <p style="color: #1a1a1a; font-size: 16px; line-height: 1.6; margin-top: 0;">
-      Dr. Noureddine Boujnah received the Engineering Diploma degree in telecommunication and the Master of Science Diploma degree in image processing from the Higher School of Communication of Tunis, SUPCOM, Tunisia, in 2002 and 2005, respectively, and the Professional Master degree in wireless systems and related technologies under TOPMED project and the Ph.D. degree in satellite telecommunication from the Polytechnic of Turin-TLC, Italy, in 2006 and 2011 respectively.   
+      Dr Noureddine Boujnah received the Engineering Diploma degree in telecommunication and the Master of Science Diploma degree in image processing from the Higher School of Communication of Tunis, SUPCOM, Tunisia, in 2002 and 2005, respectively, and the Professional Master degree in wireless systems and related technologies under TOPMED project and the Ph.D. degree in satellite telecommunication from the Polytechnic of Turin-TLC, Italy, in 2006 and 2011 respectively.   
     </p>
   </div>
 </div>
@@ -84,7 +84,7 @@ author_profile: true
   <div style="flex: 1;">
     <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Yingqi Gu</h2>
     <p style="color: #1a1a1a; font-size: 16px; line-height: 1.6; margin-top: 0;">
-        Dr. Yingqi Gu received her Ph.D. degree in control engineering and decision science from the School of Electrical and Electronic Engineering, University College Dublin, Dublin, Ireland, in 2018. Her current research interests include AI and machine learning, control and optimization theories with applications to electric vehicles, intelligent transportation systems, and smart healthcare systems. Yingqi has now joined industry as a senior data scientist. 
+        Dr Yingqi Gu received her Ph.D. degree in control engineering and decision science from the School of Electrical and Electronic Engineering, University College Dublin, Dublin, Ireland, in 2018. Her current research interests include AI and machine learning, control and optimization theories with applications to electric vehicles, intelligent transportation systems, and smart healthcare systems. Yingqi has now joined industry as a senior data scientist. 
     </p>
   </div>
 </div>
@@ -224,7 +224,7 @@ author_profile: true
   <div style="flex: 1;">
     <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Mohamed Allam</h2>
     <p style="color: #1a1a1a; font-size: 16px; line-height: 1.6; margin-top: 0;">
-        Mohammad received his Master's degree in Computer Engineering from Politecnico di Milano in 2023 and his Bachelor's degree in Computer engineering from Politecnico di Tornino in 2020. His research interests include machine learning and cloud observability. 
+        Mohamed received his Master's degree in Computer Engineering from Politecnico di Milano in 2023 and his Bachelor's degree in Computer engineering from Politecnico di Tornino in 2020. His research interests include machine learning and cloud observability. 
     </p>
   </div>
 </div>
