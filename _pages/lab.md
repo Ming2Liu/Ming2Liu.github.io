@@ -37,7 +37,7 @@ author_profile: true
   </div>
   <div style="flex: 1;">
     <h2 style="color: #1e90ff; font-size: 24px; margin: 0 0 10px 0;">Maqsood Shah</h2>
-    <p style="color: #dddddd; font-size: 16px; line-height: 1.6; margin-top: 0;">
+    <p style="color: #f2f2f2; font-size: 16px; line-height: 1.6; margin-top: 0;">
         Dr. Maqsood Shah received his Ph.D. in Engineering from Nanjing University of Aeronautics and Astronautics, where he explored the viability of deep learning and AI architectures in the context of communications and digital signal processing. His research interests include deep learning and optimization with applications to smart mobility.
     </p>
   </div>
