@@ -18,9 +18,9 @@ author_profile: true
   <!-- Description Text -->
   <div style="flex: 1;">
     <p style="color: #dddddd; font-size: 16px; line-height: 1.6; margin: 0;">
-      The <strong>Applied Machine Learning Research Group</strong> at Dublin City University is dedicated to advancing intelligent, sustainable, and data-driven solutions across sectors such as transportation, smart infrastructure, and cloud-based systems. 
-      Led by <strong>Dr. Mingming Liu</strong>, our team conducts cutting-edge research at the intersection of AI, optimization, and control, with a strong focus on federated learning, spatial-temporal graph neural networks, and decision-making under uncertainty. 
-      We collaborate globally to develop explainable, privacy-preserving, and impactful technologies for sustainable mobility and smart city applications.
+      The <strong>Applied Machine Learning Research Group</strong> at Dublin City University is dedicated to advancing intelligent, sustainable, and data-driven solutions across sectors such as smart transportation, smart grids, smart healthcare and cloud-based systems. 
+      Led by <strong>Dr. Mingming Liu</strong>, our team advances state-of-the-art research in AI-driven systems, combining applied optimization, systems engineering, and control with a strong emphasis on real-world impact. Our work focuses on federated learning, spatial-temporal graph neural networks, privacy-preserving intelligence, and user-centric solutions for decision-making under uncertainty.
+      We collaborate globally to design and develop next-generation AI systems that drive sustainability and real-world impact for the benefit of society. 
     </p>
   </div>
 </div>
@@ -33,7 +33,7 @@ author_profile: true
 <div style="display: flex; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
     <img src="https://ming2liu.github.io/files/Maqsood.png" alt="Maqsood Shah"
-         style="width: 250px; border-radius: 12px; object-fit: cover;" />
+         style="width: 250px; height: 250px; border-radius: 12px; object-fit: cover;" />
   </div>
   <div style="flex: 1;">
     <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Maqsood Shah</h2>
@@ -48,7 +48,7 @@ author_profile: true
 <div style="display: flex; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
     <img src="https://ming2liu.github.io/files/hoa.png" alt="Hoa Xuan Nguyen"
-         style="width: 250px; border-radius: 12px; object-fit: cover;" />
+         style="width: 250px; height: 250px; border-radius: 12px; object-fit: cover;" />
   </div>
   <div style="flex: 1;">
     <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Hoa Xuan Nguyen</h2>
@@ -63,7 +63,7 @@ author_profile: true
 <div style="display: flex; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
     <img src="https://ming2liu.github.io/files/Noureddine.jpg" alt="Noureddine Boujnah"
-         style="width: 250px; border-radius: 12px; object-fit: cover;" />
+         style="width: 250px; height: 250px; border-radius: 12px; object-fit: cover;" />
   </div>
   <div style="flex: 1;">
     <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Noureddine Boujnah</h2>
@@ -77,7 +77,7 @@ author_profile: true
 <div style="display: flex; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
     <img src="https://ming2liu.github.io/files/yingqi.jpg" alt="Yingqi Gu"
-         style="width: 250px; border-radius: 12px; object-fit: cover;" />
+         style="width: 250px; height: 250px; border-radius: 12px; object-fit: cover;" />
   </div>
   <div style="flex: 1;">
     <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Yingqi Gu</h2>
@@ -94,7 +94,7 @@ author_profile: true
 <div style="display: flex; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
     <img src="https://ming2liu.github.io/files/sen.jpg" alt="Sen Yan"
-         style="width: 250px; border-radius: 12px; object-fit: cover;" />
+         style="width: 250px; height: 250px; border-radius: 12px; object-fit: cover;" />
   </div>
   <div style="flex: 1;">
     <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Sen Yan</h2>
@@ -108,7 +108,7 @@ author_profile: true
 <div style="display: flex; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
     <img src="https://ming2liu.github.io/files/yue.png" alt="Yue Ding"
-         style="width: 250px; border-radius: 12px; object-fit: cover;" />
+         style="width: 250px; height: 250px; border-radius: 12px; object-fit: cover;" />
   </div>
   <div style="flex: 1;">
     <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Yue Ding</h2>
@@ -123,7 +123,7 @@ author_profile: true
 <div style="display: flex; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
     <img src="https://ming2liu.github.io/files/francesco.png" alt="Francesco Chiumento"
-         style="width: 250px; border-radius: 12px; object-fit: cover;" />
+         style="width: 250px; height: 250px; border-radius: 12px; object-fit: cover;" />
   </div>
   <div style="flex: 1;">
     <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Francesco Chiumento</h2>
@@ -138,7 +138,7 @@ author_profile: true
 <div style="display: flex; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
     <img src="https://ming2liu.github.io/files/chinmaya.jpg" alt="Chinmaya Kaundanya"
-         style="width: 250px; border-radius: 12px; object-fit: cover;" />
+         style="width: 250px; height: 250px; border-radius: 12px; object-fit: cover;" />
   </div>
   <div style="flex: 1;">
     <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Chinmaya Kaundanya</h2>
@@ -156,7 +156,7 @@ author_profile: true
 <div style="display: flex; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
     <img src="https://ming2liu.github.io/files/harmonia.jpeg" alt="Harmonia Wang"
-         style="width: 250px; border-radius: 12px; object-fit: cover;" />
+         style="width: 250px; height: 250px; border-radius: 12px; object-fit: cover;" />
   </div>
   <div style="flex: 1;">
     <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Harmonia Wang</h2>
@@ -171,7 +171,7 @@ author_profile: true
 <div style="display: flex; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
     <img src="https://ming2liu.github.io/files/ming.jpg" alt="Ming Yu"
-         style="width: 250px; border-radius: 12px; object-fit: cover;" />
+         style="width: 250px; height: 250px; border-radius: 12px; object-fit: cover;" />
   </div>
   <div style="flex: 1;">
     <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Ming Yu</h2>
@@ -186,7 +186,7 @@ author_profile: true
 <div style="display: flex; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
     <img src="https://ming2liu.github.io/files/kevin.jpg" alt="Kevin O'Shea"
-         style="width: 250px; border-radius: 12px; object-fit: cover;" />
+         style="width: 250px; height: 250px; border-radius: 12px; object-fit: cover;" />
   </div>
   <div style="flex: 1;">
     <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Kevin O'Shea</h2>
@@ -201,7 +201,7 @@ author_profile: true
 <div style="display: flex; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
     <img src="https://ming2liu.github.io/files/connor.jpeg" alt="Conor McCarthy"
-         style="width: 250px; border-radius: 12px; object-fit: cover;" />
+         style="width: 250px; height: 250px; border-radius: 12px; object-fit: cover;" />
   </div>
   <div style="flex: 1;">
     <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Conor McCarthy</h2>
@@ -217,7 +217,7 @@ author_profile: true
 <div style="display: flex; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
     <img src="https://ming2liu.github.io/files/mohamed.jpeg" alt="Mohamed Allam"
-         style="width: 250px; border-radius: 12px; object-fit: cover;" />
+         style="width: 250px; height: 250px; border-radius: 12px; object-fit: cover;" />
   </div>
   <div style="flex: 1;">
     <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Mohamed Allam</h2>
@@ -233,7 +233,7 @@ author_profile: true
 <div style="display: flex; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
     <img src="https://ming2liu.github.io/files/connor.jpeg" alt="Xianjuan Chen"
-         style="width: 250px; border-radius: 12px; object-fit: cover;" />
+         style="width: 250px; height: 250px; border-radius: 12px; object-fit: cover;" />
   </div>
   <div style="flex: 1;">
     <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Xianjuan Chen</h2>
@@ -248,7 +248,7 @@ author_profile: true
 <div style="display: flex; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
     <img src="https://ming2liu.github.io/files/hongyuan.jpg" alt="Hongyuan Fang"
-         style="width: 250px; border-radius: 12px; object-fit: cover;" />
+         style="width: 250px; height: 250px; border-radius: 12px; object-fit: cover;" />
   </div>
   <div style="flex: 1;">
     <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Hongyuan Fang</h2>
@@ -262,7 +262,7 @@ author_profile: true
 <div style="display: flex; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
     <img src="https://ming2liu.github.io/files/shaoshu.jpeg" alt="Shaoshu Zhu"
-         style="width: 250px; border-radius: 12px; object-fit: cover;" />
+         style="width: 250px; height: 250px; border-radius: 12px; object-fit: cover;" />
   </div>
   <div style="flex: 1;">
     <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Shaoshu Zhu</h2>
@@ -277,7 +277,7 @@ author_profile: true
 <div style="display: flex; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
     <img src="https://ming2liu.github.io/files/hongde.jpeg" alt="Hongde Wu"
-         style="width: 250px; border-radius: 12px; object-fit: cover;" />
+         style="width: 250px; height: 250px; border-radius: 12px; object-fit: cover;" />
   </div>
   <div style="flex: 1;">
     <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Hongde Wu</h2>
