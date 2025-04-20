@@ -5,8 +5,6 @@ permalink: /lab/
 author_profile: true
 ---
 
-<h2>About My Team</h2>
-
 <div style="display: flex; gap: 30px; align-items: flex-start; margin-bottom: 50px;">
   <!-- Group Logo and Name -->
   <div style="flex-shrink: 0; text-align: center;">
@@ -228,8 +226,6 @@ author_profile: true
     </p>
   </div>
 </div>
-
-
 
 <!-- RA 6 -->
 <div style="display: flex; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
