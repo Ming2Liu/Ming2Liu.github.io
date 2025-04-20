@@ -48,9 +48,9 @@ Project Experience
 * [Enable-S3](https://cordis.europa.eu/project/id/692455) (EU H2020), Task Tech Contributor
 * [Green Transportation and Communication Networks](https://www.hamilton.ie/new-3m-research-project-in-green-transport-and-communications-networks-announced.htm) (SFI), Task Tech Contributor
 
-Opening Vacancies 
+Research Group 
 ======
-I am always actively looking for highly motivated Ph.D students, Postdocs, and visiting scholars to work or collaborate with me. If you are interested in this perspective, please send me an email along with your CV, academic transcripts, English certificate, as well as other supporting documents which may demonstrate your research capability and potential.
+I am the leader of the [Applied Machine Learning Research Group](https://mingmingliu.net/lab/) at DCU. I am always actively looking for highly motivated Ph.D students, Postdocs, and visiting scholars to work or collaborate with me. If you are interested in this perspective, please send me an email along with your CV, academic transcripts, English certificate, as well as other supporting documents which may demonstrate your research capability and potential.
 Please note that if your application is positive, you should typically expect to receive a response from me within a week (holiday period excluded).
 
 Recent News
