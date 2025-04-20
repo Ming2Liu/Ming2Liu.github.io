@@ -32,7 +32,7 @@ author_profile: true
 <!-- Postdoc 1 -->
 <div style="display: flex; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
-    <img src="https://ming2liu.github.io/files/mm_pic1.jpg" alt="Shihao Xie"
+    <img src="https://ming2liu.github.io/files/Maqsood.png" alt="Shihao Xie"
          style="width: 250px; border-radius: 12px; object-fit: cover;" />
   </div>
   <div style="flex: 1;">
