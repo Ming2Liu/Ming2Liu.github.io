@@ -4,131 +4,46 @@ permalink: /publications/
 author_profile: true
 ---
 
-The publications below may not be up to date. You can find my papers on [my Google Scholar Page](https://scholar.google.com/citations?user=woHxot0AAAAJ&hl=en&authuser=1).
+Below are five selected representative publications. For a full list, please visit [my Google Scholar Page](https://scholar.google.com/citations?user=woHxot0AAAAJ&hl=en&authuser=1).
 
-<b>[A Fair and Privacy-Aware EV Discharging Strategy using Decentralized Whale Optimization Algorithm for Minimizing Cost of EVs and the EV Aggregator](http://ming2liu.github.io/publications/woagrid)</b> <br>
-Y. Gu, <b>M. Liu</b>,
-<i>IEEE System Journal </i>. <b>ISJ 2020</b>.
+---
 
+### 1. [Saliency Detection for Underwater Moving Object with Sonar Based on Motion Estimation and Multi-Trajectory Analysis](https://www.sciencedirect.com/science/article/abs/pii/S0031320324007945)  
+**Zhu, J., Cai, W., Zhang, M., Lin, Y., and Liu, M.**  
+*Pattern Recognition*, 2025, 158, 111043.
 
-<b>[Reinforcement Learning on Computational Resource Allocation of Cloud-based Wireless Networks](http://ming2liu.github.io/publications/recloud)</b> <br> 
-B. Chen, Y. Zhang, G. Iosifidis, <b>M. Liu</b>,
-<i>IEEE 6th World Forum on Internet of Things</i>. <b>WF-IoT 2020</b>. 
+Published in the top-tier journal *Pattern Recognition* (Impact Factor: 7.5, Q1), this paper proposes a saliency detection framework for tracking underwater moving objects. The approach integrates motion estimation, trajectory analysis, and a local-to-global saliency mapping model, and is validated using a custom sonar data acquisition system. Extensive experiments on eight sonar videos demonstrate superior performance over 15 state-of-the-art methods.
 
+---
 
-<b>[A Distributed Markovian Parking Assist System](http://ming2liu.github.io/publications/dismarkov)</b> <br> 
-<b>M. Liu</b>, J.N. Sawaya, Y. Gu, F. Lecue, R. Shorten,
-<i>IEEE Transactions on Intelligent Transportation Systems</i>. <b>ITS 2018</b>. 
+### 2. [Unraveling the Implementation Processes of PEDs: Lessons Learned from Multiple Urban Contexts](https://www.sciencedirect.com/science/article/pii/S2210670724002300)  
+**Gohari, S., Silvia, S.C., Ashrafian, T., Konstantinou, T., Giancola, E., Prebreza, B., Aelenei, L., Murauskaite, L., and Liu, M.**  
+*Sustainable Cities and Society*, 2024, Article 105402.
 
+Appearing in the high-impact journal *Sustainable Cities and Society* (Impact Factor: 10.5, Q1), this study investigates the implementation of Positive Energy Districts (PEDs) through qualitative interviews with stakeholders across several European cities. As lead author, I contributed to shaping urban sustainability discussions, with policy-relevant findings for a zero-carbon future.
 
-<b>[Identification of New Patterns in Urban Traffic System](http://ming2liu.github.io/publications/pattern)</b> <br> 
-Y. Gu, E. Crisostomi, <b>M. Liu</b>, R. Shorten,
-<i>IEEE Conference on Control Technology and Applications</i>. <b>CCTA 2018</b>. 
+---
 
+### 3. [Privacy-Aware Energy Consumption Modeling of Connected Battery Electric Vehicles using Federated Learning](https://ieeexplore.ieee.org/document/10360167/)  
+**Yan, S., Fang, H., Li, J., Ward, T., O’Connor, N., and Liu, M.**  
+*IEEE Transactions on Transportation Electrification*, 2023.
 
-<b>[Bayesian classifier for Route prediction with Markov chains](http://ming2liu.github.io/publications/baye)</b> <br> 
-J.P. Epperlein, J. Monteil, <b>M. Liu</b>, Y. Gu, S. Zhuk, R. Shorten,
-<i>21st International Conference on Intelligent Transportation System</i>. <b>ITSC 2018</b>.
+Published in *IEEE Transactions on Transportation Electrification* (Impact Factor: 7.2, Q1), this paper introduces a novel federated learning framework for privacy-preserving modeling of energy consumption in connected electric vehicles. As lead author, I oversaw the project and manuscript, ensuring research quality and integrity. The work has drawn interest from major automotive stakeholders in Ireland, including Nissan, Toyota, and Renault.
 
+---
 
-<b>[On the Design of an Intelligent Speed Advisory System for Cyclists](http://ming2liu.github.io/publications/sasc)</b> <br> 
-Y. Gu, <b>M. Liu</b>, M. Souza, R. Shorten,
-<i>21st International Conference on Intelligent Transportation Systems (ITSC)</i>, <b>ITSC 2018</b>.
+### 4. [MPC-CSAS: Multi-Party Computation for Real-Time Privacy-Preserving Speed Advisory Systems](https://ieeexplore.ieee.org/abstract/document/9339974)  
+**Liu, M., Cheng, L., Gu, Y., Wang, Y., Liu, Q., and O’Connor, N.E.**  
+*IEEE Transactions on Intelligent Transportation Systems*, 2021, 23(6), pp. 5887–5893.
 
+This paper, published in *IEEE Transactions on Intelligent Transportation Systems* (Q1, Impact Factor: 7.9), presents a real-time privacy-preserving framework using multi-party computation for speed advisory systems. It demonstrates low latency and high efficiency, making it suitable for large-scale deployment without additional ICT infrastructure. The work was nominated for recognition within the ITS Society.
 
-<b>[A new take on protecting cyclists in smart cities](http://ming2liu.github.io/publications/newtake)</b> <br> 
-A. Herrmann, <b>M. Liu</b>, F. Pilla, R. Shorten,
-<i>IEEE Transactions on Intelligent Transportation Systems</i>, <b>ITS 2018</b>.
+---
 
+### 5. [A Distributed and Privacy-Aware Speed Advisory System for Optimizing Conventional and Electric Vehicle Networks](https://ieeexplore.ieee.org/document/7350149)  
+**Liu, M., Ordóñez-Hurtado, R.H., Wirth, F., Gu, Y., Crisostomi, E., and Shorten, R.**  
+*IEEE Transactions on Intelligent Transportation Systems*, 2015, 17(5), pp. 1308–1318.
 
-<b>[Pedestrian-aware engine management strategies for plug-in hybrid electric vehicles](http://ming2liu.github.io/publications/pedes)</b> <br> 
-Y. Gu, <b>M. Liu</b>, J.N. Sawaya, E. Crisostomi, G. Russo, R. Shorten, 
-<i>IEEE Transactions on Intelligent Transportation Systems</i>, <b>ITS 2018</b>.
+This foundational paper introduces a consensus-based, distributed speed advisory system for reducing emissions and energy consumption in vehicle networks. Published in *IEEE Transactions on Intelligent Transportation Systems* (Q1, Impact Factor: 7.9, acceptance rate <10%), this work has had lasting impact, and its results were included in the CRC Press book *Electric and Plug-in Hybrid Vehicle Networks: Optimization and Control*.
 
-
-<b>[On the stability and convergence of a class of consensus systems with a nonlinear input](http://ming2liu.github.io/publications/maths)</b> <br> 
-<b>M Liu</b>, F Wirth, M Corless, R Shorten,
-<i>Automatica</i>.
-
-
-<b>[Smart procurement of naturally generated energy (sponge) for plug-in hybrid electric buses](http://ming2liu.github.io/publications/bus)</b> <br> 
-J.N. Sawaya, E. Crisostomi, <b>M. Liu</b>, Y. Gu, R Shorten,
-<i>IEEE Transactions on Automation Science and Engineering</i>.
-
-
-<b>[A distributed and privacy-aware speed advisory system for optimizing conventional and electric vehicle networks](http://ming2liu.github.io/publications/sas)</b> <br> 
-<b>M. Liu</b>, R.H. Hurtado, F. Wirth, Y. Gu, E. Crisostomi, R Shorten,
-<i>IEEE Transactions on Intelligent Transportation Systems</i>, <b>ITS 2015</b>.
-
-
-<b>[An intelligent speed advisory system for electric vehicles](http://ming2liu.github.io/publications/sasconf)</b> <br> 
-<b>M. Liu</b>, R.H. Hurtado, F. Wirth, Y. Gu, E. Crisostomi, R Shorten,
-<i>International Conference on Connected Vehicles and Expo</i>, <b>ICCVE 2015</b>.
-
-
-<b>[Enhanced AIMD-based decentralized residential charging of EVs](http://ming2liu.github.io/publications/enAIMD)</b> <br> 
-<b>M. Liu</b>, S. McLoone,
-<i>Transactions of Institute of Measurement and Control</i>, <b>TIMC 2015</b>.
-
-
-<b>[Residential electrical vehicle charging strategies: the good, the bad and the ugly](http://ming2liu.github.io/publications/strategies)</b> <br> 
-<b>M. Liu</b>, P. McdNamara, R. Shorten, S. McLoone,
-<i>Journal of Modern Power Systems and Clean Energy</i>. 
-
-
-<b>[Topics in Electromobility and Related Applications](http://ming2liu.github.io/publications/thesis)</b> <br> 
-<b>M. Liu</b>
-<i>National University of Ireland Maynooth</i>, <span style="color:red">(PhD Thesis)</span>.
-
-
-<b>[Optimal distributed consensus algorithm for fair V2G power dispatch in a microgrid](http://ming2liu.github.io/publications/v2g)</b> <br> 
-<b>M. Liu</b>, E. Crisostomi, Y. Gu, R. Shorten,
-<i>IEEE International Electric Vehicule Conference</i>, <b>IEVC 2014</b>.
-
-
-<b>[Optimal consensus for highway speed limits via intelligent speed advisory systems](http://ming2liu.github.io/publications/hsas)</b> <br> 
-Y. Gu, <b>M. Liu</b>, E. Crisostomi, R. Shorten,
-<i>International Conference on Connected Vehicles and Expo</i>, <b>ICCVE 2014</b>.
-
-
-<b>[Plug-and-play distributed algorithms for optimized power generation in a microgrid](http://ming2liu.github.io/publications/grid)</b> <br> 
-E. Crisostomi, <b>M. Liu</b>, M. Raugi, R. Shorten,
-<i>IEEE Transactions on Smart Grid</i>.
-
-
-<b>[Distributed consensus charging for current unbalance reduction](http://ming2liu.github.io/publications/unbalance)</b> <br> 
-<b>M. Liu</b>, P. McNamara, R. Shorten, S. McLoone,
-<i>19th IFAC World Congress</i>, <b>IFAC 2014</b>.
-
-
-
-<b>[On-off based charging strategies for EVs connected to a Low Voltage distributon network](http://ming2liu.github.io/publications/onoff)</b> <br> 
-<b>M. Liu</b>, S. Studli, R. Middleton, S. McLoone, R. Shorten, J. Braslavsky,
-<i>13th IEEE PES Asia-Pacific Power and Energy Engineering Conference</i>.
-
-
-<b>[Optimal Distributed Power Generation for Thermal and Electrical Scheduling in a Microgrid](http://ming2liu.github.io/publications/thermal)</b> <br> 
-<b>M. Liu</b>, E. Crisostomi,  M. Raugi, R. Shorten,
-<i>4th IEEE PES Innovative Smart Grid Technologies Europe</i>, <b>ISGT 2013</b>.
-
-
-<b>[Applying a QoS-based Fleet Dimension Method to Reduce Fleet Emissions](http://ming2liu.github.io/publications/qos)</b> <br> 
-<b>M. Liu</b>, W. Griggs, C. King, F. Wirth, P. Borrel, 
-<i>International Conference on Connected Vehicles and Expo</i>, <b>ICCVE 2013</b>.
-
-
-<b>[Investigation of AIMD Based Charging Strategies for EVs Connected to a Low-Voltage Distribution Network](http://ming2liu.github.io/publications/aimd)</b> <br> 
-<b>M. Liu</b>, S. McLoone, 
-<i>International Conference on Intelligent Computing for Sustainable Energy and Environment</i>.
-
-
-<b>[Fair Charging Strategies for EVs Connected to a Low-Voltage Distribution Network](http://ming2liu.github.io/publications/fair)</b> <br> 
-<b>M. Liu</b>, P. McNamara, S. McLoone, 
-<i>4th IEEE PES Innovative Smart Grid Technologies Europe</i>, <b>ISGT Europe 2013</b>.
-
-
-
-
-
-
-
+---
