@@ -14,12 +14,20 @@ author_profile: true
 * Associate Editor for the Journal of Information Systems and Operational Research 
 * 5th IEEE WF-IoT Conference Organising Committee Co-Chair & Automotive Track Co-Chair
 
+
 Technical Talks
 ======
 
-*  Introduction to Smart Grid (TU Delft)
-*  Consensus Based Optimal Control with Applications to Intelligent Transportation Systems (IBM Innovation Exchange)
-*  Cooperative or Non-Cooperative Optimisation? A Smart Grid Case Study (IBM Innovation Exchange)
+Delivered invited talks at leading academic and industry venues, including:
+
+* TU Delft on smart grid innovations  
+* IBM Innovation Exchange on intelligent transportation systems and smart grid optimisation  
+* Huawei Ireland Research Centre on AI for Cloud Systems and Applications  
+* AMD on federated learning for edge computing
+* Alkermes and BMS on AI for smart healthcare, with a focus on privacy-aware analytics and the application of large language models in patient-centred decision support  
+* Guest lecture at TU Berlin’s CID Lecture Series on Critical Infrastructure & Digitalization  
+* Presentations to academic audiences at UCD, NUI Galway, and NUI Maynooth  
+* Internal research workshops and seminars as part of research group leadership at DCU
 
 
 Scientific Reviewer
