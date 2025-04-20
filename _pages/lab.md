@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Applied Machine Learning Group"
+title: "Applied Machine Learning Research Group"
 permalink: /lab/
 author_profile: true
 ---
