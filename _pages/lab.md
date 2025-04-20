@@ -148,6 +148,19 @@ author_profile: true
   </div>
 </div>
 
+<!-- PhD 5 -->
+<div style="display: flex; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
+  <div style="flex-shrink: 0;">
+    <img src="https://ming2liu.github.io/files/zhongyang.jpg" alt="Zhongyang Li"
+         style="width: 250px; height: 250px; border-radius: 12px; object-fit: cover;" />
+  </div>
+  <div style="flex: 1;">
+    <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Zhongyang Li</h2>
+    <p style="color: #1a1a1a; font-size: 16px; line-height: 1.6; margin-top: 0;">
+       Zhongyang is a PhD researcher under joint supervision of Dr Xiaojun Wang and Dr Mingming Liu at DCU. He received his Bchelor degree in Communication Engineering from Communication University of China in 2024. His research interests include machine learning and its application to modern communication systems.      
+    </p>
+  </div>
+</div>
 
 <hr style="border: none; border-top: 2px solid #444; margin: 50px 0;" />
 <h3 style="color: #1a1a1a; font-size: 22px; margin-bottom: 20px;">Research Assistants</h3>
