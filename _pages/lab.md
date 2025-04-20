@@ -11,7 +11,7 @@ author_profile: true
   <!-- Group Logo and Name -->
   <div style="flex-shrink: 0; text-align: center;">
     <img src="https://ming2liu.github.io/files/mm_pic1.jpg" alt="Group Logo"
-         style="width: 200px; border-radius: 12px; object-fit: contain;" />
+         style="width: 250px; border-radius: 12px; object-fit: contain;" />
     <h3 style="margin-top: 10px; color: #dddddd; font-size: 20px;">Dr. Mingming Liu</h3>
   </div>
 
@@ -32,21 +32,13 @@ author_profile: true
 <!-- Postdoc 1 -->
 <div style="display: flex; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
-    <img src="https://ming2liu.github.io/files/Maqsood.png" alt="Shihao Xie"
+    <img src="https://ming2liu.github.io/files/Maqsood.png" alt="Maqsood Shah"
          style="width: 250px; border-radius: 12px; object-fit: cover;" />
   </div>
   <div style="flex: 1;">
     <h2 style="color: #1e90ff; font-size: 24px; margin: 0 0 10px 0;">xxx</h2>
     <p style="color: #dddddd; font-size: 16px; line-height: 1.6; margin-top: 0;">
-      Shihao Xie is currently a postdoc with the Department of Electrical Engineering and Information Technologies at the University of Naples Federico II under the joint supervision of Professors Mario di Bernardo and Giovanni Russo.
-    </p>
-    <p style="color: #dddddd; font-size: 16px; line-height: 1.6;">
-      He received the Ph.D. in control and decision science from University College Dublin with a thesis titled 
-      <em>‘Scalability in nonlinear multi-agent systems: analysis and control’</em>.
-    </p>
-    <p style="color: #dddddd; font-size: 16px; line-height: 1.6;">
-      His research focuses on network system control and its applications to neural networks, robotic systems, and combinatorial optimisation. Info updated on his personal website: 
-      <a href="#" style="color: #3399ff;">here</a>.
+        Dr. Maqsood Shah is currently a postdoctoral researcher at the SFI Insight Centre for Data Analytics, Dublin City University (DCU). He received his Ph.D. in Engineering from Nanjing University of Aeronautics and Astronautics, where he explored the viability of deep learning and AI architectures in the context of communications and digital signal processing. His research interests include deep learning and optimization with applications to smart mobility.
     </p>
   </div>
 </div>
