@@ -12,12 +12,12 @@ author_profile: true
   <div style="flex-shrink: 0; text-align: center;">
     <img src="https://ming2liu.github.io/files/mm_pic1.jpg" alt="Group Logo"
          style="width: 250px; border-radius: 12px; object-fit: contain;" />
-    <h3 style="margin-top: 10px; color: #dddddd; font-size: 20px;">Dr. Mingming Liu</h3>
+    <h3 style="margin-top: 10px; color: #bbbbbb; font-size: 20px;">Dr. Mingming Liu</h3>
   </div>
 
   <!-- Description Text -->
   <div style="flex: 1;">
-    <p style="color: #dddddd; font-size: 16px; line-height: 1.6; margin: 0;">
+    <p style="color: #1a1a1a; font-size: 16px; line-height: 1.6; margin: 0;">
       The <strong>Applied Machine Learning Research Group</strong> at Dublin City University is dedicated to advancing intelligent, sustainable, and data-driven solutions across sectors such as smart transportation, smart grids, smart healthcare and cloud-based systems. 
       Led by <strong>Dr. Mingming Liu</strong>, our team advances state-of-the-art research in AI-driven systems, combining applied optimization, systems engineering, and control with a strong emphasis on real-world impact. Our work focuses on federated learning, spatial-temporal graph neural networks, privacy-preserving intelligence, and user-centric solutions for decision-making under uncertainty.
       We collaborate globally to design and develop next-generation AI systems that drive sustainability and real-world impact for the benefit of society. 
@@ -27,7 +27,7 @@ author_profile: true
 
 
 <hr style="border: none; border-top: 2px solid #444; margin: 50px 0;" />
-<h3 style="color: #cccccc; font-size: 22px; margin-bottom: 20px;">Senior Researchers</h3>
+<h3 style="color: #1a1a1a; font-size: 22px; margin-bottom: 20px;">Senior Researchers</h3>
 
 <!-- Postdoc 1 -->
 <div style="display: flex; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
@@ -89,7 +89,7 @@ author_profile: true
 
 
 <hr style="border: none; border-top: 2px solid #444; margin: 50px 0;" />
-<h3 style="color: #cccccc; font-size: 22px; margin-bottom: 20px;">PhD Students</h3>
+<h3 style="color: #1a1a1a; font-size: 22px; margin-bottom: 20px;">PhD Students</h3>
 <!-- PhD Students -->
 <div style="display: flex; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
@@ -150,7 +150,7 @@ author_profile: true
 
 
 <hr style="border: none; border-top: 2px solid #444; margin: 50px 0;" />
-<h3 style="color: #cccccc; font-size: 22px; margin-bottom: 20px;">Research Assistants</h3>
+<h3 style="color: #1a1a1a; font-size: 22px; margin-bottom: 20px;">Research Assistants</h3>
 
 <!-- RA 1 -->
 <div style="display: flex; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
