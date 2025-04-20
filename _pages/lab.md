@@ -18,7 +18,7 @@ author_profile: true
   <!-- Description Text -->
   <div style="flex: 1;">
     <p style="color: #1a1a1a; font-size: 16px; line-height: 1.6; margin: 0;">
-      The <strong>Applied Machine Learning Research Group</strong> at Dublin City University is dedicated to advancing intelligent, sustainable, and data-driven solutions across sectors such as smart transportation, smart grids, smart healthcare and cloud-based systems. 
+      The <strong>Applied Machine Learning Research Group</strong> at Dublin City University (DCU) is dedicated to advancing intelligent, sustainable, and data-driven solutions across sectors such as smart transportation, smart grids, smart healthcare and cloud-based systems. 
       Led by <strong>Dr. Mingming Liu</strong>, our team advances state-of-the-art research in AI-driven systems, combining applied optimization, systems engineering, and control with a strong emphasis on real-world impact. Our work focuses on federated learning, spatial-temporal graph neural networks, privacy-preserving intelligence, and user-centric solutions for decision-making under uncertainty.
       We collaborate globally to design and develop next-generation AI systems that drive sustainability and real-world impact for the benefit of society. 
     </p>
@@ -99,7 +99,7 @@ author_profile: true
   <div style="flex: 1;">
     <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Sen Yan</h2>
     <p style="color: #1a1a1a; font-size: 16px; line-height: 1.6; margin-top: 0;">
-      Sen Yan received the bachelor’s degree in Internet of Things Engineering from Shandong University, in 2018 and the master’s degree in Computer Science – Intelligent Systems from Trinity College Dublin, the University of Dublin, in 2020. He is currently pursuing the Ph.D. degree in intelligent transportation systems at the School of Electronic Engineering, Dublin City University. Sen is working with Dr. Mingming Liu and Prof. Noel O’Connor in the areas of data-driven methods used in intelligent transportation systems, especially shared micromobility systems. He is also interested in image processing and machine learning.
+      Sen Yan received the bachelor’s degree in Internet of Things Engineering from Shandong University, in 2018 and the master’s degree in Computer Science – Intelligent Systems from Trinity College Dublin, the University of Dublin, in 2020. He is currently pursuing the Ph.D. degree in intelligent transportation systems at the School of Electronic Engineering, DCU. Sen is working with Dr. Mingming Liu and Prof. Noel O’Connor in the areas of data-driven methods used in intelligent transportation systems, especially shared micromobility systems. He is also interested in image processing and machine learning.
     </p>
   </div>
 </div>
@@ -161,7 +161,7 @@ author_profile: true
   <div style="flex: 1;">
     <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Harmonia Wang</h2>
     <p style="color: #1a1a1a; font-size: 16px; line-height: 1.6; margin-top: 0;">
-      Harmonia Wang is a research assistant working at DCU. She received her Master's degree in Trinity College Dublin and her Bachelor degree in Harbin Institute of Technology. Her research interests including machine learning with applications to air quality modelling and forecasting.
+      Harmonia is a research assistant working at DCU. She received her Master's degree in Trinity College Dublin and her Bachelor degree in Harbin Institute of Technology. Her research interests including machine learning with applications to air quality modelling and forecasting.
     </p>
   </div>
 </div>
@@ -176,7 +176,7 @@ author_profile: true
   <div style="flex: 1;">
     <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Ming Yu</h2>
     <p style="color: #1a1a1a; font-size: 16px; line-height: 1.6; margin-top: 0;">
-     Ming is a research assistant working at the Insight Research Ireland Centre for Data Analytics, Dublin City University (DCU). She holds a First-Class Honours bachelor’s degree in Data Science and a First-Class Honours master’s degree in Computer Science, both from DCU, Ireland. Her research focuses on DevOps and machine learning applications in cloud computing. As a certified Cloud Practitioner, she possesses expertise in cloud network troubleshooting, Linux, and Site Reliability Engineering (SRE) operations.
+     Ming is a research assistant working at the Insight Research Ireland Centre for Data Analytics at DCU. She holds a First-Class Honours bachelor’s degree in Data Science and a First-Class Honours master’s degree in Computer Science, both from DCU, Ireland. Her research focuses on DevOps and machine learning applications in cloud computing. As a certified Cloud Practitioner, she possesses expertise in cloud network troubleshooting, Linux, and Site Reliability Engineering (SRE) operations.
    </p>
   </div>
 </div>
@@ -206,7 +206,7 @@ author_profile: true
   <div style="flex: 1;">
     <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Conor McCarthy</h2>
     <p style="color: #1a1a1a; font-size: 16px; line-height: 1.6; margin-top: 0;">
-      Connor received his BEng degree with first-class honours in Electronic and Computer Engineering from Dublin City University in 2024. He is currently working as a Research Assistant at DCU. His research interests include traffic modelling, simulation, data analytics and app development.
+      Connor received his BEng degree with first-class honours in Electronic and Computer Engineering from DCU in 2024. He is currently working as a Research Assistant at DCU. His research interests include traffic modelling, simulation, data analytics and app development.
     </p>
   </div>
 </div>
@@ -238,7 +238,7 @@ author_profile: true
   <div style="flex: 1;">
     <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Xianjuan Chen</h2>
     <p style="color: #1a1a1a; font-size: 16px; line-height: 1.6; margin-top: 0;">
-      Xianjuan received her master’s degree with first-class honours in Computing, Data Analytics, from Dublin City University in 2024. Her research interests include machine learning and data analysis for applications in smart energy and cloud computing. She is dedicated to leveraging data-driven solutions to solve real-world challenges. Throughout her career, she has actively contributed to research projects and technical workshops, gaining hands-on experience in deploying machine learning to address practical problems.
+      Xianjuan received her master’s degree with first-class honours in Computing, Data Analytics, from DCU in 2024. Her research interests include machine learning and data analysis for applications in smart energy and cloud computing. She is dedicated to leveraging data-driven solutions to solve real-world challenges. Throughout her career, she has actively contributed to research projects and technical workshops, gaining hands-on experience in deploying machine learning to address practical problems.
     </p>
   </div>
 </div>
@@ -253,7 +253,7 @@ author_profile: true
   <div style="flex: 1;">
     <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Hongyuan Fang</h2>
     <p style="color: #1a1a1a; font-size: 16px; line-height: 1.6; margin-top: 0;">
-       Hongyuan received his Master's degree in Image Processing from Dublin City University (DCU), Dublin, Ireland, in 2022. He is currently pursuing his Ph.D. in the field of Intelligent Transportation at the SFI ML-Labs Programme at the School of Electronic Engineering, DCU. His research focuses on explainable anomaly detection in multivariate time series using deep learning techniques. His primary research interests include machine learning, graph neural networks, data-driven modeling, and computer vision. His work is particularly centered around the application of these technologies in intelligent transportation systems.
+       Hongyuan received his Master's degree in Image Processing from DCU, Dublin, Ireland, in 2022. He is currently pursuing his Ph.D. in the field of Intelligent Transportation at the SFI ML-Labs Programme at the School of Electronic Engineering, DCU. His research focuses on explainable anomaly detection in multivariate time series using deep learning techniques. His primary research interests include machine learning, graph neural networks, data-driven modeling, and computer vision. His work is particularly centered around the application of these technologies in intelligent transportation systems.
     </p>
   </div>
 </div>
@@ -282,7 +282,7 @@ author_profile: true
   <div style="flex: 1;">
     <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Hongde Wu</h2>
     <p style="color: #1a1a1a; font-size: 16px; line-height: 1.6; margin-top: 0;">
-       Hongde received his B.Eng degree in Biomedical Engineering with an outstanding graduate from Beijing Institute of Technology in 2017 and received his M.Eng degree (research degree), under the supervision of Dr. Mingming Liu, from Dublin City University in 2022. Currently he works as a researcher in 2012 Lab at Huawei. His interests are deep learning, graph neural network and smart transportation.  
+       Hongde received his B.Eng degree in Biomedical Engineering with an outstanding graduate from Beijing Institute of Technology in 2017 and received his M.Eng degree (research degree), under the supervision of Dr. Mingming Liu, from DCU in 2022. Currently, he works as a researcher in 2012 Lab at Huawei. His interests are deep learning, graph neural network and smart transportation.  
     </p>
   </div>
 </div>
