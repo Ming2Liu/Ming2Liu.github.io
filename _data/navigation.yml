@@ -6,9 +6,12 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Activities"
+  - title: "Services"
     url: /activities/
 
+  - title: "Team"
+    url: /lab/
+    
   - title: "CV"
     url: /cv/
 
