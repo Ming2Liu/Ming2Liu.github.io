@@ -118,19 +118,34 @@ author_profile: true
 </div>
 
 
+<!-- PhD 4 -->
+<div style="display: flex; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
+  <div style="flex-shrink: 0;">
+    <img src="https://ming2liu.github.io/files/chinmaya.jpg" alt="Chinmaya Kaundanya"
+         style="width: 250px; border-radius: 12px; object-fit: cover;" />
+  </div>
+  <div style="flex: 1;">
+    <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Chinmaya Kaundanya</h2>
+    <p style="color: #1a1a1a; font-size: 16px; line-height: 1.6; margin-top: 0;">
+       Chinmaya Kaundanya is a PhD researcher under joint supervision of Prof Suzanne Little and Dr Mingming Liu at DCU. His PhD is funded by the Insight Center and an Irish AI/Micromobility Company Luna Systems. His research focuses on implementing Computer Vision Deep Neural Network model compression techniques and studying the challenges of deploying them on low-spec hardware platforms, especially for Micromobility applications.     
+    </p>
+  </div>
+</div>
+
+
 <hr style="border: none; border-top: 2px solid #444; margin: 50px 0;" />
 <h3 style="color: #cccccc; font-size: 22px; margin-bottom: 20px;">Research Assistants</h3>
 
 <!-- RA 1 -->
 <div style="display: flex; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
-    <img src="https://ming2liu.github.io/files/mm_pic1.jpg" alt="Shihao Xie"
+    <img src="https://ming2liu.github.io/files/harmonia.jpeg" alt="Harmonia Wang"
          style="width: 250px; border-radius: 12px; object-fit: cover;" />
   </div>
   <div style="flex: 1;">
-    <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">xxx</h2>
+    <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Harmonia Wang</h2>
     <p style="color: #1a1a1a; font-size: 16px; line-height: 1.6; margin-top: 0;">
-      Shihao Xie is currently a postdoc with the Department of Electrical Engineering and Information Technologies at the University of Naples Federico II under the joint supervision of Professors Mario di Bernardo and Giovanni Russo.
+      Harmonia Wang is a research assistant working at DCU. She received her Master's degree in Trinity College Dublin and her Bachelor degree in Harbin Institute of Technology. Her research interests including machine learning with applications to air quality modelling and forecasting.
     </p>
   </div>
 </div>
@@ -138,14 +153,28 @@ author_profile: true
 <!-- RA 2 -->
 <div style="display: flex; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
-    <img src="https://ming2liu.github.io/files/mm_pic1.jpg" alt="Arash Shafiei"
+    <img src="https://ming2liu.github.io/files/kevin.jpg" alt="Kevin O'Shea"
          style="width: 250px; border-radius: 12px; object-fit: cover;" />
   </div>
   <div style="flex: 1;">
-    <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">YYY</h2>
+    <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Kevin O'Shea</h2>
     <p style="color: #1a1a1a; font-size: 16px; line-height: 1.6; margin-top: 0;">
-      Arash Shafiei received his first Ph.D. in Pure Mathematics in 2017 in Iran. From 2019 to 2024, he pursued a second Ph.D. in Computer Science at Czech Technical University.
+      Kevin received his MSc degree from the Technological University of the Shannon, Ireland, in 2023 and works as a Research Assistant for the Insight Research Ireland Centre for Data Analytics. His research interests include graph neural networks, large language models and generative adversarial networks, particularly in the area of music, audio and cloud computing.
     </p>
   </div>
 </div>
 
+
+<!-- RA 3 -->
+<div style="display: flex; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
+  <div style="flex-shrink: 0;">
+    <img src="https://ming2liu.github.io/files/connor.jpeg" alt="Conor McCarthy"
+         style="width: 250px; border-radius: 12px; object-fit: cover;" />
+  </div>
+  <div style="flex: 1;">
+    <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Conor McCarthy</h2>
+    <p style="color: #1a1a1a; font-size: 16px; line-height: 1.6; margin-top: 0;">
+      Connor received his B. Eng in Electronic and Computer Engineering from Dublin City University in 2024. He is currently working as a Research Assistant at DCU. His research interests include traffic modelling, simulation, data analytics and app development.
+    </p>
+  </div>
+</div>
