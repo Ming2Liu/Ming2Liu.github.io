@@ -14,6 +14,7 @@ Education
 
 Employment 
 ======
+* Assistant Professor, Dublin City University, 2019-Present
 * Data Scientist, Applied Researcher, H2020 Tech Lead at IBM Ireland Lab, 2018-2019
 * Senior Postdoctoral Research Fellow, University College Dublin, 2017-2018
 * Postdoctoral Research Fellow, University College Dublin, 2015-2017
