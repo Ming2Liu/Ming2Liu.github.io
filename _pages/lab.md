@@ -4,14 +4,13 @@ title: "Applied Machine Learning Research Group"
 permalink: /lab/
 author_profile: true
 ---
-<br><br>
+<h3 style="color: #1a1a1a; font-size: 22px; margin-bottom: 20px;">Lab Leader</h3>
 
 <div style="display: flex; gap: 30px; align-items: flex-start; margin-bottom: 50px;">
   <!-- Group Logo and Name -->
   <div style="flex-shrink: 0; text-align: center;">
     <img src="https://ming2liu.github.io/files/mm_pic1.jpg" alt="Group Logo"
          style="width: 250px; border-radius: 12px; object-fit: contain;" />
-    <h3 style="margin-top: 10px; color: #bbbbbb; font-size: 20px;">Dr Mingming Liu</h3>
   </div>
 
   <!-- Description Text -->
