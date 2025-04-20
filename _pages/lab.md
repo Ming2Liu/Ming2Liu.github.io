@@ -251,7 +251,7 @@ author_profile: true
   <div style="flex: 1;">
     <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Hongyuan Fang</h2>
     <p style="color: #1a1a1a; font-size: 16px; line-height: 1.6; margin-top: 0;">
-       Hongyuan received his Master's degree in Image Processing from DCU, Dublin, Ireland, in 2022. He is currently pursuing his Ph.D. in the field of Intelligent Transportation at the SFI ML-Labs Programme at the School of Electronic Engineering, DCU. His research focuses on explainable anomaly detection in multivariate time series using deep learning techniques. His primary research interests include machine learning, graph neural networks, data-driven modeling, and computer vision. His work is particularly centered around the application of these technologies in intelligent transportation systems.
+       Hongyuan received his Master's degree in Image Processing from DCU, Dublin, Ireland, in 2022. His research focuses on explainable anomaly detection in multivariate time series using deep learning techniques. His primary research interests include machine learning, graph neural networks, data-driven modeling, and computer vision. His work is particularly centered around the application of these technologies in intelligent transportation systems.
     </p>
   </div>
 </div>
