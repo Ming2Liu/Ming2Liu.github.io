@@ -82,7 +82,7 @@ author_profile: true
   <div style="flex: 1;">
     <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Yingqi Gu</h2>
     <p style="color: #1a1a1a; font-size: 16px; line-height: 1.6; margin-top: 0;">
-        Dr. Yingqi Gu received her Ph.D. degree in control engineering and decision science from the School of Electrical and Electronic Engineering, University College Dublin, Dublin, Ireland, in 2018. Her current research interests include AI and machine learning, control and optimization theories with applications to electric vehicles, intelligent transportation systems, and smart healthcare systems.
+        Dr. Yingqi Gu received her Ph.D. degree in control engineering and decision science from the School of Electrical and Electronic Engineering, University College Dublin, Dublin, Ireland, in 2018. Her current research interests include AI and machine learning, control and optimization theories with applications to electric vehicles, intelligent transportation systems, and smart healthcare systems. Yingqi has now joined industry as a senior data scientist. 
     </p>
   </div>
 </div>
@@ -232,7 +232,7 @@ author_profile: true
 <!-- RA 6 -->
 <div style="display: flex; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
-    <img src="https://ming2liu.github.io/files/connor.jpeg" alt="Xianjuan Chen"
+    <img src="https://ming2liu.github.io/files/xianjuan.jpg" alt="Xianjuan Chen"
          style="width: 250px; height: 250px; border-radius: 12px; object-fit: cover;" />
   </div>
   <div style="flex: 1;">
