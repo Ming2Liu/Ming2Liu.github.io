@@ -19,7 +19,9 @@ author_profile: true
   <div style="flex: 1;">
     <p style="color: #1a1a1a; font-size: 16px; line-height: 1.6; margin: 0;">
       The <strong>Applied Machine Learning Research Group</strong> at Dublin City University (DCU) is dedicated to advancing intelligent, sustainable, and data-driven solutions across sectors such as smart transportation, smart grids, smart healthcare and cloud-based systems. 
-      Led by <strong>Dr. Mingming Liu</strong>, our team advances state-of-the-art research in AI-driven systems, combining applied optimization, systems engineering, and control with a strong emphasis on real-world impact. Our work focuses on federated learning, spatial-temporal graph neural networks, privacy-preserving intelligence, and user-centric solutions for decision-making under uncertainty.
+    </p>
+    <p style="color: #1a1a1a; font-size: 16px; line-height: 1.6; margin: 0;">
+      Led by Dr. Mingming Liu, our team advances state-of-the-art research in AI-driven systems, combining applied optimization, systems engineering, and control with a strong emphasis on real-world impact. Our work focuses on federated learning, spatial-temporal graph neural networks, privacy-preserving intelligence, and user-centric solutions for decision-making under uncertainty.
       We collaborate globally to design and develop next-generation AI systems that drive sustainability and real-world impact for the benefit of society. 
     </p>
   </div>
