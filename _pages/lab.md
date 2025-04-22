@@ -93,7 +93,7 @@ author_profile: true
 <!-- PhD Students -->
 <div style="display: flex; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
-    <img src="https://ming2liu.github.io/files/sen.jpg" alt="Sen Yan"
+    <img src="https://ming2liu.github.io/files/sen_new.jpg" alt="Sen Yan"
          style="width: 250px; height: 250px; border-radius: 12px; object-fit: cover;" />
   </div>
   <div style="flex: 1;">
