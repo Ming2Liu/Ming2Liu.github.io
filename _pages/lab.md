@@ -299,3 +299,19 @@ author_profile: true
 </div>
 
 
+<hr style="border: none; border-top: 2px solid #444; margin: 50px 0;" />
+<h3 style="color: #1a1a1a; font-size: 22px; margin-bottom: 20px;">Visiting Researchers</h3>
+
+<!-- VR 1 -->
+<div style="display: flex; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
+  <div style="flex-shrink: 0;">
+    <img src="https://ming2liu.github.io/files/jf.png" alt="jifeng zhu"
+         style="width: 250px; height: 250px; border-radius: 12px; object-fit: cover;" />
+  </div>
+  <div style="flex: 1;">
+    <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Jifeng Zhu</h2>
+    <p style="color: #1a1a1a; font-size: 16px; line-height: 1.6; margin-top: 0;">
+        Jifeng Zhu was born in Shaoxing, Zhejiang, China. He received the B.S. degree from the School of Physics, Huazhong University of Science and Technology in 2012, and the M.S. degree from the School of Information Engineering, China Jiliang University in 2021. He is currently pursuing the Ph.D. degree with the School of Electronics and Information, Hangzhou Dianzi University. His research interests include acoustic signal recognition, sonar image denoising, image segmentation, object detection and saliency detection algorithms. He was a visiting PhD scholar in our group, supported by CSC funding.
+    </p>
+  </div>
+</div>
