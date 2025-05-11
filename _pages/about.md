@@ -17,8 +17,10 @@ redirect_from:
   Your browser does not support the audio element.
 </audio>
 
-<p align="center">
-  <a href="#" onclick="document.getElementById('bg-music').play(); return false;">Play Background Music</a>
+<p align="center" style="margin-top: -10px;">
+  <a href="#" onclick="document.getElementById('bg-music').play(); return false;">
+    <em>🎧 Play Background Music</em>
+  </a>
 </p>
 
 Dr. Mingming Liu is a tenured Assistant Professor in the [School of Electronic Engineering](http://ece.eeng.dcu.ie/) at [Dublin City University (DCU)](https://www.dcu.ie/). 
