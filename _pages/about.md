@@ -12,6 +12,15 @@ redirect_from:
   <img src="https://ming2liu.github.io/files/mm_pic3.jpg" alt="Photo" style="width: 560px;"/> 
 </p>
 
+<audio id="bg-music" autoplay loop hidden>
+  <source src="/files/adelita.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+<p align="center">
+  <a href="#" onclick="document.getElementById('bg-music').play(); return false;">Play Background Music</a>
+</p>
+
 Dr. Mingming Liu is a tenured Assistant Professor in the [School of Electronic Engineering](http://ece.eeng.dcu.ie/) at [Dublin City University (DCU)](https://www.dcu.ie/). 
 
 He was a data scientist, applied researcher, and H2020 project lead ([5G-Solutions](https://www.5gsolutionsproject.eu/)) at [IBM Ireland Lab](https://www.ibm.com/ie-en), where the main focus of his work was to leverage the state-of-the-art machine learning and applied optimisation techniques for practical and challenging problems arising in the industry. Before IBM, he worked at [University College Dublin](http://www.ucd.ie/) as a (senior) postdoctoral research fellow with the Control Engineering and Decision Science Research Group within the School of Electrical and Electronic Engineering. He spent almost three years working on both EU and SFI funded projects at UCD, including [Green Transportation and Networks](https://www.hamilton.ie/new-3m-research-project-in-green-transport-and-communications-networks-announced.htm) (SFI) and [Enable-S3](https://cordis.europa.eu/project/id/692455) (H2020), with strong collaborations with both academia and industrial partners.
@@ -21,7 +30,6 @@ He received a B.Eng degree in Electronic Engineering with first-class honours (r
 He is an IEEE Senior Member. He has published over 60 papers to date including top-tier journals such as [“IEEE Transactions on Smart Grid”](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165411), [“IEEE Transactions on Intelligent Transportation System”](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979), [“IEEE Transactions on Automation Science and Engineering”](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856), ["IEEE System Journal"](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4267003), ["IEEE Transactions on Transportation Electrification"](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687316)， ["IEEE Transactions on Artificial Intelligence"](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688), ["Sustainable Cities and Society"](https://www.sciencedirect.com/journal/sustainable-cities-and-society), ["Pattern Recognition"](https://www.sciencedirect.com/journal/pattern-recognition), ["Applied Energy"](https://www.sciencedirect.com/journal/applied-energy) and [“Automatica”](https://www.journals.elsevier.com/automatica). He acts as an academic editor for [PLOS ONE](https://journals.plos.org/plosone/) and an associate editor for the [Journal of Information Systems and Operational Research (INFOR)](https://www.tandfonline.com/journals/tinf20). 
 
 Since 2018, he has secured more than 2.5 million euros in research funding from various sources as the independent PI. At present, he is one of the three awardees at DCU of the prestigious [SFI Frontiers for the Future Programme](https://lnkd.in/ejxwqNCr) in 2021. He has actively participated in many academic activities, including technical committees, organisation committees and management committees at both national and international levels. He is the Irish national representative for the EU COST Action [CA19126](https://www.cost.eu/actions/CA19126/), [CA20138](https://www.cost.eu/actions/CA20138/) and [CA21131](https://www.cost.eu/actions/CA21131/).
-
 
 Research Interests
 ======
