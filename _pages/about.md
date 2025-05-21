@@ -65,6 +65,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+* May, 2025: Our paper "A SUMO-Based Digital Twin for Evaluation of Conventional and Electric Vehicle Networks" has been accepted by the IEEE ECCE Europe 2025 conference.
 * Apr, 2025: We have attend the [National Showcase Event](http://ming2liu.github.io/files/NC.jpg) to demonstrate our app development as part of the SFI National Challenge Call Project BOHEMIAN. 
 * Apr, 2025: Our paper "A Comparative Study of Graph-Based Learning Methods for Multivariate Time-Series Anomaly Detection in Cloud Microservice Applications" has been accepted by the IJCNN 2025. 
 * Mar, 2025: Our paper ["On Scalable Design for User-Centric Multi-Modal Shared E-Mobility Systems using MILP and Modified Dijkstra's Algorithm"](https://arxiv.org/pdf/2412.10986) has been nominated as the best paper in the IEEE SSCI 2025 conference.
