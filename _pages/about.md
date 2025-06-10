@@ -13,7 +13,7 @@ redirect_from:
 </p>
 
 <audio id="bg-music" autoplay loop hidden>
-  <source src="https://drive.google.com/uc?export=download&id=1IRxbTQIWK1YSp4A2oVwz_kPHqC69vg_X" type="audio/mpeg">
+  <source src="/files/ag.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
