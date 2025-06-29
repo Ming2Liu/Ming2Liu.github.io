@@ -65,7 +65,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
-* Jul, 2025: Our paper "Leveraging RAG-LLMs for Urban Mobility Simulation and Analysis" has been accepted by the IEEE SMC conference 2025.
+* Jul, 2025: Our paper "Leveraging RAG-LLMs for Urban Mobility Simulation and Analysis" has been accepted by the IEEE International Conference on Systems, Man, and Cybernetics (SMC) conference 2025.
 * Jun, 2025: I have been awarded the FHEA by Advance HE. 
 * Jun, 2025: Our paper "Detecting Beta-Amyloid via Cross-Modal Knowledge Distillation from PET to MRI" has been accepted by the 29th UK Conference on Medical Image Understanding and Analysis (MIUA 2025).
 * May, 2025: Our paper "A SUMO-Based Digital Twin for Evaluation of Conventional and Electric Vehicle Networks" has been accepted by the IEEE ECCE Europe 2025 conference.
