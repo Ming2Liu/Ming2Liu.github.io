@@ -65,7 +65,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
-* Jul, 2025: I have received a [digital badge](https://openbadgefactory.com/v1/assertion/93cc6b9fbe307ceaacb82e22f162ad9c3cdfa3d2) from the National Forum for the Enhancement of Teaching and Learning in Higher Education for "Recognition of Prior Learning". 
+* Jul, 2025: I have received a [digital badge](http://ming2liu.github.io/files/rpl.pdf) from the National Forum for the Enhancement of Teaching and Learning in Higher Education for "Recognition of Prior Learning". 
 * Jul, 2025: Our paper "Leveraging RAG-LLMs for Urban Mobility Simulation and Analysis" has been accepted by the IEEE International Conference on Systems, Man, and Cybernetics (SMC) conference 2025.
 * Jun, 2025: I have been awarded the FHEA by Advance HE. 
 * Jun, 2025: Our paper "Detecting Beta-Amyloid via Cross-Modal Knowledge Distillation from PET to MRI" has been accepted by the 29th UK Conference on Medical Image Understanding and Analysis (MIUA 2025).
