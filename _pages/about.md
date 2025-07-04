@@ -65,6 +65,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+* Jul, 2025: My PhD student, Sen Yan, successfully defended his [viva voce examination](http://ming2liu.github.io/files/sen_viva.jpg) today.
 * Jul, 2025: I have received a [digital badge](http://ming2liu.github.io/files/rpl.pdf) from the National Forum for the Enhancement of Teaching and Learning in Higher Education for "Recognition of Prior Learning". 
 * Jul, 2025: Our paper "Leveraging RAG-LLMs for Urban Mobility Simulation and Analysis" has been accepted by the IEEE International Conference on Systems, Man, and Cybernetics (SMC) conference 2025.
 * Jun, 2025: I have been awarded the FHEA by Advance HE. 
