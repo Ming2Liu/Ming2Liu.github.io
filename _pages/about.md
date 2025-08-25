@@ -68,10 +68,10 @@ Recent News
 * Aug, 2025: My research group is offering a 3-month research assistant position. If you’re interested, please get in touch.
 * Jul, 2025: My PhD student, Sen Yan, successfully defended his [viva voce examination](http://ming2liu.github.io/files/sen_viva.jpg) today.
 * Jul, 2025: I have received a [digital badge](http://ming2liu.github.io/files/rpl.pdf) from the National Forum for the Enhancement of Teaching and Learning in Higher Education for "Recognition of Prior Learning". 
-* Jul, 2025: Our paper "Leveraging RAG-LLMs for Urban Mobility Simulation and Analysis" has been accepted by the IEEE International Conference on Systems, Man, and Cybernetics (SMC) conference 2025.
+* Jul, 2025: [Our paper](https://arxiv.org/pdf/2507.10382?) "Leveraging RAG-LLMs for Urban Mobility Simulation and Analysis" has been accepted by the IEEE International Conference on Systems, Man, and Cybernetics (SMC) conference 2025.
 * Jun, 2025: I have been awarded the FHEA by Advance HE. 
-* Jun, 2025: Our paper "Detecting Beta-Amyloid via Cross-Modal Knowledge Distillation from PET to MRI" has been accepted by the 29th UK Conference on Medical Image Understanding and Analysis (MIUA 2025).
-* May, 2025: Our paper "A SUMO-Based Digital Twin for Evaluation of Conventional and Electric Vehicle Networks" has been accepted by the IEEE ECCE Europe 2025 conference.
+* Jun, 2025: [Our paper](https://doras.dcu.ie/31156/1/MIUA2025_Francesco_Chiumento.pdf) "Detecting Beta-Amyloid via Cross-Modal Knowledge Distillation from PET to MRI" has been accepted by the 29th UK Conference on Medical Image Understanding and Analysis (MIUA 2025).
+* May, 2025: [Our paper](https://arxiv.org/pdf/2507.10280) "A SUMO-Based Digital Twin for Evaluation of Conventional and Electric Vehicle Networks" has been accepted by the IEEE ECCE Europe 2025 conference.
 * Apr, 2025: We have attend the [National Showcase Event](http://ming2liu.github.io/files/NC.jpg) to demonstrate our app development as part of the SFI National Challenge Call Project BOHEMIAN. 
 * Apr, 2025: Our paper "A Comparative Study of Graph-Based Learning Methods for Multivariate Time-Series Anomaly Detection in Cloud Microservice Applications" has been accepted by the IJCNN 2025. 
 * Mar, 2025: Our paper ["On Scalable Design for User-Centric Multi-Modal Shared E-Mobility Systems using MILP and Modified Dijkstra's Algorithm"](https://arxiv.org/pdf/2412.10986) has been nominated as the best paper in the IEEE SSCI 2025 conference.
