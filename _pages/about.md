@@ -73,7 +73,7 @@ Recent News
 * Jun, 2025: [Our paper](https://doras.dcu.ie/31156/1/MIUA2025_Francesco_Chiumento.pdf) "Detecting Beta-Amyloid via Cross-Modal Knowledge Distillation from PET to MRI" has been accepted by the 29th UK Conference on Medical Image Understanding and Analysis (MIUA 2025).
 * May, 2025: [Our paper](https://arxiv.org/pdf/2507.10280) "A SUMO-Based Digital Twin for Evaluation of Conventional and Electric Vehicle Networks" has been accepted by the IEEE ECCE Europe 2025 conference.
 * Apr, 2025: We have attend the [National Showcase Event](http://ming2liu.github.io/files/NC.jpg) to demonstrate our app development as part of the SFI National Challenge Call Project BOHEMIAN. 
-* Apr, 2025: Our paper "A Comparative Study of Graph-Based Learning Methods for Multivariate Time-Series Anomaly Detection in Cloud Microservice Applications" has been accepted by the IJCNN 2025. 
+* Apr, 2025: [Our paper](https://vimeo.com/1095993369) "A Comparative Study of Graph-Based Learning Methods for Multivariate Time-Series Anomaly Detection in Cloud Microservice Applications" has been accepted by the IJCNN 2025. 
 * Mar, 2025: Our paper ["On Scalable Design for User-Centric Multi-Modal Shared E-Mobility Systems using MILP and Modified Dijkstra's Algorithm"](https://arxiv.org/pdf/2412.10986) has been nominated as the best paper in the IEEE SSCI 2025 conference.
 * Mar, 2025: I have joined [Engineer Ireland](https://www.engineersireland.ie/Professionals) as a full member. 
 * Mar, 2025: I have been nominated for the President's Award for Excellence in Doctoral Supervision category at DCU.
