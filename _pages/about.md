@@ -54,7 +54,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
-* Aug, 2025: I have been appointed as the management committee member for Ireland in the COST Action [CA24121](https://www.cost.eu/actions/CA24121/) - Knowledge Graphs in the Era of Large Language Models (KGELL).
+* Sept, 2025: I have been appointed as the management committee member for Ireland in the COST Action [CA24121](https://www.cost.eu/actions/CA24121/) - Knowledge Graphs in the Era of Large Language Models (KGELL).
 * Aug, 2025: My research group is offering a 3-month research assistant position. If you’re interested, please get in touch.
 * Jul, 2025: My PhD student, Sen Yan, successfully defended his [viva voce examination](http://ming2liu.github.io/files/sen_viva.jpg) today.
 * Jul, 2025: I have received a [digital badge](http://ming2liu.github.io/files/rpl.pdf) from the National Forum for the Enhancement of Teaching and Learning in Higher Education for "Recognition of Prior Learning". 
