@@ -65,6 +65,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+* Oct, 2025: Our paper [P-Tracker: Design and Development of a Low-Cost PM2.5 Monitor for Citizen Measurements of Air Pollution](https://www.mdpi.com/2813-6640/3/4/12) has been published by Hardware. 
 * Sept, 2025: I have been appointed as the management committee member for Ireland in the COST Action [CA24121](https://www.cost.eu/actions/CA24121/) - Knowledge Graphs in the Era of Large Language Models (KGELL).
 * Aug, 2025: My research group is offering a 3-month research assistant position. If you’re interested, please get in touch.
 * Jul, 2025: My PhD student, Sen Yan, successfully defended his [viva voce examination](http://ming2liu.github.io/files/sen_viva.jpg) today.
