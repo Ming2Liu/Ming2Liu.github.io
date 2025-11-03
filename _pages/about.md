@@ -65,6 +65,8 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+* Nov, 2025: The BOHEMIAN project has been selected as runner up prize winner to progress to the Prize Phase of the Healthy Environment For
+ All Challenge.
 * Oct, 2025: Our paper [P-Tracker: Design and Development of a Low-Cost PM2.5 Monitor for Citizen Measurements of Air Pollution](https://www.mdpi.com/2813-6640/3/4/12) has been published by Hardware. 
 * Sept, 2025: I have been appointed as the management committee member for Ireland in the COST Action [CA24121](https://www.cost.eu/actions/CA24121/) - Knowledge Graphs in the Era of Large Language Models (KGELL).
 * Aug, 2025: My research group is offering a 3-month research assistant position. If you’re interested, please get in touch.
