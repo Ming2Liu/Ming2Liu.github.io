@@ -31,7 +31,7 @@ He received a B.Eng degree in Electronic Engineering with first-class honours (r
 
 He is an IEEE Senior Member. He has published over 65 papers to date including top-tier journals such as [“IEEE Transactions on Smart Grid”](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165411), [“IEEE Transactions on Intelligent Transportation System”](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979), [“IEEE Transactions on Automation Science and Engineering”](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856), ["IEEE System Journal"](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4267003), ["IEEE Transactions on Transportation Electrification"](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687316)， ["IEEE Transactions on Artificial Intelligence"](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688), ["Sustainable Cities and Society"](https://www.sciencedirect.com/journal/sustainable-cities-and-society), ["Pattern Recognition"](https://www.sciencedirect.com/journal/pattern-recognition), ["Applied Energy"](https://www.sciencedirect.com/journal/applied-energy) and [“Automatica”](https://www.journals.elsevier.com/automatica). He acts as an academic editor for [PLOS ONE](https://journals.plos.org/plosone/) and an associate editor for the [Journal of Information Systems and Operational Research (INFOR)](https://www.tandfonline.com/journals/tinf20). 
 
-Since 2018, he has secured more than 2.5 million euros in research funding from various sources as the PI. He has actively participated in many academic activities, including technical committees, organisation committees and management committees at both national and international levels. He is the Irish national representative for the EU COST Action [CA19126](https://www.cost.eu/actions/CA19126/), [CA20138](https://www.cost.eu/actions/CA20138/), [CA21131](https://www.cost.eu/actions/CA21131/) and [CA24121](https://www.cost.eu/actions/CA24121/).
+Since 2018, he has secured more than 3 million euros in research funding from various sources as the PI. He has actively participated in many academic activities, including technical committees, organisation committees and management committees at both national and international levels. He is the Irish national representative for the EU COST Action [CA19126](https://www.cost.eu/actions/CA19126/), [CA20138](https://www.cost.eu/actions/CA20138/), [CA21131](https://www.cost.eu/actions/CA21131/) and [CA24121](https://www.cost.eu/actions/CA24121/).
 
 Research Interests
 ======
@@ -45,7 +45,7 @@ Research Interests
 
 Project Experience 
 ======
-* [SFI Challenge Call](https://www.researchireland.ie/news/ncf-finalists/), Co-PI, Funded with Grant €500k.
+* [SFI Challenge Call](https://www.researchireland.ie/news/ncf-finalists/), Co-PI, Funded with Grant €1.5 million.
 * [Huawei Cloud Project](https://www.dcu.ie/sites/default/files/inline-files/RF1899a%20Postdoctoral%20Researcher%20-%20Huawei%20Cloud%20INSIGHT%20JD.pdf), PI, Funded with Grant €300k.
 * [SFI Frontiers for the Future Programme](https://lnkd.in/ejxwqNCr), PI, Funded with Grant €335k, co-funded by Google Cloud Research (PI, €5k)
 * [Huawei SRE Project](https://www.dcu.ie/sites/default/files/inline-files/rf1531-postdoctoral-researcher-huawei-project-jd.pdf), PI, Funded with Grant €270k+
