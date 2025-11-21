@@ -66,6 +66,7 @@ Please note that if your application is positive, you should typically expect to
 Recent News
 ======
 * Nov, 2025: Our paper [Optical Flow Prompts Distractor-Aware Siamese Network for Tracking Autonomous Underwater Vehicle with Sonar and Camera Videos](https://www.sciencedirect.com/science/article/pii/S0893608025012092) has been published by Neural Networks. 
+* Nov, 2025: Our paper [A Comparative Study of Graph-Based Learning Methods for Multivariate Time-Series Anomaly Detection in Cloud Microservice Applications](https://ieeexplore.ieee.org/document/11228635) has been published by the IJCNN 2025 conference.
 * Nov, 2025: The BOHEMIAN project has been selected as runner up prize winner to progress to the Prize Phase of the Healthy Environment For All Challenge.
 * Oct, 2025: Our paper [P-Tracker: Design and Development of a Low-Cost PM2.5 Monitor for Citizen Measurements of Air Pollution](https://www.mdpi.com/2813-6640/3/4/12) has been published by Hardware. 
 * Sept, 2025: I have been appointed as the management committee member for Ireland in the COST Action [CA24121](https://www.cost.eu/actions/CA24121/) - Knowledge Graphs in the Era of Large Language Models (KGELL).
