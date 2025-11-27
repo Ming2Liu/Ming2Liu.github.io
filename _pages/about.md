@@ -65,6 +65,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+* Nov, 2025: Our paper "Dual-Discriminator Generative Adversarial Network with Long-Tail Feature Capture for Extreme Scenarios in Human–Machine Shared Driving" has been accepted by IEEE Transactions on Intelligent Transportation Systems. 
 * Nov, 2025: Our paper [Explainable Graph Ensemble Learning for Multivariate Time Series Anomaly Detection in Cloud Microservice Architectures](https://ieeexplore.ieee.org/document/11260926) has been published by IEEE Transactions on Cloud Computing. 
 * Nov, 2025: Our paper [Optical Flow Prompts Distractor-Aware Siamese Network for Tracking Autonomous Underwater Vehicle with Sonar and Camera Videos](https://www.sciencedirect.com/science/article/pii/S0893608025012092) has been published by Neural Networks. 
 * Nov, 2025: Our paper [A Comparative Study of Graph-Based Learning Methods for Multivariate Time-Series Anomaly Detection in Cloud Microservice Applications](https://ieeexplore.ieee.org/document/11228635) has been published by the IJCNN 2025 conference.
