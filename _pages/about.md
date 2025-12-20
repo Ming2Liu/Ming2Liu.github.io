@@ -52,6 +52,7 @@ Project Experience
 * [5G-Solutions](https://www.5gsolutionsproject.eu/) (EU H2020), PI, WP Lead, Grant €660k+
 * [VI-DAS](http://www.vi-das.eu/) (EU H2020), PI, WP Lead, Grant €600k+
 * [Insight DCU TU/IoT](https://www.insight-centre.org/tu-iot-collaborations-2022/), Co-PI with Prof. A. Smeaton et al., Grant €50k, co-funded by Google Cloud Research (PI, €5k)  
+* [DCU APT Seed Funding Programme](https://aptcentre.ie/), PI, Grant €5k. 
 * [ICONET](https://www.iconetproject.eu/) (EU H2020), Task Tech Lead
 * [Chariot](https://www.chariotproject.eu/) (EU H2020), Task Tech Contributor 
 * [COPKIT](https://copkit.eu/) (EU H2020), Task Tech Contributor 
@@ -65,6 +66,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+* Dec, 2025: Our proposal "Fusing In-Situ Sensor Data with Deep Learning for Zero-Defect Metal Additive Manufacturing" has been funded by the DCU APT Seed Funding programme.
 * Dec, 2025: Our paper "Dual-Discriminator Generative Adversarial Network with Long-Tail Feature Capture for Extreme Scenarios in Human–Machine Shared Driving" has been accepted by IEEE Transactions on Intelligent Transportation Systems. 
 * Nov, 2025: Our paper [Explainable Graph Ensemble Learning for Multivariate Time Series Anomaly Detection in Cloud Microservice Architectures](https://ieeexplore.ieee.org/document/11260926) has been published by IEEE Transactions on Cloud Computing. 
 * Nov, 2025: Our paper [Optical Flow Prompts Distractor-Aware Siamese Network for Tracking Autonomous Underwater Vehicle with Sonar and Camera Videos](https://www.sciencedirect.com/science/article/pii/S0893608025012092) has been published by Neural Networks. 
