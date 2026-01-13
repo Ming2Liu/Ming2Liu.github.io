@@ -66,6 +66,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+* Jan, 2026: Our paper "MLRDv2: A Dataset for Improving Micromobility Safety via Attention-Integrated Compact CNN Models" has been accepted for publication in the SN Computer Science journal.
 * Dec, 2025: Our proposal "Fusing In-Situ Sensor Data with Deep Learning for Zero-Defect Metal Additive Manufacturing" has been funded by the DCU APT Seed Funding programme.
 * Dec, 2025: Our paper [Dual-Discriminator Generative Adversarial Network with Long-Tail Feature Capture for Extreme Scenarios in Human–Machine Shared Driving](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11316352) has been accepted by IEEE Transactions on Intelligent Transportation Systems. 
 * Nov, 2025: Our paper [Explainable Graph Ensemble Learning for Multivariate Time Series Anomaly Detection in Cloud Microservice Architectures](https://ieeexplore.ieee.org/document/11260926) has been published by IEEE Transactions on Cloud Computing. 
