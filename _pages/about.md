@@ -53,6 +53,7 @@ Project Experience
 * [VI-DAS](http://www.vi-das.eu/) (EU H2020), PI, WP Lead, Grant €600k+
 * [Insight DCU TU/IoT](https://www.insight-centre.org/tu-iot-collaborations-2022/), Co-PI with Prof. A. Smeaton et al., Grant €50k, co-funded by Google Cloud Research (PI, €5k)  
 * [DCU APT Seed Funding Programme](https://aptcentre.ie/), PI, Grant €5k. 
+* [ECIU Seed Funding Programme](https://www.eciu.eu/), PI, Coordinator, Grant €26k. 
 * [ICONET](https://www.iconetproject.eu/) (EU H2020), Task Tech Lead
 * [Chariot](https://www.chariotproject.eu/) (EU H2020), Task Tech Contributor 
 * [COPKIT](https://copkit.eu/) (EU H2020), Task Tech Contributor 
