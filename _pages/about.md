@@ -67,6 +67,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+* Feb, 2026: My article [“Self-driving cars are poorly prepared for high-risk road situations – here's how AI can improve them”](https://theconversation.com/self-driving-cars-are-poorly-prepared-for-high-risk-road-situations-heres-how-ai-can-improve-them-275841) has been published on The Conversation.
 * Feb, 2026: Our proposal "Electric Shared Autonomous Mobility-on-Demand (E-SAMoD)" has been funded by the ECIU Seed Fund Programme, where DCU is the project coordinator.
 * Jan, 2026: Our paper [MLRDv2: A Dataset for Improving Micromobility Safety via Attention-Integrated Compact CNN Models](https://rdcu.be/e1uau) has been accepted for publication in the SN Computer Science journal.
 * Dec, 2025: Our proposal "Fusing In-Situ Sensor Data with Deep Learning for Zero-Defect Metal Additive Manufacturing" has been funded by the DCU APT Seed Funding programme.
