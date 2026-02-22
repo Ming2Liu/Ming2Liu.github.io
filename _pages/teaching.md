@@ -33,7 +33,6 @@ author_profile: true
 * **Z. Li** – School of Electronic Engineering, DCU
 * **S. Yen** – School of Electronic Engineering, DCU (Funded)
 * **K. O'Shea** – SFI Insight Centre, DCU
-* **H. Fang** – SFI Insight Centre / ML-Lab, DCU
 * **Y. Ding** – SFI Insight Centre / ML-Lab, DCU
 * **J. Zhu** – Hangzhou Dianzi University / DCU (Exchange)
 
