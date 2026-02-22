@@ -33,7 +33,6 @@ author_profile: true
 * **Z. Li** – School of Electronic Engineering, DCU
 * **S. Yen** – School of Electronic Engineering, DCU 
 * **K. O'Shea** – Research Ireland Insight Centre, DCU
-* **H. Fang** – Research Ireland Insight Centre / ML-Lab, DCU
 * **Y. Ding** – Research Ireland Insight Centre / ML-Lab, DCU
 * **J. Zhu** – Hangzhou Dianzi University / DCU (Exchange)
 
