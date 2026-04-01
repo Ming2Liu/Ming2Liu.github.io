@@ -67,6 +67,8 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+* Apr, 2026: Our paper "Cross-Modal Knowledge Distillation for PET-Free Amyloid-Beta Detection from MRI" has been accepted to CVPRW 2026.
+* Apr, 2026: Congratulation to my student A.V. Sampath for being on the 2026 Dean’s Honours List.
 * Mar, 2026: Our paper ["Large Language Model-Assisted Multi-Objective Optimisation for an Integrated Multimodal E-Mobility Platform"](https://www.sciencedirect.com/science/article/pii/S2590198226001132) has been accepted by Transportation Research Interdisciplinary Perspectives.
 * Feb, 2026: My article [“Self-driving cars are poorly prepared for high-risk road situations – here's how AI can improve them”](https://theconversation.com/self-driving-cars-are-poorly-prepared-for-high-risk-road-situations-heres-how-ai-can-improve-them-275841) has been published on The Conversation.
 * Feb, 2026: Our proposal "Electric Shared Autonomous Mobility-on-Demand (E-SAMoD)" has been funded by the ECIU Seed Fund Programme, where DCU is the project coordinator.
