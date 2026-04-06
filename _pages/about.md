@@ -67,6 +67,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+* Apr, 2026: Our paper "Robust Knowledge Distillation for Resource-Constrained Applications: Evaluating Offline KD Techniques for Large–Compact Heterogeneous CNNs" has been accepted for publication in IEEE Access. 
 * Apr, 2026: Our paper "Cross-Modal Knowledge Distillation for PET-Free Amyloid-Beta Detection from MRI" has been accepted to CVPRW 2026.
 * Apr, 2026: Congratulation to my student A.V. Sampath for being on the 2026 Dean’s Honours List.
 * Mar, 2026: Our paper ["Large Language Model-Assisted Multi-Objective Optimisation for an Integrated Multimodal E-Mobility Platform"](https://www.sciencedirect.com/science/article/pii/S2590198226001132) has been accepted by Transportation Research Interdisciplinary Perspectives.
