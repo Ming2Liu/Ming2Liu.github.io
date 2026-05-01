@@ -67,6 +67,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+* May, 2026: Our paper "HiLLTS: Zero-Shot Hierarchical LLM Traffic Signal Control for Sustainable Transportation Networks" has been accepted has been accepted for publication at the 2026 IEEE 29th International Conference on Intelligent Transportation Systems (ITSC).
 * Apr, 2026: Our paper ["Robust Knowledge Distillation for Resource-Constrained Applications: Evaluating Offline KD Techniques for Large–Compact Heterogeneous CNNs"](https://ieeexplore.ieee.org/document/11482452) has been accepted for publication in IEEE Access. 
 * Apr, 2026: Our paper ["Cross-Modal Knowledge Distillation for PET-Free Amyloid-Beta Detection from MRI"](https://arxiv.org/abs/2604.12574) has been accepted to CVPRW 2026.
 * Apr, 2026: Congratulation to my student A.V. Sampath for being on the 2026 Dean’s Honours List.
