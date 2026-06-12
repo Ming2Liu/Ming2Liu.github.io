@@ -67,6 +67,7 @@ Please note that if your application is positive, you should typically expect to
 
 Recent News
 ======
+* Jun, 2026: Our paper "A Clinician-Informed Translational Roadmap for PET-Free MRI-Based Amyloid-Beta Assessment in Alzheimer's Disease" has been accepted by Medical Image Understanding and Analysis (MIUA) 2026. 
 * May, 2026: Our paper "HiLLTS: Zero-Shot Hierarchical LLM Traffic Signal Control for Sustainable Transportation Networks" has been accepted for publication at the 2026 IEEE 29th International Conference on Intelligent Transportation Systems (ITSC).
 * Apr, 2026: Our paper ["Robust Knowledge Distillation for Resource-Constrained Applications: Evaluating Offline KD Techniques for Large–Compact Heterogeneous CNNs"](https://ieeexplore.ieee.org/document/11482452) has been accepted for publication in IEEE Access. 
 * Apr, 2026: Our paper ["Cross-Modal Knowledge Distillation for PET-Free Amyloid-Beta Detection from MRI"](https://arxiv.org/abs/2604.12574) has been accepted to CVPRW 2026.
