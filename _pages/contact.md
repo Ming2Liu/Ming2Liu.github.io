@@ -4,8 +4,8 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Dr. Mingming Liu, <br>
-Assistant Professor, <br>
+Dr Mingming Liu, <br>
+Associate Professor, <br>
 School of Electronic Engineering, <br>
 Dublin City University, <br>
 Glasnevin, Dublin 9, Ireland <br>
