@@ -49,7 +49,7 @@ author_profile: true
 * **H. Wu** – M.Res in Electronic Engineering, DCU (Principal Supervisor)
 
 ### Taught Masters (Principal Supervisor)
-* **MSc in IoT (DCU):** A. Mohammadhoseini, J. Bryan, H. Kumar, I. Yadav, S. Venkatesan, R. Singh, N. Singh, J. Olagbemiro, J. Sajor, J. Good, C. Jones, J. Zhang, X. Wu, R. Namburi, K. Liang, P. Leroux, J. Motarugadde, Z. Zhong.
+* **MSc in IoT (DCU):** S. Venkatesan, R. Singh, Nitika, M. Chinta, A. Mohammadhoseini, J. Bryan, H. Kumar, I. Yadav, S. Venkatesan, R. Singh, N. Singh, J. Olagbemiro, J. Sajor, J. Good, C. Jones, J. Zhang, X. Wu, R. Namburi, K. Liang, P. Leroux, J. Motarugadde, Z. Zhong.
 * **MSc in IoT (DCU-Wuhan University):** Y. Li, Z. Sun.
 * **MEng Electronic Engineering:** N. Srinivas, R. Dhakshinamurthy, D. Puttaswamy, S. Mukhopadhyay, S. Srinivas.
 * **MEng Mechatronic Engineering:** T. Liu.
@@ -68,6 +68,9 @@ author_profile: true
 ---
 
 ## Research Staff
+* **Q. Wang** – School of Electronic Engineering, DCU (Principal Supervisor)
+* **S. Carpenter** – School of Electronic Engineering, DCU (Principal Supervisor)
+* **K. Qi** – School of Electronic Engineering, DCU (Principal Supervisor)
 * **A. Sampath** – School of Electronic Engineering, DCU (Principal Supervisor)
 * **H. Wang** – School of Electronic Engineering, DCU (Principal Supervisor)
 * **M. Allam** – Research Ireland Insight Centre, DCU (Principal Supervisor)
