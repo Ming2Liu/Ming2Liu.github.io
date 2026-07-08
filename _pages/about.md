@@ -23,47 +23,53 @@ redirect_from:
   </a>
 </p>
 
-Dr Mingming Liu is a tenured Associate Professor in the [School of Electronic Engineering](http://ece.eeng.dcu.ie/) at [Dublin City University (DCU)](https://www.dcu.ie/). 
+Dr Mingming Liu is a tenured Associate Professor in the [School of Electronic Engineering](http://ece.eeng.dcu.ie/) at [Dublin City University (DCU)](https://www.dcu.ie/). He leads research on applied machine learning and trustworthy AI for sustainable, intelligent and data-driven systems, with applications in smart mobility, cloud systems, healthcare, environmental intelligence and energy systems.
 
-He was a data scientist, applied researcher, and H2020 project lead ([5G-Solutions](https://www.5gsolutionsproject.eu/)) at [IBM Ireland Lab](https://www.ibm.com/ie-en), where the main focus of his work was to leverage the state-of-the-art machine learning and applied optimisation techniques for practical and challenging problems arising in the industry. Before IBM, he worked at [University College Dublin](http://www.ucd.ie/) as a (senior) postdoctoral research fellow with the Control Engineering and Decision Science Research Group within the School of Electrical and Electronic Engineering. He spent almost three years working on both EU and SFI funded projects at UCD, including [Green Transportation and Networks](https://www.hamilton.ie/new-3m-research-project-in-green-transport-and-communications-networks-announced.htm) (SFI) and [Enable-S3](https://cordis.europa.eu/project/id/692455) (H2020), with strong collaborations with both academia and industrial partners.
+His research group develops machine learning, optimisation, graph-based modelling, privacy-preserving analytics and decision-support methods for real-world cyber-physical and socio-technical systems. The work is strongly application-driven and is carried out in collaboration with academic, public-sector and industrial partners.
 
-He received a B.Eng degree in Electronic Engineering with first-class honours (ranked first) from [National University of Ireland Maynooth](https://www.maynoothuniversity.ie/) in 2011 and his PhD in Control Engineering and Decision Science from the [Hamilton Institute](https://www.maynoothuniversity.ie/hamilton) at the same university in 2015. His PhD thesis, [“Topics in Electromobility and Related Applications”](http://mural.maynoothuniversity.ie/6522/), was supervised by Prof Robert Shorten (Imperial College London) and Prof Sean McLoone (Queen's University Belfast).
+Before joining DCU, he was a Data Scientist, Applied Researcher and H2020 Technical Lead at [IBM Ireland Lab](https://www.ibm.com/ie-en), where he worked on machine learning and applied optimisation for industrial systems. Before IBM, he was a Senior Postdoctoral Research Fellow and Postdoctoral Research Fellow at [University College Dublin](http://www.ucd.ie/), working on EU and SFI-funded projects in control engineering, decision science and intelligent transportation systems.
 
-He is an IEEE Senior Member. He has published over 70 papers to date including top-tier journals such as [“IEEE Transactions on Smart Grid”](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165411), [“IEEE Transactions on Intelligent Transportation System”](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979), [“IEEE Transactions on Automation Science and Engineering”](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856), ["IEEE System Journal"](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4267003), ["IEEE Transactions on Transportation Electrification"](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687316)， ["IEEE Transactions on Artificial Intelligence"](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688), ["IEEE Transactions on Cloud Computing"](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245519), ["Sustainable Cities and Society"](https://www.sciencedirect.com/journal/sustainable-cities-and-society), ["Pattern Recognition"](https://www.sciencedirect.com/journal/pattern-recognition), ["Neural Networks"](https://www.sciencedirect.com/journal/neural-networks), ["Applied Energy"](https://www.sciencedirect.com/journal/applied-energy) and [“Automatica”](https://www.journals.elsevier.com/automatica). He acts as an academic editor for [PLOS ONE](https://journals.plos.org/plosone/) and an associate editor for the [Journal of Information Systems and Operational Research (INFOR)](https://www.tandfonline.com/journals/tinf20). 
+He received his B.Eng. degree in Electronic Engineering with first-class honours, ranked first in his class, from [National University of Ireland Maynooth](https://www.maynoothuniversity.ie/) in 2011, and his PhD in Control Engineering and Decision Science from the [Hamilton Institute](https://www.maynoothuniversity.ie/hamilton) at the same university in 2015. His PhD thesis, [“Topics in Electromobility and Related Applications”](http://mural.maynoothuniversity.ie/6522/), was supervised by Prof Robert Shorten (Imperial College London) and Prof Sean McLoone (Queen's University Belfast).
 
-Since 2018, he has secured more than 3 million euros in research funding from various sources as the PI. He has actively participated in many academic activities, including technical committees, organisation committees and management committees at both national and international levels. He is the Irish national representative for the EU COST Action [CA19126](https://www.cost.eu/actions/CA19126/), [CA20138](https://www.cost.eu/actions/CA20138/), [CA21131](https://www.cost.eu/actions/CA21131/) and [CA24121](https://www.cost.eu/actions/CA24121/).
+He is an IEEE Senior Member and a Fellow of the Higher Education Academy. He has published over 70 peer-reviewed papers in leading journals and conferences across machine learning, control, optimisation, intelligent transportation systems, smart grids, cloud computing, healthcare and sustainable cities. He serves as an academic editor for [PLOS ONE](https://journals.plos.org/plosone/) and an associate editor for the [Journal of Information Systems and Operational Research (INFOR)](https://www.tandfonline.com/journals/tinf20).
 
-Research Interests
+Since 2018, he has secured more than €3 million in research funding as Principal Investigator. He is also the Irish national representative for EU COST Actions [CA19126](https://www.cost.eu/actions/CA19126/), [CA20138](https://www.cost.eu/actions/CA20138/), [CA21131](https://www.cost.eu/actions/CA21131/) and [CA24121](https://www.cost.eu/actions/CA24121/).
+
+
+Research Themes
 ======
-*  5G & IoT Applications 
-*  Edge, Fog and Cloud Computing 
-*  Linear and Nonlinear Dynamical Systems 
-*  Machine Learning, Deep Learning, Data Science, SRE/MLOps 
-*  Centralized, Decentralized, Distributed Control, Algorithms, Optimization 
-*  E-Mobility, Smart Grids, Smart Transportation, Smart Healthcare, Smart Cities
+
+* **Trustworthy and Applied AI for Intelligent Systems**: machine learning, deep learning, graph-based modelling, explainable AI, privacy-preserving learning and human-centred decision support.
+* **Smart Mobility and Sustainable Cities**: intelligent transportation systems, e-mobility, shared mobility, urban sensing, traffic simulation and AI-enabled digital twins.
+* **Cloud Systems, SRE and Operational Intelligence**: anomaly detection, multivariate time-series modelling, graph neural networks, MLOps/SRE and AI for cloud-native systems.
+* **Healthcare and Environmental Intelligence**: multimodal machine learning for medical imaging, air quality, pollen, environmental sensing and citizen-centred digital services.
+* **Energy Systems and E-Mobility**: smart grids, electric vehicles, energy optimisation, distributed decision-making and sustainable infrastructure.
+* **Control, Optimisation and Cyber-Physical Systems**: linear and nonlinear dynamical systems, distributed control, decentralised optimisation and learning-enabled decision systems.
 
 
-Project Experience 
+Selected Funded Projects and Project Experience
 ======
-* [SFI Challenge Call](https://www.researchireland.ie/news/ncf-finalists/), Co-PI, Funded with Grant €1.5 million.
-* [Huawei Cloud Project](https://www.dcu.ie/sites/default/files/inline-files/RF1899a%20Postdoctoral%20Researcher%20-%20Huawei%20Cloud%20INSIGHT%20JD.pdf), PI, Funded with Grant €300k.
-* [SFI Frontiers for the Future Programme](https://lnkd.in/ejxwqNCr), PI, Funded with Grant €335k, co-funded by Google Cloud Research (PI, €5k)
-* [Huawei SRE Project](https://www.dcu.ie/sites/default/files/inline-files/rf1531-postdoctoral-researcher-huawei-project-jd.pdf), PI, Funded with Grant €270k+
-* [5G-Solutions](https://www.5gsolutionsproject.eu/) (EU H2020), PI, WP Lead, Grant €660k+
-* [VI-DAS](http://www.vi-das.eu/) (EU H2020), PI, WP Lead, Grant €600k+
-* [Insight DCU TU/IoT](https://www.insight-centre.org/tu-iot-collaborations-2022/), Co-PI with Prof. A. Smeaton et al., Grant €50k, co-funded by Google Cloud Research (PI, €5k)  
-* [DCU APT Seed Funding Programme](https://aptcentre.ie/), PI, Grant €5k. 
-* [ECIU Seed Funding Programme](https://www.eciu.eu/), PI, Coordinator, Grant €26k. 
-* [ICONET](https://www.iconetproject.eu/) (EU H2020), Task Tech Lead
-* [Chariot](https://www.chariotproject.eu/) (EU H2020), Task Tech Contributor 
-* [COPKIT](https://copkit.eu/) (EU H2020), Task Tech Contributor 
-* [Enable-S3](https://cordis.europa.eu/project/id/692455) (EU H2020), Task Tech Contributor
-* [Green Transportation and Communication Networks](https://www.hamilton.ie/new-3m-research-project-in-green-transport-and-communications-networks-announced.htm) (SFI), Task Tech Contributor
 
-Research Group 
+* [SFI / Research Ireland National Challenge Fund](https://www.researchireland.ie/news/ncf-finalists/), Co-PI, funded with grant support of €1.5 million.
+* BOHEMIAN: Biological and Chemical Aerosol Monitoring and Modelling, Co-PI, Research Ireland National Challenge Fund.
+* [Huawei Cloud Project](https://www.dcu.ie/sites/default/files/inline-files/RF1899a%20Postdoctoral%20Researcher%20-%20Huawei%20Cloud%20INSIGHT%20JD.pdf), PI, funded with grant support of €300k.
+* [SFI Frontiers for the Future Programme](https://lnkd.in/ejxwqNCr), PI, funded with grant support of €335k, co-funded by Google Cloud Research.
+* [Huawei SRE Project](https://www.dcu.ie/sites/default/files/inline-files/rf1531-postdoctoral-researcher-huawei-project-jd.pdf), PI, funded with grant support of €270k+.
+* [5G-Solutions](https://www.5gsolutionsproject.eu/) EU H2020, PI and Work Package Lead, grant support of €660k+.
+* [VI-DAS](http://www.vi-das.eu/) EU H2020, PI and Work Package Lead, grant support of €600k+.
+* [Insight DCU TU/IoT](https://www.insight-centre.org/tu-iot-collaborations-2022/), Co-PI with Prof A. Smeaton and collaborators, co-funded by Google Cloud Research.
+* [ECIU Seed Funding Programme](https://www.eciu.eu/), PI and Coordinator.
+* EU H2020 technical leadership and contributor roles in [ICONET](https://www.iconetproject.eu/), [CHARIOT](https://www.chariotproject.eu/), [COPKIT](https://copkit.eu/) and [Enable-S3](https://cordis.europa.eu/project/id/692455).
+
+
+Research Group
 ======
-I am the leader of the [Applied Machine Learning Research Group](https://mingmingliu.net/lab/) at DCU. I am always actively looking for highly motivated Ph.D students, Postdocs, and visiting scholars to work or collaborate with me. If you are interested in this perspective, please send me an email along with your CV, academic transcripts, English certificate, as well as other supporting documents which may demonstrate your research capability and potential.
-Please note that if your application is positive, you should typically expect to receive a response from me within a week (holiday period excluded).
+
+I lead the [Applied Machine Learning Research Group](https://mingmingliu.net/lab/) at DCU. The group works on applied machine learning, trustworthy AI, optimisation and intelligent decision support for real-world systems, with current applications in smart mobility, cloud systems, healthcare, environmental intelligence and energy systems.
+
+I welcome expressions of interest from highly motivated PhD candidates, postdoctoral researchers, visiting scholars and research collaborators. Prospective applicants should send me an email with a CV, academic transcripts, English-language certificate where applicable, and any supporting documents that demonstrate research capability and potential.
+
+Due to the volume of enquiries, only applicants whose profiles are a good fit for current opportunities should typically expect a response within one week, excluding holiday periods.
 
 Recent News
 ======
