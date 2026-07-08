@@ -27,7 +27,7 @@ Dr Mingming Liu is a tenured Associate Professor in the [School of Electronic En
 
 His research group develops machine learning, optimisation, graph-based modelling, privacy-preserving analytics and decision-support methods for real-world cyber-physical and socio-technical systems. The work is strongly application-driven and is carried out in collaboration with academic, public-sector and industrial partners.
 
-Before joining DCU, he was a Data Scientist, Applied Researcher and H2020 Technical Lead at [IBM Ireland Lab](https://www.ibm.com/ie-en), where he worked on machine learning and applied optimisation for industrial systems. Before IBM, he was a Senior Postdoctoral Research Fellow and Postdoctoral Research Fellow at [University College Dublin](http://www.ucd.ie/), working on EU and SFI-funded projects in control engineering, decision science and intelligent transportation systems.
+Before joining DCU, he was a Data Scientist, Applied Researcher and H2020 Project Lead at [IBM Ireland Lab](https://www.ibm.com/ie-en), where he worked on machine learning and applied optimisation for industrial systems. Before IBM, he was a Senior Postdoctoral Research Fellow at [University College Dublin](http://www.ucd.ie/), working on EU and SFI-funded projects in control engineering, decision science and intelligent transportation systems.
 
 He received his B.Eng. degree in Electronic Engineering with first-class honours, ranked first in his class, from [National University of Ireland Maynooth](https://www.maynoothuniversity.ie/) in 2011, and his PhD in Control Engineering and Decision Science from the [Hamilton Institute](https://www.maynoothuniversity.ie/hamilton) at the same university in 2015. His PhD thesis, [“Topics in Electromobility and Related Applications”](http://mural.maynoothuniversity.ie/6522/), was supervised by Prof Robert Shorten (Imperial College London) and Prof Sean McLoone (Queen's University Belfast).
 
@@ -47,20 +47,22 @@ Research Themes
 * **Control, Optimisation and Cyber-Physical Systems**: linear and nonlinear dynamical systems, distributed control, decentralised optimisation and learning-enabled decision systems.
 
 
-Selected Funded Projects and Project Experience
+Project Experience 
 ======
-
-* [SFI / Research Ireland National Challenge Fund](https://www.researchireland.ie/news/ncf-finalists/), Co-PI, funded with grant support of €1.5 million.
-* BOHEMIAN: Biological and Chemical Aerosol Monitoring and Modelling, Co-PI, Research Ireland National Challenge Fund.
-* [Huawei Cloud Project](https://www.dcu.ie/sites/default/files/inline-files/RF1899a%20Postdoctoral%20Researcher%20-%20Huawei%20Cloud%20INSIGHT%20JD.pdf), PI, funded with grant support of €300k.
-* [SFI Frontiers for the Future Programme](https://lnkd.in/ejxwqNCr), PI, funded with grant support of €335k, co-funded by Google Cloud Research.
-* [Huawei SRE Project](https://www.dcu.ie/sites/default/files/inline-files/rf1531-postdoctoral-researcher-huawei-project-jd.pdf), PI, funded with grant support of €270k+.
-* [5G-Solutions](https://www.5gsolutionsproject.eu/) EU H2020, PI and Work Package Lead, grant support of €660k+.
-* [VI-DAS](http://www.vi-das.eu/) EU H2020, PI and Work Package Lead, grant support of €600k+.
-* [Insight DCU TU/IoT](https://www.insight-centre.org/tu-iot-collaborations-2022/), Co-PI with Prof A. Smeaton and collaborators, co-funded by Google Cloud Research.
-* [ECIU Seed Funding Programme](https://www.eciu.eu/), PI and Coordinator.
-* EU H2020 technical leadership and contributor roles in [ICONET](https://www.iconetproject.eu/), [CHARIOT](https://www.chariotproject.eu/), [COPKIT](https://copkit.eu/) and [Enable-S3](https://cordis.europa.eu/project/id/692455).
-
+* [SFI Challenge Call](https://www.researchireland.ie/news/ncf-finalists/), Co-PI, Funded with Grant €1.5 million.
+* [Huawei Cloud Project](https://www.dcu.ie/sites/default/files/inline-files/RF1899a%20Postdoctoral%20Researcher%20-%20Huawei%20Cloud%20INSIGHT%20JD.pdf), PI, Funded with Grant €300k.
+* [SFI Frontiers for the Future Programme](https://lnkd.in/ejxwqNCr), PI, Funded with Grant €335k, co-funded by Google Cloud Research (PI, €5k)
+* [Huawei SRE Project](https://www.dcu.ie/sites/default/files/inline-files/rf1531-postdoctoral-researcher-huawei-project-jd.pdf), PI, Funded with Grant €270k+
+* [5G-Solutions](https://www.5gsolutionsproject.eu/) (EU H2020), PI, WP Lead, Grant €660k+
+* [VI-DAS](http://www.vi-das.eu/) (EU H2020), PI, WP Lead, Grant €600k+
+* [Insight DCU TU/IoT](https://www.insight-centre.org/tu-iot-collaborations-2022/), Co-PI with Prof. A. Smeaton et al., Grant €50k, co-funded by Google Cloud Research (PI, €5k)  
+* [DCU APT Seed Funding Programme](https://aptcentre.ie/), PI, Grant €5k. 
+* [ECIU Seed Funding Programme](https://www.eciu.eu/), PI, Coordinator, Grant €26k. 
+* [ICONET](https://www.iconetproject.eu/) (EU H2020), Task Tech Lead
+* [Chariot](https://www.chariotproject.eu/) (EU H2020), Task Tech Contributor 
+* [COPKIT](https://copkit.eu/) (EU H2020), Task Tech Contributor 
+* [Enable-S3](https://cordis.europa.eu/project/id/692455) (EU H2020), Task Tech Contributor
+* [Green Transportation and Communication Networks](https://www.hamilton.ie/new-3m-research-project-in-green-transport-and-communications-networks-announced.htm) (SFI), Task Tech Contributor
 
 Research Group
 ======
