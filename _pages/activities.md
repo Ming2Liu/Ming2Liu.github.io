@@ -7,7 +7,7 @@ author_profile: true
 
 * IEEE Senior Member
 * Academic Editor for PLOS ONE
-* IEEE Power & Energy Socieity Member
+* IEEE Power & Energy Society Member
 * IEEE Intelligent Transportation Society Member
 * IEEE ICNP 2017 Technical Programme Committee Member 
 * Urban Transportation Systems and Mobility Editorial Board Member

@@ -53,7 +53,7 @@ author_profile: true
   <div style="flex: 1;">
     <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Hoa Xuan Nguyen</h2>
     <p style="color: #1a1a1a; font-size: 16px; line-height: 1.6; margin-top: 0;">
-        Dr Hoa Nguyen received his PhD in Civil, Structural and Environmental Engineering from Trinity College Dublin in 2022. He is now working as a postdoctoral researcher in Oxford University. His research interest include graph neural networks with applications to cloud systems. 
+        Dr Hoa Nguyen received his PhD in Civil, Structural and Environmental Engineering from Trinity College Dublin in 2022. He is now working as a postdoctoral researcher in Oxford University. His research interests include graph neural networks with applications to cloud systems. 
     </p>
   </div>
 </div>
@@ -143,7 +143,7 @@ author_profile: true
   <div style="flex: 1;">
     <h2 style="color: #a7c7e7; font-size: 24px; margin: 0 0 10px 0;">Zhongyang Li</h2>
     <p style="color: #1a1a1a; font-size: 16px; line-height: 1.6; margin-top: 0;">
-       Zhongyang is a PhD researcher under joint supervision of Dr Xiaojun Wang and Dr Mingming Liu at DCU. He received his Bchelor degree in Communication Engineering from Communication University of China in 2024. His research interests include machine learning and its application to modern communication systems.      
+       Zhongyang is a PhD researcher under joint supervision of Dr Xiaojun Wang and Dr Mingming Liu at DCU. He received his Bachelor degree in Communication Engineering from Communication University of China in 2024. His research interests include machine learning and its application to modern communication systems.      
     </p>
   </div>
 </div>
