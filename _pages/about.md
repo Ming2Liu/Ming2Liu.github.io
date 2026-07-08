@@ -69,9 +69,7 @@ Research Group
 
 I lead the [Applied Machine Learning Research Group](https://mingmingliu.net/lab/) at DCU. The group works on applied machine learning, trustworthy AI, optimisation and intelligent decision support for real-world systems, with current applications in smart mobility, cloud systems, healthcare, environmental intelligence and energy systems.
 
-I welcome expressions of interest from highly motivated PhD candidates, postdoctoral researchers, visiting scholars and research collaborators. Prospective applicants should send me an email with a CV, academic transcripts, English-language certificate where applicable, and any supporting documents that demonstrate research capability and potential.
-
-Due to the volume of enquiries, only applicants whose profiles are a good fit for current opportunities should typically expect a response within one week, excluding holiday periods.
+I welcome expressions of interest from highly motivated PhD candidates, postdoctoral researchers, visiting scholars and research collaborators. Prospective applicants should send me an email with a CV, academic transcripts, English-language certificate where applicable, and any supporting documents that demonstrate research capability and potential. Due to the volume of enquiries, only applicants whose profiles are a good fit for current opportunities should typically expect a response within one week, excluding holiday periods.
 
 Recent News
 ======
