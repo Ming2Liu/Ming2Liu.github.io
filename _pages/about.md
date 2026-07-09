@@ -39,13 +39,23 @@ Since 2018, he has secured more than €3 million in research funding as Princip
 Research Themes
 ======
 
-* **Trustworthy and Applied AI for Intelligent Systems**: machine learning, deep learning, graph-based modelling, explainable AI, privacy-preserving learning and human-centred decision support.
-* **Smart Mobility and Sustainable Cities**: intelligent transportation systems, e-mobility, shared mobility, urban sensing, traffic simulation and AI-enabled digital twins.
-* **Cloud Systems, SRE and Operational Intelligence**: anomaly detection, multivariate time-series modelling, graph neural networks, MLOps/SRE and AI for cloud-native systems.
-* **Healthcare and Environmental Intelligence**: multimodal machine learning for medical imaging, air quality, pollen, environmental sensing and citizen-centred digital services.
-* **Energy Systems and E-Mobility**: smart grids, electric vehicles, energy optimisation, distributed decision-making and sustainable infrastructure.
-* **Control, Optimisation and Cyber-Physical Systems**: linear and nonlinear dynamical systems, distributed control, decentralised optimisation and learning-enabled decision systems.
+* **Trustworthy and Applied AI for Intelligent Systems**  
+  Machine learning, deep learning, graph-based modelling, explainable AI, privacy-preserving learning and human-centred decision support.
 
+* **Smart Mobility and Sustainable Cities**  
+  Intelligent transportation systems, e-mobility, shared mobility, urban sensing, traffic simulation and AI-enabled digital twins.
+
+* **Cloud Systems, SRE and Operational Intelligence**  
+  Anomaly detection, multivariate time-series modelling, graph neural networks, MLOps/SRE and AI for cloud-native systems.
+
+* **Healthcare and Environmental Intelligence**  
+  Multimodal machine learning for medical imaging, air quality, pollen, environmental sensing and citizen-centred digital services.
+
+* **Energy Systems and E-Mobility**  
+  Smart grids, electric vehicles, energy optimisation, distributed decision-making and sustainable infrastructure.
+
+* **Control, Optimisation and Cyber-Physical Systems**  
+  Linear and nonlinear dynamical systems, distributed control, decentralised optimisation and learning-enabled decision systems.
 
 Project Experience 
 ======
