@@ -40,22 +40,23 @@ Research Themes
 ======
 
 * **Trustworthy and Applied AI for Intelligent Systems**  
-  Machine learning, deep learning, graph-based modelling, explainable AI, privacy-preserving learning and human-centred decision support.
+  LLM-based agents, retrieval-augmented generation (RAG), explainable AI, privacy-preserving learning, AI assurance and human-centred decision support.
 
 * **Smart Mobility and Sustainable Cities**  
-  Intelligent transportation systems, e-mobility, shared mobility, urban sensing, traffic simulation and AI-enabled digital twins.
+  Intelligent transportation systems, shared mobility, urban sensing, spatio-temporal traffic modelling, traffic simulation, route optimisation and AI-enabled digital twins.
+
+* **Energy Systems and E-Mobility**  
+  Smart grids, EV charging and grid integration, energy forecasting and optimisation, distributed energy management and sustainable infrastructure.
 
 * **Cloud Systems, SRE and Operational Intelligence**  
-  Anomaly detection, multivariate time-series modelling, graph neural networks, MLOps/SRE and AI for cloud-native systems.
+  System observability, anomaly detection, multivariate time-series modelling, graph neural networks, MLOps/SRE, resource optimisation and resilient cloud-native systems.
+
+* **Control, Optimisation and Cyber-Physical Systems**  
+  Linear and nonlinear dynamical systems, distributed and learning-based control, decentralised optimisation, reinforcement learning and decision-making under uncertainty.
 
 * **Healthcare and Environmental Intelligence**  
   Multimodal machine learning for medical imaging, air quality, pollen, environmental sensing and citizen-centred digital services.
 
-* **Energy Systems and E-Mobility**  
-  Smart grids, electric vehicles, energy optimisation, distributed decision-making and sustainable infrastructure.
-
-* **Control, Optimisation and Cyber-Physical Systems**  
-  Linear and nonlinear dynamical systems, distributed control, decentralised optimisation and learning-enabled decision systems.
 
 Project Experience 
 ======
