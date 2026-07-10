@@ -40,7 +40,7 @@ Research Themes
 ======
 
 * **Trustworthy and Applied AI for Intelligent Systems**  
-  LLM-based agents, retrieval-augmented generation (RAG), explainable AI, privacy-preserving learning, AI assurance and human-centred decision support.
+  LLM-based agents, retrieval-augmented generation, explainable AI, privacy-preserving learning, AI assurance and human-centred decision support.
 
 * **Smart Mobility and Sustainable Cities**  
   Intelligent transportation systems, shared mobility, urban sensing, spatio-temporal traffic modelling, traffic simulation, route optimisation and AI-enabled digital twins.
