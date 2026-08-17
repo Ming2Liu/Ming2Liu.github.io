@@ -84,6 +84,7 @@ I welcome expressions of interest from highly motivated PhD candidates, postdoct
 
 Recent News
 ======
+* Aug, 2026: I have joined the Rinn AI Centre at Dublin City University as a PI. 
 * Jul, 2026: I have been promoted to Associate Professor at Dublin City University.
 * Jun, 2026: Our paper ["A Clinician-Informed Translational Roadmap for PET-Free MRI-Based Amyloid-Beta Assessment in Alzheimer's Disease"](https://doras.dcu.ie/33308/) has been accepted by Medical Image Understanding and Analysis (MIUA) 2026. 
 * May, 2026: Our paper ["HiLLTS: Zero-Shot Hierarchical LLM Traffic Signal Control for Sustainable Transportation Networks"](https://arxiv.org/abs/2607.22691) has been accepted for publication at the 2026 IEEE 29th International Conference on Intelligent Transportation Systems (ITSC).
