@@ -84,6 +84,7 @@ I welcome expressions of interest from highly motivated PhD candidates, postdoct
 
 Recent News
 ======
+* Sep, 2026: I am serving on the Programme Committee of the 2026 IEEE International Conference on Big Data (IEEE BigData 2026).
 * Aug, 2026: Our proposal, “MRI-Only Amyloid-β Assessment to Prioritize Confirmatory Testing in Alzheimer’s Disease” has been accepted for an oral presentation at the MICCAI 2026 METIS Workshop in Strasbourg, France.
 * Aug, 2026: I have joined the Rinn AI Centre at Dublin City University as a PI. 
 * Jul, 2026: I have been promoted to Associate Professor at Dublin City University.
