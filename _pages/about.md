@@ -84,7 +84,7 @@ I welcome expressions of interest from highly motivated PhD candidates, postdoct
 
 Recent News
 ======
-* Nov, 2026: I have been awarded the Senior Fellowship of Advance HE (SFHEA) by Advance HE. 
+* Nov, 2026: I have been awarded the Senior Fellowship of Advance HE (SFHEA).
 * Nov, 2026: Our paper “Machine Learning in Micromobility: A Systematic Review of Datasets, Techniques, and Applications” has been accepted for the IEEE Transactions on Intelligent Vehicles.
 * Oct, 2026: Two of our papers have been accepted at AICS 2026.
 * Oct, 2026: I gave an invited talk entitled [“Addressing Real-World Challenges with Applied Machine Learning”](http://ming2liu.github.io/files/hdu_talk.jpg) at the 10th China-Ireland Conference on Information and Communications Technologies (CIICT 2026), held at Hangzhou Dianzi University, China.
