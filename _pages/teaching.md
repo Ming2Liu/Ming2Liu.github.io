@@ -49,10 +49,10 @@ author_profile: true
 * **H. Wu** – M.Res in Electronic Engineering, DCU (Principal Supervisor)
 
 ### Taught Masters (Principal Supervisor)
-* **MSc in IoT (DCU):** S. Venkatesan, R. Singh, Nitika, M. Chinta, A. Mohammadhoseini, J. Bryan, H. Kumar, I. Yadav, S. Venkatesan, R. Singh, N. Singh, J. Olagbemiro, J. Sajor, J. Good, C. Jones, J. Zhang, X. Wu, R. Namburi, K. Liang, P. Leroux, J. Motarugadde, Z. Zhong.
-* **MSc in IoT (DCU-Wuhan University):** Y. Li, Z. Sun.
-* **MEng Electronic Engineering:** N. Srinivas, R. Dhakshinamurthy, D. Puttaswamy, S. Mukhopadhyay, S. Srinivas.
-* **MEng Mechatronic Engineering:** T. Liu.
+* **MSc in IoT (DCU):** S. Venkatesan, R. Singh, Nitika, M. Chinta, A. Mohammadhoseini, J. Bryan, H. Kumar, I. Yadav, S. Venkatesan, R. Singh, N. Singh, J. Olagbemiro, J. Good, C. Jones, J. Zhang, X. Wu, R. Namburi, K. Liang, P. Leroux, J. Motarugadde, Z. Zhong.
+* **MSc in IoT (DCU-Wuhan University):** Y. Li, Z. Sun, Y. Liu, Z. Wang.
+* **MEng Electronic Engineering:** N. Srinivas, R. Dhakshinamurthy, D. Puttaswamy, S. Mukhopadhyay, S. Srinivas, E. Dargan Hayes, L. Růžička, J. L. C. Sajor.
+* **MEng Mechatronic Engineering:** T. Liu, S. Ahern, R. Bagley.
 
 ### Taught Masters (Co-Supervision)
 * **S. Chandra** – MSc Computing, DCU (with T. Ward)
@@ -62,7 +62,7 @@ author_profile: true
 ---
 
 ## Undergraduate Students (B.Eng)
-* **Electronic Engineering:** B. Crane, C. McCarthy, J. Olagbemiro, A. Mahiluddin, C. Kenneally, J. McConnon, J. Adove, Z. Murphy.
+* **Electronic Engineering:** B. Crane, C. McCarthy, J. Olagbemiro, A. Mahiluddin, C. Kenneally, J. McConnon, J. Adove, Z. Murphy, S. Williams, E. S. Chen.
 * **Mechatronic Engineering:** C. Muli, D. O. Hanrahan.
 
 ---
